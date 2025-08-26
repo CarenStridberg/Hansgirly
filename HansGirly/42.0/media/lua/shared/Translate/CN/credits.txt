@@ -1,3 +1,6 @@
+B42版本内容汉化:
+如一组 (As1)
+
 老版汉化组成员：
 Sky_Orc_Mm
 Misha (紗紗)
@@ -39,6 +42,3 @@ Flying Penguin
 AZ
 taoran
 eva08maicy02
-
-整合及补充:
-GirlyHans (女人同学汉化组)
