@@ -2568,7 +2568,7 @@
             <point x="3297.0" y="12255.0"/>
         </points>
     </street>
-    <street name="回音溪路" width="5">
+    <street name="回音河路" width="5">
         <points>
             <point x="2621.0" y="11902.0"/>
             <point x="2637.0" y="11886.0"/>
