@@ -1187,7 +1187,7 @@ UI_CN = {
     UI_servers_showVanillaServer = "显示原版服务器",
     UI_servers_showModdedServer = "显示模组服务器",
     UI_servers_showFullServer = "显示已满的服务器",
-    UI_servers_showLargeServer_warning = "<H1> 公 共 服 务 通 知 <BR> <TEXT> <IMAGECENTRE: media/ui/spiffoWarning.png> <LINE><LINE> "..
+    UI_servers_showLargeServer_warning = "<H1> 公 共 服 务 通 知 <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoWarning.png> <LINE><LINE> "..
                                          "<CENTRE> <SIZE:large> 若 服 务 器 人 数 超 过 32 人 , 那 么 地 图 传 输 和 同 步 可 能 会 出 现 问 题 . 请 谨 慎 操 作 . <LINE><LINE> " ..
                                          "<CENTRE> <SIZE:large> 希 望 大 家 理 解 . 我 们 正 在 改 进 , 修 复 此 问 题 . <LINE><LINE> ",
     UI_ServerConnectPopup_Label = "你将要连接到: ",
@@ -1792,11 +1792,11 @@ UI_CN = {
     UI_NewGame_Builder = "建筑师",
     UI_NewGame_Builder_desc = "以建设, 探索和种田为重点, 更轻松的体验.",
     UI_NewGame_Sandbox_desc2 = "量身设计你自己的难度和游戏风格.",
-    UI_News_Anim3 = "<H1> 42.8 引 入 了 布 娃 娃 系 统 ! <LINE><LINE> <TEXT> <VIDEOCENTRE: MainMenuRagdolls.bik, 1920, 1080, 480, 270> <LINE> "..
+    UI_News_Anim3 = "<H1> 42.8 引 入 了 布 娃 娃 系 统 ! <LINE><LINE> <TEXT> <VIDEOCENTRE:MainMenuRagdolls.bik, 1920, 1080, 480, 270> <LINE> "..
                     "<CENTRE> <SIZE:large> 布 娃 娃 系 统 是 新 近 引 入 的 特 性 , 需 要 更 多 测 试 和 反 馈 加 以 完 善 . <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> 游 戏 崩 溃 的 可 能 性 不 大 , 但 仍 旧 可 能 发 生 . <LINE><LINE><LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> 你 想 启 用 布 娃 娃 系 统 吗 ? <LINE> ( 布 娃 娃 系 统 可 以 在 设 置 里 随 时 开 关 ) <LINE><LINE> ",
-    UI_News_Anim = "<H1> 欢 迎 游 玩 B41 公 开 测 试 版 ! <BR> <TEXT> <IMAGECENTRE: media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
+    UI_News_Anim = "<H1> 欢 迎 游 玩 B41 公 开 测 试 版 ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> 这 是 僵 毁 有 史 以 来 最 大 的 代 码 更 新 进 程 . <LINE><LINE> " ..
                     "<CENTRE> 游 戏 中 可 能 会 有 bug 和 平 衡 性 问 题 . 我 们 目 前 正 在 进 行 优 化 . <LINE><LINE> " ..
                     "<CENTRE> 一 些 特 性 已 被 暂 时 禁 用 . <LINE><LINE> " ..
