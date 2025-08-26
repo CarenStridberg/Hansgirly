@@ -88,3 +88,23 @@ font SdfRegular
 {
 	fnt = zomboidMediumCN.fnt,
 }
+
+font SdfOldBold
+{
+	fnt = zomboidLargeCN.fnt,
+}
+
+font SdfOldBoldItalic
+{
+	fnt = zomboidLargeCN.fnt,
+}
+
+font SdfOldRegular
+{
+	fnt = zomboidLargeCN.fnt,
+}
+
+font SdfRobertoSans
+{
+	fnt = zomboidLargeCN.fnt,
+}
