@@ -4,3 +4,4 @@ id=B42Trans_CN
 description=B42游戏本体汉化 (试行版)
 author=如一组 (As1)
 icon=CN.png
+incompatible=\B42Trans_CN_Simple
