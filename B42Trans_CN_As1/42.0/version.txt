@@ -34,6 +34,8 @@ v1.0 2025.08.27
 Workshop ID: 3556544454
 Mod ID: B42Trans_CN
 Mod ID: B42Trans_CN_Simple
+Map Folder: Riverside, KY
+Map Folder: Riverside, KY
 
 v1.1 2025.08.27
 修复了简单版的书名仍然显示为全名的问题。
@@ -42,7 +44,16 @@ v1.1 2025.08.27
 
 v1.2 2025.08.28
 补充了更多翻译项。
+修改了部分与报纸有关的翻译项，使其更加整洁。
 
 v1.3 2025.08.30
 修改了部分与报纸有关的翻译项，使其更加整洁。
 将IGUI_RecipeCategory_修改为UI_CraftCat_。
+已知仍存在的问题：
+鼠标悬停于道路上时显示“???”。
+地图大标签未翻译。
+--待翻译内容位于media\maps\Muldraugh, KY\worldmap-annotations.lua。此文件被media\lua\client\ISUI\Maps\ISMapDefinitions.lua及media\lua\client\ISUI\Maps\Editor\WorldMapEditorMode_Annotations.lua引用。
+部分译文不统一。
+部分传单未汉化。
+地图选择界面的地图未汉化。
+部分报纸排版需要优化。
