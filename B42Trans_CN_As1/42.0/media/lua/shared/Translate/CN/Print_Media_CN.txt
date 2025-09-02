@@ -52,7 +52,7 @@ Print_Media_KnoxKnews_July2_info = "<type:parent, width:805, height:910>"..
 "<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
 "<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:789, height:900, pivotX:1, pivotY:1, scaleX:-1, scaleY:-1, angle:0, a:0.4>"..
 "<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold> 迪 莉 娅 号 无 限 期 停 泊 在 勃 兰 登 堡 ""..
-"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Chapelmount Downs 计 划 修 建 弗 吉 尼 亚 赛 道 "..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold> 圣 堂 山 马 场 计 划 修 建 弗 吉 尼 亚 赛 道 "..
 "<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold> 参 见 第 2 页 "..
 "<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold> 参 见 第 4 页 "..
 "<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold> 周 五 "..
@@ -818,7 +818,7 @@ Print_Media_FashionaBelle_title = "FashionaBelle",
 
 Print_Media_TacodelPancho_title = "Taco del Pancho",
 
-Print_Media_CrossRoadsMall_title = "Crossroads Mall",
+Print_Media_CrossRoadsMall_title = "十字路口购物中心",
 
 Print_Media_UStoreItRiverside_title = "U-Store It (Riverside)",
 
@@ -844,11 +844,11 @@ Print_Media_Fossoil8_title = "福索石油 (南路易斯维尔)",
 
 Print_Media_Delilah_title = "迪莉娅号蒸汽船",
 
-Print_Media_ChapelmountDownsRacetrack_title = "Chapelmount Downs Racetrack",
+Print_Media_ChapelmountDownsRacetrack_title = "圣堂山马场赛道",
 
 Print_Media_BensCabin_title = "Cabin for Rent (West Point)",
 
-Print_Media_GrandOhioMall_title = "Grand Ohio Mall",
+Print_Media_GrandOhioMall_title = "俄亥俄购物中心",
 
 Print_Media_DragRacingTrack_title = "Drag Racing Track",
 
@@ -858,7 +858,7 @@ Print_Media_FossoilField_title = "Fossoil Field",
 
 Print_Media_SunstarMotel_title = "Sunstar Motel",
 
-Print_Media_HavishamSuites_title = "Havisham Suites",
+Print_Media_HavishamSuites_title = "哈维沙姆酒店套房",
 
 Print_Media_LouisvilleBruiser_title = "Louisville Bruiser Factory",
 
@@ -884,7 +884,7 @@ Print_Media_PizzaWhirled_title = "Pizza Whirled",
 
 Print_Media_PizzaWhirledJobAdRosewood_title = "Pizza Whirled (Rosewood)",
 
-Print_Media_PileoCrepeJobAdCrossRoadsMall_title = "Pile o' Crepe Job Ad (Crossroads Mall)",
+Print_Media_PileoCrepeJobAdCrossRoadsMall_title = "Pile o' Crepe Job Ad (十字路口购物中心)",
 
 Print_Media_HitVidsJobAdMarchRidge_title = "Hit Vids Job Ad (March Ridge)",
 
@@ -938,7 +938,7 @@ Print_Media_KnoxPackKitchens_title = "Knox Pack Kitchens",
 
 Print_Media_SunsetPinesFuneralHome_title = "Sunset Pines Funeral Home",
 
-Print_Media_CardinalPlaza_title = "Cardinal Plaza",
+Print_Media_CardinalPlaza_title = "红雀广场",
 
 Print_Media_CircuitalHealing_title = "Circuital Healing",
 
@@ -1235,7 +1235,7 @@ Print_Media_AmericanTire_title = "美国轮胎",
 Print_Media_AmericanTire_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/AmericanTire.png"), width:800, height:1131>",
 
-Print_Media_FarmingAndRuralSupplyDoeValley_title = "农业与乡村用品店 (多伊谷)",
+Print_Media_FarmingAndRuralSupplyDoeValley_title = "农业与乡村用品店 (雌鹿谷)",
 
 Print_Media_FarmingAndRuralSupplyDoeValley_info = "<type:parent, width:1616, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FarmingDV.png"), width:1616, height:1131>",

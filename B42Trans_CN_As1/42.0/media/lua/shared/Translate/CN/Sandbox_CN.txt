@@ -359,7 +359,7 @@ Sandbox_CN = {
 
 
     Sandbox_RollsMultiplier = "掷骰子倍率 [!]",
-    Sandbox_RollsMultiplier_tooltip = "<BHC> [!] 建议不要更改此设置. [!] <RGB:1, 1, 1>\n\n 可用于调整生成物品时在物品表上进行的掷骰子次数. 不会将掷骰子次数减少到 1 以下. 如果设置为高值, 可能会对性能产生负面影响. 强烈建议不要更改此设置."
+    Sandbox_RollsMultiplier_tooltip = "<BHC> [!] 建议不要更改此设置. [!] <RGB:1,1,1>\n\n 可用于调整生成物品时在物品表上进行的掷骰子次数. 不会将掷骰子次数减少到 1 以下. 如果设置为高值, 可能会对性能产生负面影响. 强烈建议不要更改此设置."
 
 	Sandbox_LootItemRemovalList = "物品物品移除列表",
 	Sandbox_LootItemRemovalList_tooltip = "一个逗号分隔的物品类型列表, 这些物品不会作为普通物品生成.",
@@ -1027,7 +1027,7 @@ Sandbox_CN = {
 	Sandbox_Abundant = "丰富",
 
     Sandbox_PlaceDirtAboveground = "非地表农场 [!]",
-    Sandbox_PlaceDirtAboveground_tooltip = "<BHC> [!] 建议不要更改此设置. 更改此设置可能会导致性能问题. [!] <RGB:1, 1, 1>\n\n当启用时, 可以在非地表放置泥土并进行耕作.",
+    Sandbox_PlaceDirtAboveground_tooltip = "<BHC> [!] 建议不要更改此设置. 更改此设置可能会导致性能问题. [!] <RGB:1,1,1>\n\n当启用时, 可以在非地表放置泥土并进行耕作.",
 
     Sandbox_FarmingSpeedNew = "作物生长速率",
     Sandbox_FarmingSpeedNew_tooltip = "作物生长速度.",

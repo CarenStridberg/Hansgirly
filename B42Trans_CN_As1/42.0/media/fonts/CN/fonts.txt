@@ -54,12 +54,32 @@ font NewSmall
 	fnt = zomboidSmallCN.fnt,
 }
 
+font AutoNormSmall
+{
+	fnt = zomboidSmallCN.fnt,
+}
+
 font NewMedium
 {
 	fnt = zomboidMediumCN.fnt,
 }
 
+font AutoNormMedium
+{
+	fnt = zomboidMediumCN.fnt,
+}
+
+font MediumNew
+{
+	fnt = zomboidMediumCN.fnt,
+}
+
 font NewLarge
+{
+	fnt = zomboidLargeCN.fnt,
+}
+
+font AutoNormLarge
 {
 	fnt = zomboidLargeCN.fnt,
 }
