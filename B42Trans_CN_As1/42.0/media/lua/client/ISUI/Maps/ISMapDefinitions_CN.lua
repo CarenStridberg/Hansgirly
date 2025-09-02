@@ -32,7 +32,7 @@ function MapUtils.initDirectoryAnnotations(mapUI, directory)
 	if fileExists(file) then
 		local annotationFunction = reloadLuaFile(file);
 		if type(annotationFunction) == "function" then
-            annotationFunction(mapUI);
-        end
+			annotationFunction(mapUI);
+		end
 	end
 end

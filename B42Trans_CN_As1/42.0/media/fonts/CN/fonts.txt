@@ -28,7 +28,7 @@ font Intro
 
 font Handwritten
 {
-	fnt = zomboidSmallCN.fnt,
+	fnt = zomboidMediumCN.fnt,
 }
 
 font MainMenu1
@@ -51,12 +51,12 @@ font Massive
 
 font NewSmall
 {
-	fnt = zomboidSmallCN.fnt,
+	fnt = zomboidMediumCN.fnt,
 }
 
 font AutoNormSmall
 {
-	fnt = zomboidSmallCN.fnt,
+	fnt = zomboidMediumCN.fnt,
 }
 
 font NewMedium
@@ -86,7 +86,7 @@ font AutoNormLarge
 
 font Small
 {
-	fnt = zomboidSmallCN.fnt,
+	fnt = zomboidMediumCN.fnt,
 }
 
 font Medium
@@ -125,6 +125,11 @@ font SdfOldRegular
 }
 
 font SdfRobertoSans
+{
+	fnt = zomboidLargeCN.fnt,
+}
+
+font SdfCaveat
 {
 	fnt = zomboidLargeCN.fnt,
 }
