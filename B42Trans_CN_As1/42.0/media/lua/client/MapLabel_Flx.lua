@@ -4,7 +4,7 @@ function MapLabelEdit.isAppropriateKey(text)
 	if not text or text == "" then
 		return nil
 	end
-	return text:find("^MapLabel_%a+$");	
+	return text:find("^MapLabel_[^%s<>]+$");	
 end
 
 function MapLabelEdit.applyChanges()
