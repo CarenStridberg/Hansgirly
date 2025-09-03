@@ -52,7 +52,7 @@ v1.3 2025.08.30
 已知仍存在的问题：
 鼠标悬停于道路上时显示“???”。
 地图大标签未翻译。
---待翻译内容位于media\maps\Muldraugh, KY\worldmap-annotations.lua。此文件被media\lua\client\ISUI\Maps\ISMapDefinitions.lua及media\lua\client\ISUI\Maps\Editor\WorldMapEditorMode_Annotations.lua引用。
+--待翻译内容位于media\maps\Muldraugh, KY\worldmap-annotations.lua。此文件被media\lua\client\ISUI\Maps\ISMapDefinitions.lua引用。
 部分译文不统一。
 部分传单未汉化。
 地图选择界面的地图未汉化。
@@ -66,4 +66,8 @@ v1.4-alpha 2025.08.30
 解决了地图大标签相关的部分译文不统一问题。
 修复了若干处译文错误。
 修复了使得沙盒设置的提示显示错误的一处问题。
-修复了若干于字体文件相关的错误。
+修复了若干与字体文件相关的错误。
+
+v1.4-beta 2025.09.03
+修复了与地图大标签有关的两项问题。
+--这是通过在加载地图时，阻止格式不正确的地图标签加载而实现的。
