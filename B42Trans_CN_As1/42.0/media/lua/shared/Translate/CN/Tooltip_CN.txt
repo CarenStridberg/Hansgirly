@@ -601,7 +601,7 @@ Tooltip_CN = {
 
 	Tooltip_Leather_DryingRack = "需要在皮革干燥架上干燥.",
 	Tooltip_Leather_SofteningBeam = "可以在软化梁上处理.",
-	Tooltip_Leather_TanninBarrel = "可以在丹宁桶中鞣制.",
+	Tooltip_Leather_TanninBarrel = "可以在单宁鞣制桶中鞣制.",
 	Tooltip_EggFertilized = "受精",
 	Tooltip_weapon_Sharpness = "锋利度",
 
