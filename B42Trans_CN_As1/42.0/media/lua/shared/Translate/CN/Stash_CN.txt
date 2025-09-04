@@ -283,7 +283,7 @@ Stash_CN = {
     Stash_RiversideStashMap6_Text12 = "希望那个变态的维科没有找到他们",
 
     Stash_RiversideStashMap7_Text1 = "全都不再是人类了",
-    Stash_RiversideStashMap7_Text2 = "现在前往 Giga 超市",
+    Stash_RiversideStashMap7_Text2 = "现在前往吉加超市",
     Stash_RiversideStashMap7_Text21 = "我不在的时候不要和桑德拉打架",
 
     Stash_RiversideStashMap8_Text1 = "给你留下了一些食物",
