@@ -45,8 +45,7 @@ font MainMenu2
 
 font Massive
 {
-	fnt = zombiefont5.fnt,
-	img = zombiefont5_0.png,
+	fnt = zomboidLargeCN.fnt,
 }
 
 font NewSmall
