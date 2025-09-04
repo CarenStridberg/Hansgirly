@@ -194,9 +194,9 @@ Stash_CN = {
     Stash_WpMap10_Text3 = "更多麻烦! ",
 	
     Stash_WpMap11_Text1 = "浣熊餐厅的经理曾留了一把霰弹枪在店里.",
-    Stash_WpMap11_Text11 = "疯狂的东西在这里! ",
-    Stash_WpMap11_Text2 = "没有人来过的的五金店.",
-    Stash_WpMap11_Text3 = "避免靠近这里, 离我远点! ",
+    Stash_WpMap11_Text11 = "鬼知道这儿有什么 ",
+    Stash_WpMap11_Text2 = "没有人来过的五金店.",
+    Stash_WpMap11_Text3 = "避免靠近这里, 别来找我! ",
 	
     Stash_WpMap12_Text1 = "办公室的每个人都发烧了.",
     Stash_WpMap12_Text11 = "在它们复活之前我就离开了.",

@@ -967,7 +967,7 @@ Sandbox_CN = {
     Sandbox_AnimalSoundAttractZombies = "动物吸引僵尸",
     Sandbox_AnimalSoundAttractZombies_tooltip = "如果开启, 动物的叫声会吸引附近的僵尸.",
     Sandbox_SeeNotLearntRecipe = "查看未知配方",
-    Sandbox_SeeNotLearntRecipe_tooltip = "如果开启, 即便没有阅读相关配方杂志, 您也能查看可以制作的的任何配方.",
+    Sandbox_SeeNotLearntRecipe_tooltip = "如果开启, 即便没有阅读相关配方杂志, 你也能查看可以制作的任何配方.",
     Sandbox_AnimalMatingSeason = "繁殖季节",
     Sandbox_AnimalMatingSeason_tooltip = "如果动物有繁殖季节, 它们是否会遵守. \n否则, 它们可以全年繁殖/产卵.",
     -- Physics

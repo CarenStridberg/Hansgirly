@@ -209,7 +209,7 @@ Moodles_CN = {
 	Moodles_Drunk_desc_lvl1 = "喝了一点酒.",
 	Moodles_Drunk_desc_lvl2 = "喝得稍微有点多. 身体协调能力轻微受影响.",
 	Moodles_Drunk_desc_lvl3 = "喝多了. 身体协调能力出现严重影响.",
-	Moodles_Drunk_desc_lvl4 = "只有你..和我….抵抗…这一切…世界..爱你..我..爱你.",
+	Moodles_Drunk_desc_lvl4 = "只有你…和我….抵抗…这一切…世界…爱你…我…爱你.",
 	-- Dead
 	Moodles_Dead_desc_lvl4 = "这就是你生命的终点. 马上就要成为鼠群的盘中餐了.",
 	-- Zombie
