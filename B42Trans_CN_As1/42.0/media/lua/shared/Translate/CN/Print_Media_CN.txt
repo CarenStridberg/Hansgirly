@@ -854,7 +854,7 @@ Print_Media_DragRacingTrack_title = "Drag Racing Track",
 
 Print_Media_ArtGalleryofLouisville_title = "Art Gallery of Louisville",
 
-Print_Media_FossoilField_title = "Fossoil Field",
+Print_Media_FossoilField_title = "福索石油球场",
 
 Print_Media_SunstarMotel_title = "Sunstar Motel",
 
@@ -884,7 +884,7 @@ Print_Media_PizzaWhirled_title = "Pizza Whirled",
 
 Print_Media_PizzaWhirledJobAdRosewood_title = "Pizza Whirled (Rosewood)",
 
-Print_Media_PileoCrepeJobAdCrossRoadsMall_title = "Pile o' Crepe Job Ad (十字路口购物中心)",
+Print_Media_PileoCrepeJobAdCrossRoadsMall_title = "可丽家招聘广告 (十字路口购物中心)",
 
 Print_Media_HitVidsJobAdMarchRidge_title = "Hit Vids Job Ad (March Ridge)",
 
@@ -908,7 +908,7 @@ Print_Media_HouseforSale934_title = "吉房出售 (no. 934)",
 
 Print_Media_OnyxDriveinTheater_title = "奥尼克斯汽车影院",
 
-Print_Media_RedOakApartments_title = "Red Oak Apartments",
+Print_Media_RedOakApartments_title = "红橡树公寓",
 
 Print_Media_DuCaseApartments_title = "Du Case Apartments",
 

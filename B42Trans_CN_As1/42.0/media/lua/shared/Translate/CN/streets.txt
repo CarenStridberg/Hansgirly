@@ -1621,7 +1621,7 @@
             <point x="704.0" y="9736.0"/>
         </points>
     </street>
-    <street name="公园大道" width="6">
+    <street name="林荫大道" width="6">
         <points>
             <point x="599.0" y="9809.0"/>
             <point x="837.0" y="9809.0"/>
@@ -6130,7 +6130,7 @@
             <point x="13594.0" y="3699.0"/>
         </points>
     </street>
-    <street name="终端大道" width="8">
+    <street name="航站楼大道" width="8">
         <points>
             <point x="15600.0" y="3322.0"/>
             <point x="15600.0" y="3155.5"/>
