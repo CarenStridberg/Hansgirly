@@ -28,7 +28,7 @@ Print_Media_KnoxKnews_July1_info = "<type:parent, width:805, height:910>"..
 "<type:text, x:305, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold> 猎 人 在 鹿 袭 击 中 受 伤 "..
 "<type:text, x:305, y:700, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:217/0.6, textLeading:3, font:UIFont.SdfOldRegular> 河 畔 镇 - 一 位 来 自 纽 约 的 猎 人 约 翰 · 内 森 称 , 自 己 非 常 幸 运 , 在 河 畔 镇 以 西 的 森 林 里 与 一 头 雄 鹿 遭 遇 后 , 没 有 遭 受 重 伤 . " 我 在 诺 克 斯 地 区 打 猎 多 年 了 , " 内 森 说 , " 但 我 从 未 见 过 这 样 的 事 , 尤 其 是 在 非 发 情 期 . 我 正 在 瞄 准 一 只 兔 子 , 但 一 头 白 尾 雄 鹿 突 然 就 … ( 续 第 4 页 )"..
 "<type:text, x:550, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold> 以 革 伦 最 年 长 的 居 民 透 露 长 寿 秘 诀 "..
-"<type:text, x:550, y:733, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:220/0.6, textLeading:3, font:UIFont.SdfOldRegular> 以 革 伦 - 南 希 · 休 姆 是 这 里 最 年 长 的 居 民 , 她 谈 吐 风 趣 , 还 会 唱 老 歌 , 很 难 相 信 她 已 经 103 岁 了 . " 我 比 所 有 朋 友 都 活 得 久 , " 她 说 , " 但 也 比 所 有 敌 人 都 活 得 久 ! " 接 着 笑 着 补 充 道 . 那 么 南 希 的 长 寿 秘 诀 是 什 么 ? " 晚 餐 时 喝 波 本 威 士 忌 , 10 点 前 上 床 睡 觉 , 还 有 永 远 别 和 男 人 纠 缠 . 永 远 ! ""..
+"<type:text, x:550, y:733, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:220/0.6, textLeading:3, font:UIFont.SdfOldRegular> 以 革 伦 - 南 希 · 休 姆 是 这 里 最 年 长 的 居 民 , 她 谈 吐 风 趣 , 还 会 唱 老 歌 , 很 难 相 信 她 已 经 103 岁 了 . " 我 比 所 有 朋 友 都 活 得 久 ," 她 说 , " 但 也 比 所 有 敌 人 都 活 得 久 !" 接 着 笑 着 补 充 道 . 那 么 南 希 的 长 寿 秘 诀 是 什 么 ?" 晚 餐 时 喝 波 本 威 士 忌 , 10 点 前 上 床 睡 觉 , 还 有 永 远 别 和 男 人 纠 缠 . 永 远 !""..
 "<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:3, height:230, x:290, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
 "<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
@@ -812,19 +812,19 @@ Print_Media_McCoyLoggingCorp_title = "麦考伊伐木公司",
 
 Print_Media_NolansUsedCars_title = "诺兰二手车行",
 
-Print_Media_WestMapleCountryClub_title = "West Maple Country Club",
+Print_Media_WestMapleCountryClub_title = "西枫乡村俱乐部",
 
-Print_Media_FashionaBelle_title = "FashionaBelle",
+Print_Media_FashionaBelle_title = "优雅风尚",
 
-Print_Media_TacodelPancho_title = "Taco del Pancho",
+Print_Media_TacodelPancho_title = "潘乔的墨西哥卷饼店",
 
 Print_Media_CrossRoadsMall_title = "十字路口购物中心",
 
-Print_Media_UStoreItRiverside_title = "U-Store It (Riverside)",
+Print_Media_UStoreItRiverside_title = "优储存 (河畔镇)",
 
-Print_Media_UStoreItLouisville_title = "U-Store It (Louisville)",
+Print_Media_UStoreItLouisville_title = "优储存 (路易斯维尔)",
 
-Print_Media_UStoreItMuldraugh_title = "U-Store It (Muldraugh)",
+Print_Media_UStoreItMuldraugh_title = "优储存 (马尔德劳)",
 
 Print_Media_Fossoil1_title = "福索石油 (马尔德劳)",
 
@@ -846,55 +846,55 @@ Print_Media_Delilah_title = "迪莉娅号蒸汽船",
 
 Print_Media_ChapelmountDownsRacetrack_title = "圣堂山马场赛道",
 
-Print_Media_BensCabin_title = "Cabin for Rent (West Point)",
+Print_Media_BensCabin_title = "小屋出租 (西点)",
 
 Print_Media_GrandOhioMall_title = "俄亥俄购物中心",
 
-Print_Media_DragRacingTrack_title = "Drag Racing Track",
+Print_Media_DragRacingTrack_title = "直线竞速赛道",
 
-Print_Media_ArtGalleryofLouisville_title = "Art Gallery of Louisville",
+Print_Media_ArtGalleryofLouisville_title = "路易斯维尔艺术画廊",
 
 Print_Media_FossoilField_title = "福索石油球场",
 
-Print_Media_SunstarMotel_title = "Sunstar Motel",
+Print_Media_SunstarMotel_title = "日星汽车旅馆",
 
 Print_Media_HavishamSuites_title = "哈维沙姆酒店套房",
 
-Print_Media_LouisvilleBruiser_title = "Louisville Bruiser Factory",
+Print_Media_LouisvilleBruiser_title = "路易斯维尔布鲁瑟工厂",
 
-Print_Media_TheSeaShanty_title = "The Sea Shanty",
+Print_Media_TheSeaShanty_title = "船歌餐厅",
 
 Print_Media_ScarletOakDistillery_title = "红橡威士忌蒸馏厂",
 
 Print_Media_ReadyPrep_title = "速备军事用品店",
 
-Print_Media_WellingtonHeightsGolfClub_title = "Wellington Heights Golf Club",
+Print_Media_WellingtonHeightsGolfClub_title = "惠灵顿高地高尔夫俱乐部",
 
-Print_Media_LSU_title = "Louisville State University",
+Print_Media_LSU_title = "路易维尔州立大学",
 
 Print_Media_LectromaxManufacturingJobAd_title = "极电制造招聘广告",
 
-Print_Media_SpiffosHiringDixie_title = "Spiffo's Hiring! (Dixie)",
+Print_Media_SpiffosHiringDixie_title = "斯皮福快餐招募! (迪克西)",
 
-Print_Media_SpiffosHiringLouisville_title = "Spiffo's Hiring! (Louisville)",
+Print_Media_SpiffosHiringLouisville_title = "斯皮福快餐招募! (斯皮福快餐)",
 
-Print_Media_SpiffosHiringWestPoint_title = "Spiffo's Hiring! (West Point)",
+Print_Media_SpiffosHiringWestPoint_title = "斯皮福快餐招募! (西点镇)",
 
-Print_Media_PizzaWhirled_title = "Pizza Whirled",
+Print_Media_PizzaWhirled_title = "披萨旋风",
 
-Print_Media_PizzaWhirledJobAdRosewood_title = "Pizza Whirled (Rosewood)",
+Print_Media_PizzaWhirledJobAdRosewood_title = "披萨旋风 (罗斯伍德)",
 
 Print_Media_PileoCrepeJobAdCrossRoadsMall_title = "可丽家招聘广告 (十字路口购物中心)",
 
-Print_Media_HitVidsJobAdMarchRidge_title = "Hit Vids Job Ad (March Ridge)",
+Print_Media_HitVidsJobAdMarchRidge_title = "Hit Vids 影音店招聘广告 (三月岭)",
 
-Print_Media_MarchRidgeSchoolJobAd_title = "March Ridge School Job Ad",
+Print_Media_MarchRidgeSchoolJobAd_title = "三月岭社区学校工作招聘",
 
 Print_Media_KnoxBankJobAdRosewood_title = "诺克斯银行招聘广告 (罗斯伍德)",
 
-Print_Media_FarmersMarket_title = "Farmer's Market",
+Print_Media_FarmersMarket_title = "农品超市",
 
-Print_Media_MuldraughBakeSale_title = "Muldraugh Ladies Committee Bake Sale",
+Print_Media_MuldraughBakeSale_title = "马尔德劳妇女委员会烘焙义卖",
 
 Print_Media_KnoxGunOwnersClubGetTogether_title = "诺克斯枪支俱乐部大会 (丝绒流苏俱乐部)",
 
@@ -910,31 +910,31 @@ Print_Media_OnyxDriveinTheater_title = "奥尼克斯汽车影院",
 
 Print_Media_RedOakApartments_title = "红橡树公寓",
 
-Print_Media_DuCaseApartments_title = "Du Case Apartments",
+Print_Media_DuCaseApartments_title = "杜凯斯公寓",
 
-Print_Media_HighStreetApartments_title = "High Street Apartments",
+Print_Media_HighStreetApartments_title = "高街公寓",
 
-Print_Media_LowryCourt_title = "Lowry Court",
+Print_Media_LowryCourt_title = "劳里公寓",
 
-Print_Media_UpscaleMobility_title = "Upscale Mobility",
+Print_Media_UpscaleMobility_title = "高端出行",
 
-Print_Media_RoxysRollerRink_title = "Roxy's Roller Rink",
+Print_Media_RoxysRollerRink_title = "罗克西轮滑场",
 
-Print_Media_ElveeArena_title = "Elvee Arena",
+Print_Media_ElveeArena_title = "埃尔维竞技场",
 
-Print_Media_July4PartyEasternLouisville_title = "Independence Day Party (Eastern Louisville)",
+Print_Media_July4PartyEasternLouisville_title = "独立日派对 (东路易斯维尔)",
 
-Print_Media_RiversideIndependenceDayPartyAllWelcome_title = "Independence Day Party (Riverside)",
+Print_Media_RiversideIndependenceDayPartyAllWelcome_title = "独立日派对 (河畔镇)",
 
-Print_Media_FourthofJulyCelebrationDixieMobilePark_title = "Independence Day Party (Dixie Mobile Park)",
+Print_Media_FourthofJulyCelebrationDixieMobilePark_title = "独立日派对 (迪克西拖车公园)",
 
-Print_Media_SureFitnessBoxingClub_title = "Sure Fitness & Boxing Club",
+Print_Media_SureFitnessBoxingClub_title = "肯定·健身拳击俱乐部",
 
-Print_Media_BrooksLibrary_title = "Brooks Public Library of Louisville",
+Print_Media_BrooksLibrary_title = "路易斯维尔布鲁克斯公共图书馆",
 
-Print_Media_LouisvilleAnimalShelter_title = "Louisville Animal Shelter",
+Print_Media_LouisvilleAnimalShelter_title = "路易斯维尔动保中心",
 
-Print_Media_KnoxPackKitchens_title = "Knox Pack Kitchens",
+Print_Media_KnoxPackKitchens_title = "诺克斯帕克厨房用品",
 
 Print_Media_SunsetPinesFuneralHome_title = "Sunset Pines Funeral Home",
 
@@ -1508,7 +1508,7 @@ Print_Media_FlyerTemplate1_info = "<type:parent, width:484, height:800>"..
 "<type:text, x:12, y:646, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-10, font:UIFont.SdfBoldItalic> 价 格 : $"..
 "<type:text, x:73, y:646, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-10, font:UIFont.SdfBoldItalic>85, 000"..
 "<type:text, x:12+165, y:646, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-10, font:UIFont.SdfBoldItalic> 价 格 : $"..
-"<type:text, x:73+165, y:646, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-10, font:UIFont.SdfBoldItalic>40, 000"..
+"<type:text, x:73+165, y:646, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-10, font:UIFont.SdfBoldItalic>40,000"..
 "<type:text, x:10+330, y:646, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-10, font:UIFont.SdfBoldItalic> 价 格 : $"..
 "<type:text, x:71+330, y:646, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-10, font:UIFont.SdfBoldItalic>72, 000"..
 "<type:text, x:484/2, y:770, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, font:UIFont.SdfBold>23501 迪 克 西 高 速 公 路 , 肯 塔 基 "..
@@ -1545,7 +1545,7 @@ Print_Media_FlyerTemplate3_info = "<type:parent, width:551, height:800>"..
 "<type:texture, width:250, height:201, x:25, y:530, texture:getTexture("media/textures/printMedia/FlyerPics/homewardMap.png")>"..
 "<type:text, x:550/2, y:372, scaleX:0.64, scaleY:0.64, pivotX:0.5, r:0, g:0, b:0, outlineThick:0.1, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfOldItalic> 地 址 "..
 "<type:text, x:25, y:410, scaleX:0.64, scaleY:0.64, r:0, g:0, b:0, autoWidth:500/0.64, font:UIFont.SdfOldRegular> 这 栋 令 人 惊 叹 的 千 禧 年 风 格 住 宅 , 唯 有 亲 眼 所 见 方 能 令 人 信 服 . 它 拥 有 两 层 宽 敞 的 空 间 和 一 个 宽 敞 的 阁 楼 , 多 扇 大 窗 让 自 然 光 线 充 足 , 明 亮 舒 适 , 使 其 成 为 了 举 办 晚 宴 和 招 待 宾 客 的 理 想 之 选 ."..
-"<type:text, x:280, y:550, scaleX:0.55, scaleY:0.55, r:0, g:0, b:0, font:UIFont.SdfOldRegular> 卧 室 : 4^ 洗 手 间 : 2^ 面 积 : 4165 平 方 英 尺 ^^ 价 格 : $200, 000"..
+"<type:text, x:280, y:550, scaleX:0.55, scaleY:0.55, r:0, g:0, b:0, font:UIFont.SdfOldRegular> 卧 室 : 4^ 洗 手 间 : 2^ 面 积 : 4165 平 方 英 尺 ^^ 价 格 : $200,000"..
 "<type:text, x:280, y:700, scaleX:0.6, scaleY:0.6, r:0, g:0, b:0, font:UIFont.SdfOldItalic> 清 单 No.935"..
 "<type:text, x:550/2, y:755, scaleX:1, scaleY:1, pivotX:0.5, r:1, g:1, b:1, font:UIFont.SdfOldBold> 请 拨 打 555-9029",
 
