@@ -936,23 +936,23 @@ Print_Media_LouisvilleAnimalShelter_title = "路易斯维尔动保中心",
 
 Print_Media_KnoxPackKitchens_title = "诺克斯帕克厨房用品",
 
-Print_Media_SunsetPinesFuneralHome_title = "Sunset Pines Funeral Home",
+Print_Media_SunsetPinesFuneralHome_title = "日落松殡仪馆",
 
 Print_Media_CardinalPlaza_title = "红雀广场",
 
-Print_Media_CircuitalHealing_title = "Circuital Healing",
+Print_Media_CircuitalHealing_title = "电脑维修",
 
-Print_Media_GnomeSweetGnome_title = "Home Sweet Gnome",
+Print_Media_GnomeSweetGnome_title = "甜蜜地精之家",
 
-Print_Media_MeadshireEstate_title = "Meadshire Estate",
+Print_Media_MeadshireEstate_title = "米德希尔庄园",
 
-Print_Media_IrvingtonSpeedway_title = "Irvington Speedway",
+Print_Media_IrvingtonSpeedway_title = "欧文顿 Speedway 赛道",
 
-Print_Media_CivilWarfort_title = "Fort Prospect",
+Print_Media_CivilWarfort_title = "勘察地堡",
 
-Print_Media_GreenesJobAdEkron_title = "Greene's Job Ad (Ekron)",
+Print_Media_GreenesJobAdEkron_title = "格林杂货店招聘广告 (以革伦)",
 
-Print_Media_MailCarrierAdEkron_title = "Mail Carrier Ad (Ekron)",
+Print_Media_MailCarrierAdEkron_title = "招聘: 邮递员 (以革伦)",
 
 Print_Media_PremiseswithApartmentsforLeaselistingno891_title = "Premises with Apartments for Lease (listing no. 891)",
 
@@ -960,7 +960,7 @@ Print_Media_HouseforSale907_title = "吉房出售 (no. 907)",
 
 Print_Media_YourLocalShelterBrandenburg_title = "Your Local Shelter (Brandenburg)",
 
-Print_Media_BrandenburgAirfield_title = "Brandenburg Airfield",
+Print_Media_BrandenburgAirfield_title = "勃兰登堡机场",
 
 Print_Media_HouseforSale935_title = "吉房出售 (no. 935)",
 
@@ -1388,7 +1388,7 @@ Print_Media_CabanCenter_title= "卡班野生动物康复中心",
 Print_Media_CabanCenter_info= "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
 
-Print_Media_CatonaHotTinGrill_title= ""烤架上的猫"餐厅",
+Print_Media_CatonaHotTinGrill_title= ""热锡烤架上的鲶鱼"餐厅",
 Print_Media_CatonaHotTinGrill_info= "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/CatfishRestaurant.png"), width:800, height:1131>",
 

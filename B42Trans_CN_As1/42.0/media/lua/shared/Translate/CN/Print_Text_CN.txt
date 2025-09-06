@@ -418,8 +418,8 @@ Print_Text_HouseforSale818_info= "卧室: 无, 浴室: 1 间, 面积: 645 平方
 Print_Text_HouseforSale787_title= "房屋待售 no.787",
 Print_Text_HouseforSale787_info= "卧室: 2 间, 浴室: 1 间, 面积: 800 平方英尺, 价格: 30,000 美元 \n\n 位于勃兰登堡东部边缘, 地理位置优越, 商店和学校都在步行范围内, 邻近森林步道和湖泊, 尽享自然之美. \n\n 一定会让您惊叹不已! \n\n 请致电 555-9029. \n\n 肯塔基州, 勃兰登堡, 百老汇街 64 号",
 
-Print_Text_GreenesJobAdEkron_title= "格林商店",
-Print_Text_GreenesJobAdEkron_info= "以革伦的格林商店需要诚实可靠的员工. \n\n 不要青少年, 不要傲慢无礼者. 只要优秀的美国式辛勤工作者. \n\n 每小时 5 美元. 需要加班. \n\n 如必要, 将提供收银机操作培训. \n\n 请致函: 肯塔基州, 以革伦, 海斯维尔路 15 号, 格林商店",
+Print_Text_GreenesJobAdEkron_title= "格林杂货店",
+Print_Text_GreenesJobAdEkron_info= "以革伦的格林杂货店需要诚实可靠的员工. \n\n 不要青少年, 不要傲慢无礼者. 只要优秀的美国式辛勤工作者. \n\n 每小时 5 美元. 需要加班. \n\n 如必要, 将提供收银机操作培训. \n\n 请致函: 肯塔基州, 以革伦, 海斯维尔路 15 号, 格林杂货店",
 
 Print_Text_CabinforRentDixie_title= "出租小屋",
 Print_Text_CabinforRentDixie_info= "位于迪克西, 马尔德劳火车站以北 \n\n 有户外设施 \n 禁止乱扔垃圾 \n 谢绝浪费时间者 \n\n 请致电齐普: 555-6932",
@@ -458,7 +458,7 @@ Print_Text_MailCarrierAdEkron_title= "招聘: 邮递员 (以革伦)",
 Print_Text_MailCarrierAdEkron_info= "美国邮政在以革伦和欧文顿地区招聘邮递员. \n\n 优先考虑熟悉当地情况者. 提供培训. 需持有完整驾照. \n\n 面试者需性格友好, 有耐心, 有礼貌, 且注重细节. \n\n 请将简历寄至: 美国邮政, 肯塔基州, 以革伦市, 里斯大道 276 号, 邮编 40711",
 
 Print_Text_BrandenburgFD_title= "勃兰登堡消防局",
-Print_Text_BrandenburgFD_info= "别拖延. 今天就做好防火措施. \n\n 安全存放易燃物品. \n 勿让电源插座过载. \n 离家时记得关闭烤炉. \n 制定火灾逃生路线. \n 吸烟时不要穿易燃衣物. \n\n 如果火势失控, 请立即拨打 911! \n\n 由勃兰登堡消防局提供, 地址: 肯塔基州, 勃兰登堡市, 博伊德路 450 号.",
+Print_Text_BrandenburgFD_info= "迫在眉睫. 立即预防火灾. \n\n 安全存放易燃物品. \n 勿让电源插座过载. \n 离家时记得关闭烤炉. \n 制定火灾逃生路线. \n 吸烟时不要穿易燃衣物. \n\n 如果火势失控, 请立即拨打 911! \n\n 由勃兰登堡消防局提供, 地址: 肯塔基州, 勃兰登堡市, 博伊德路 450 号.",
 
 Print_Text_LectromaxManufacturingJobAd_title= "极电制造",
 Print_Text_LectromaxManufacturingJobAd_info= "招聘: \n\n 极电制造在河畔镇西南部工厂招聘一名有经验的操作工. \n\n 工作内容包括锯片的切割和成型. 要求: 有车床和液压机操作经验. \n\n 请将简历和推荐信寄至以下地址. 薪资可协商. \n\n 肯塔基州, 河畔镇, 奥林路 740 号",
@@ -512,7 +512,7 @@ Print_Text_Airport_title= "路易斯维尔国际机场",
 Print_Text_Airport_info= "航空旅行. 没几个词能引起这么大压力 — 但在路易斯维尔国际机场并非如此! 这里每年为超过 200 万名乘客提供服务, 94% 的乘客表示对这里感到满意 *. \n\n * 来自 16 人的样本 \n\n 世界级的建筑设计以人为本. 充足的座位, 可以随时休息. 餐厅和咖啡馆, 为旅程提供能量. 一尘不染的卫生间, 可以安心使用. \n\n 这里是全美取消和延误航班最少的机场! 有我们在, 您的旅程非常安全! \n\n 出发前先看地图了解路线, 充分享受您的旅程. 如果迷路, 有乐于助人的工作人员会确保您到达目的地! \n\n 肯塔基州, 路易斯维尔市, 航站楼大道 600 号",
 
 Print_Text_AMZSteel_title= "AMZ 钢铁公司",
-Print_Text_AMZSteel_info= "AMZ 钢铁公司为美国提供最优质的金属和金属产品. \n\n 位于肯塔基州的工厂年产能达 40 万吨, 帮助客户创新产品, 解决问题, 成就卓越. \n\n 钢铁流淌在我们的血液中, AMZ 钢铁为下个世纪的美国铸就未来. \n\nAMZ 钢铁公司. \n\n 用每一根钢梁, 将美国打造成坚固堡垒…\n\n 美国制造锌业公司. \n 北海道钢铁厂子公司. \n\n 肯塔基州, 以革伦市, 炼钢厂路 48 号",
+Print_Text_AMZSteel_info= "AMZ 钢铁公司为美国提供最优质的金属和金属产品. \n\n 位于肯塔基州的工厂年产能达 40 万吨, 帮助客户创新产品, 解决问题, 成就卓越. \n\n 钢铁流淌在我们的血液中, AMZ 钢铁为下个世纪的美国铸就未来. \n\nAMZ 钢铁公司. \n\n 用每一根钢梁, 将美国打造成坚固堡垒…\n\n 美国本土锌加工企业. \n 北海道冶钢厂子公司. \n\n 肯塔基州, 以革伦市, 炼钢厂路 48 号",
 
 Print_Text_BeefChunk_title= "牛肉干制造公司",
 Print_Text_BeefChunk_info= "肉干! 大自然的馈赠! \n\n 牛肉干富含蛋白质, 为你的下一次冒险提供能量! \n\n 肉干保质期长, 易于携带, 营养丰富且美味可口! \n\n 相信我们的肉干专家! \n\n 你新的最爱零食 \n\n 肯塔基州, 欧文顿市, 美国 60 号公路 15800 号",
@@ -526,8 +526,9 @@ Print_Text_BrottAuction_info= "50 多年来, 这里一直是肯塔基州家畜�
 Print_Text_CabanCenter_title= "",
 Print_Text_CabanCenter_info= "",
 
-Print_Text_CatonaHotTinGrill_title= ""烤架上的猫"餐厅",
-Print_Text_CatonaHotTinGrill_info= "新鲜的鲶鱼, 从自有池塘打捞! \n\n 自备食材, 代理烹饪 75 折优惠. \n\n 今天就来"烤架上的猫"餐厅吧! \n\n 肯塔基州, 勃兰登堡市, 老州路 1940 号",
+Print_Text_CatonaHotTinGrill_title= ""热锡烤架上的鲶鱼"餐厅",
+--注: Cat 这里指 Catfish.
+Print_Text_CatonaHotTinGrill_info= "新鲜的鲶鱼, 从自有池塘打捞! \n\n 自备食材, 代理烹饪 75 折优惠. \n\n 今天就来"热锡烤架上的鲶鱼"餐厅吧! \n\n 肯塔基州, 勃兰登堡市, 老州路 1940 号",
 
 Print_Text_Coalfield_title= "煤田镇",
 Print_Text_Coalfield_info= "肯塔基州, 煤田镇 \n\n 西部荒野风情 \n\n 煤田镇建于 19 世纪 50 年代, 作为向东行进的旅行者的停靠点, 因治安官埃弗雷特·霍洛韦与欧文·布拉德肖及其帮派之间的一系列冲突而声名狼藉. \n 这场争斗在 1882 年 8 月 11 日晚达到高潮, 一场大规模枪战爆发, 劳曼酿酒厂起火爆炸, 许多建筑随之被毁. 此后, 再也没人见过埃弗雷特·霍洛韦或欧文·布拉德肖. \n\n 现在开放参观经过精确修复的煤田镇原址. 参观综合商店, 或在酒吧小酌一杯, 体验铁匠生活, 参观复古小木屋, 看看真正的旧西部是什么样子! \n\n 每周六都有霍洛韦的执法者与布拉德肖帮派枪战的表演! \n1. 教堂 \n2. 蔬菜水果店和干货店 \n3. 老格兰德酒吧 \n4. 西铁五金店 \n5. 马蹄铁酒吧 \n6. 霍尼小姐美容院 \n7. 治安官办公室 \n8. 牧场主牛排馆 \n9. 波特父子店 \n10. 银行 \n11. 煤田镇酒馆 \n12. 铁匠铺 \n13. 煤田镇旅馆 \n14. 入口建筑",
@@ -632,7 +633,7 @@ Print_Text_SpiffosHiringLouisville_info = "斯皮福大家庭正在寻找新成�
 Print_Text_SpiffosHiringWestPoint_title = "招聘: 斯皮福餐厅 (西点店)",
 Print_Text_SpiffosHiringWestPoint_info = "斯皮福大家庭正在寻找新成员  -  会是你吗? \n\n 我们提供丰厚福利, 公平的管理, 还有秘制酱料: 斯皮福 ® 在全球雇佣快乐, 健康的员工. \n\n 你会成为斯皮福的下一位员工吗? \n\n 职位名称: 服务员 \n 其他信息: 需性格乐观. \n\n 职位名称: 保安 \n 其他信息: 提供非致命自卫培训. \n\n 职位名称: 配送司机 \n 其他信息: 需无犯罪记录. \n\n 地点: 肯塔基州, 西点, 桑树街 201 号 \n\n©1993 斯皮福标志, 斯皮福形象及斯皮福秘制酱料均为斯皮福公司注册商标. 保留所有权利.",
 
-Print_Text_GnomeSweetGnome_title = "甜蜜之家",
+Print_Text_GnomeSweetGnome_title = "甜蜜地精之家",
 Print_Text_GnomeSweetGnome_info = "地精, 地精, 还是地精 \n\n 没有地精的家, 不算完整的家! \n\n 已有地精? 你需要更多地精! \n 家有地精, 有你需要的所有地精, 甚至更多. \n\n 致电了解更多! \n\n 别再找借口不买地精了! \n\n555 - 我想要更多地精 \n\n 肯塔基州, 以革伦市, 海斯维尔路 13 号",
 
 Print_Text_CardinalPlaza_title = "红雀广场",

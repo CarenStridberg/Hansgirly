@@ -1078,9 +1078,9 @@ Sandbox_CN = {
     Sandbox_FirearmMoodleMultiplier = "枪械受状态效果影响倍率",
     Sandbox_FirearmMoodleMultiplier_tooltip = "命中率受状态效果影响的倍率. 设置为 0 则禁用状态对命中率的惩罚影响.",
     Sandbox_FirearmJamMultiplier = "枪械卡壳倍率",
-    Sandbox_FirearmJamMultiplier_tooltip = "枪械卡壳几率的倍率. 设置为0则禁用卡壳.",
+    Sandbox_FirearmJamMultiplier_tooltip = "枪械卡壳几率的倍率. 设置为 0 则禁用卡壳.",
     Sandbox_FirearmWeatherMultiplier = "枪械受天气效果影响倍率",
-    Sandbox_FirearmWeatherMultiplier_tooltip = "天气 (风, 雨和雾) 对命中率影响的倍率. 设置为0则禁用天气效果对命中率影响.",
+    Sandbox_FirearmWeatherMultiplier_tooltip = "天气 (风, 雨和雾) 对命中率影响的倍率. 设置为 0 则禁用天气效果对命中率影响.",
     Sandbox_FirearmHeadGearEffect = "枪械受头部装备效果影响",
     Sandbox_FirearmHeadGearEffect_tooltip = "如果启用此选项, 头部装备如焊接面罩将影响命中率.",
 
