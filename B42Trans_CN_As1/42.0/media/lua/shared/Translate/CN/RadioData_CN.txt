@@ -12551,7 +12551,7 @@ RadioData_CN = {
 	RD_8de41a9a-1dc9-4ffe-abac-cc5bb5119a09 = "[img=music]但是在寂寞的夜晚, 我开始后悔了…[img=music]",
 	RD_f7d189b1-3d6f-42ee-807d-e309adf168ee = "[img=music] 上南方音乐 [img=music]",
 	RD_4eb977ae-7a91-4f80-af00-a1044ee0ae0d = "大家下午好. 富兰克林为您带来您最喜爱的热单.",
-	RD_a863b039-9139-47d5-b2f0-9bcfbcda3b7b = "来听听我的最爱, 伊薇特·富兰克林的《跟上潮流! 》.",
+	RD_a863b039-9139-47d5-b2f0-9bcfbcda3b7b = "来听听我的最爱, 伊薇特·富兰克林的《跟上潮流!》.",
 	RD_01c039f9-9b17-4d3a-82d3-30f2c696bad5 = "[img=music][时髦的吉他前奏][img=music]",
 	RD_6a3ec7f9-7e33-439c-8cc0-0c87210f2149 = "[img=music]见你独自坐在迪厅. [img=music]",
 	RD_6cd35f68-4ab6-4694-be7b-c6146a638329 = "[img=music]你的好友出双入对, 唯独你愁眉不展. [img=music]",
