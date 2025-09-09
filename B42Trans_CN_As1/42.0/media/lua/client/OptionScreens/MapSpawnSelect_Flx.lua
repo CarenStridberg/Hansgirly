@@ -47,12 +47,14 @@ function MapSpawnSelect:_fillList()
         --self.listbox:addItem(item.name, item);
 		table.insert(self.notSortedList, item);
     end
-	
+	--[[
 	spawnSelectImagePyramid =
 	getMapInfo("Riverside, KY").spawnSelectImagePyramid or
 	getMapInfo("riverside, ky").spawnSelectImagePyramid or
 	getMapInfo("Muldraugh, KY").spawnSelectImagePyramid or
 	getMapInfo("muldraugh, ky").spawnSelectImagePyramid or nil;
+	]]
+	spawnSelectImagePyramid = getMapInfo("Riverside, KY").dir .. "\\spawnSelectImagePyramid.rar"
 	if spawnSelectImagePyramid then
 		self.mapPanel:setImagePyramid(spawnSelectImagePyramid)
 	else
