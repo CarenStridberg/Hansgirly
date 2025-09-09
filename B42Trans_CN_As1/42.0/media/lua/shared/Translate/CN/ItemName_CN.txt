@@ -1,6 +1,7 @@
 ItemName_CN = {
     -- Additional Translation --
     ItemName_Base.Thread_Sinew = "筋线",
+    ItemName_Base.CoffeeMachine = "咖啡机",
     ItemName_Base.TarpPiece = "油布块",
     ItemName_Base.Thread_Aramid = "芳纶线",
     ItemName_Base.PigLeather_Landrace_Fur_Tan_Small = "半张长白猪皮 (鞣制带毛)",
@@ -2697,7 +2698,7 @@ ItemName_CN = {
     ItemName_Base.Bobber = "浮漂",
     ItemName_Base.FISH_DEV_ITEM = "鱼类开发物品 (不生成)",
     ItemName_Base.FishingTrash = "垃圾",
-    ItemName_Base.Chum = "饵料",
+    ItemName_Base.Chum = "撒饵",
     ItemName_Base.PremiumFishingLine = "高级鱼线",
     ItemName_Base.FishingHook = "鱼钩",
     ItemName_Base.CannedPineappleOpen = "菠萝罐头 (已打开)",

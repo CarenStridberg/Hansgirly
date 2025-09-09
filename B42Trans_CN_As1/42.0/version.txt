@@ -89,4 +89,9 @@ v1.4.1 2025.09.06
 v1.4.2 2025.09.07
 修正了大量错误的翻译。
 优化了大量劣质的翻译。
-简化版mod不再包含传单汉化。
+简明版mod不再包含传单汉化。
+
+v1.5 2025.09.07
+地图选择界面的地图已汉化。
+--仅适用于简明版。
+--这是通过修改media\lua\client\OptionScreens中，MapSpawnSelect文件内的MapSpawnSelect:fillList方法实现的。在加载时，修改后的函数不再读取马尔德劳地图文件夹中的spawnSelectImagePyramid.zip，而是使用本模组中河畔镇内的替代spawnSelectImagePyramid.zip文件。
