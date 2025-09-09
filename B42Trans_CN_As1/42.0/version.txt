@@ -95,3 +95,8 @@ v1.5 2025.09.07
 地图选择界面的地图已汉化。
 --仅适用于简明版。
 --这是通过修改media\lua\client\OptionScreens中，MapSpawnSelect文件内的MapSpawnSelect:fillList方法实现的。在加载时，修改后的函数不再读取马尔德劳地图文件夹中的spawnSelectImagePyramid.zip，而是使用本模组中河畔镇内的替代spawnSelectImagePyramid.zip文件。
+剩余的传单已汉化。
+修正了大量错误或存在其他问题的译文。
+修正了大量一致性问题。
+已知仍存在的问题：
+鼠标悬停于道路上时显示“???”。
