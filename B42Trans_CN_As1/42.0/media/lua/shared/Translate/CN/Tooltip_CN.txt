@@ -538,9 +538,9 @@ Tooltip_CN = {
     Tooltip_Recipe_Herbalist = "可以找到草药, 识别有毒的植物, 制作药膏.",
     Tooltip_Recipe_Generator = "可以操作发电机.",
 
-    Tooltip_Chum = "可以将撒饵添加到水中以吸引鱼类. <br>单独的饵托不能吸引鱼类. <br>添加一些鱼饵可以增加撒饵的强度.",
+    Tooltip_Chum = "可以将散饵添加到水中以吸引鱼类. <br>单独的饵托不能吸引鱼类. <br>添加一些鱼饵可以增加散饵的强度.",
     Tooltip_IsFishingLure = "可以用作鱼饵.",
-    Tooltip_NeedChumForAddToFishingNet = "在渔网中只能使用撒饵作为诱饵.",
+    Tooltip_NeedChumForAddToFishingNet = "在渔网中只能使用散饵作为诱饵.",
 	Tooltip_CantSmoke = "需要在库存中有打火机/火柴, 或<br>火焰/热源, 例如打开的炉子或营火.",
     Tooltip_HollowBook = "一个假的, 挖空的书, 可以用作容器.",
     Tooltip_NoFilter = "无滤器",

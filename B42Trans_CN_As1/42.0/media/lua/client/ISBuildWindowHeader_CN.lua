@@ -1,7 +1,7 @@
-local original_createChildren = ISBuildWindowHeader.createChildren
+local _createChildren = ISBuildWindowHeader.createChildren
 
 function ISBuildWindowHeader:createChildren()
-    original_createChildren(self)
+    _createChildren(self)
     
     if self.title then
         local originalTitle = self.title.origTitleStr or self.title:getName()

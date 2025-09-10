@@ -1,0 +1,27 @@
+本文档用于说明此汉化模组与何种模组不兼容，及相应原因。
+
+一、函数及方法：
+本模组可能与修改了ISBuildWindowHeader.createChildren方法的模组不兼容。
+--原因：本模组在ISBuildWindowHeader_CN.lua文件中修改了此方法的行为。
+--目的：对建造菜单顶部进行翻译。
+
+本模组可能与修改了ISWidgetRecipeCategories.populateCategoryList方法的模组不兼容。
+--原因：本模组在ISWidgetRecipeCategories_CN.lua文件中修改了此方法的行为。
+--目的：对合成菜单侧栏进行翻译。
+
+本模组可能与修改了MapUtils.initDirectoryStreetData方法的模组不兼容。
+--原因：本模组在ISMapDefinitions_CN.lua文件中修改了此方法的行为。
+--目的：不再读取原版地图马尔德劳文件夹中的streets.xml。
+
+本模组可能与修改了ISRichTextPanel.paginate方法的模组不兼容。
+--原因：本模组在ISRichTextPanel_CN.lua文件中覆写了此方法。
+--目的：略微修正文段处理时对空格的处理行为。
+
+本模组可能与修改了MapSpawnSelect._fillList方法的模组不兼容。
+--原因：本模组在MapSpawnSelect_Flx.lua文件中覆写了此方法。
+--目的：不再读取原版地图马尔德劳文件夹中的spawnSelectImagePyramid.zip。直接读取本模组河畔镇文件夹中的spawnSelectImagePyramid.rar。
+
+二、地图
+本模组与任何覆盖了地图中的河畔镇文件夹 (Riverside, KY) 的模组不兼容。
+--原因：本模组覆写了整个Riverside, KY文件夹。
+--目的：提供对街道名、地图大标签及生成点选择界面大地图的翻译。
