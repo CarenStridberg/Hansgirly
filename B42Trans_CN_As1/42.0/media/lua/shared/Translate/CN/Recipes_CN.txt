@@ -1,6 +1,8 @@
 RecipesCN {
     -- Additional Translation --
     CastSteelIngot = "浇铸钢锭",
+    Piano = "钢琴",
+    WoodTablewithDrawer(Poor) = "带抽屉木桌 (进阶)",
     DomeKiln = "穹顶窑炉",
     AntlersPole = "鹿角长杆",
     PlanksBarricade = "木板路障",

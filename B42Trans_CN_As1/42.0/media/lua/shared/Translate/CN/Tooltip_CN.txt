@@ -1,4 +1,7 @@
 Tooltip_CN = {
+    -- Additional Translation --
+Tooltip_Recipe_OpenMacAndCheese = "获取用于制作通心粉和奶酪的通心粉和奶酪粉."
+
 	-- Item tooltip
 	Tooltip_food_Bowl = "一碗%1",
 	Tooltip_food_Slice = "切片",
@@ -29,7 +32,7 @@ Tooltip_CN = {
 	Tooltip_item_Temperature = "温度",
 	Tooltip_item_Fatigue = "疲劳",
 	Tooltip_item_TaintedWater = "脏水.直接饮用不安全. <br>请煮沸.",
-    Tooltip_item_TaintedWater_Plastic = "脏水.直接饮用不安全. <br>请放入微波炉中煮沸.",
+    Tooltip_item_TaintedWater_Plastic = "脏水. 直接饮用不安全. <br>请放入微波炉中煮沸.",
 	Tooltip_item_OnlyPurifyMicrowave = "只能用于微波炉.",	
     Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "只能在微波炉中净化. <br>放置在户外可收集雨水.",
 	-- Tooltip_item_TireIron = "Can be used instead of a Lug Wrench for installing and uninstalling tires.",
@@ -582,7 +585,7 @@ Tooltip_CN = {
     Tooltip_item_Duck = "嘎嘎.",
     Tooltip_too_soft_hammer = "太软, 不能用作锤子.",
 
-    Tooltip_item_AwkwardGloves = "穿着笨重的手套会导致<br>库存物品转移变慢, 禁止在行走时<br>制作, 并且妨碍攀爬.",
+    Tooltip_item_AwkwardGloves = "穿着笨重的手套会导致<br>物品栏物品转移变慢, 禁止在行走时<br>制作, 并且妨碍攀爬.",
 
     Tooltip_FishingTipTitle = "如何钓鱼",
     Tooltip_FishingTip = "如何钓鱼<br>- 双手装备钓竿<br>- 瞄准水面<br>- 按下LMB投掷<br>- 当你被咬时, 线张力会增加<br>- 要开始卷起你的渔获, 按住鼠标左键<br>- 张力过大, 你的线可能会断<br>使用鼠标左右键改变张力<br><br><br><br>在生存指南中阅读更多关于钓鱼的信息.",
@@ -611,11 +614,11 @@ Tooltip_CN = {
 	Tooltip_item_StoneAnvil = "用于建造原始锻造炉. 单独使用无用.",
 	Tooltip_item_BlacksmithAnvil = "用于建造简单或高级锻造炉. 单独使用无用.",
 	Tooltip_item_OilPress = "用于在压力机上压制油. 不能单独使用.",
-	Tooltip_item_SmallPunchSet = "用于许多盔甲食谱.",
+	Tooltip_item_SmallPunchSet = "用于制作许多盔甲.",
 	Tooltip_item_Dogbane = "可以拧成绳.",
 	Tooltip_item_Coke = "燃料, 燃烧温度高. 用于熔炉.",
 	Tooltip_item_Epoxy = "用于一些近战武器修理.",
-	Tooltip_item_FiberglassTape = "与环氧树脂一起用于一些&lt;br&gt;近战武器修理.",
+	Tooltip_item_FiberglassTape = "与环氧树脂一起用于修理一些近战武器.",
 	Tooltip_item_IronBandSmall = "用于制作木桶.",
 	Tooltip_item_PiercedIronBlock = "用于高级工具金属加工.",
 	Tooltip_item_Quicklime = "可以与水混合用作石膏.",
