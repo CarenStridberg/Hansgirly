@@ -100,12 +100,12 @@ font Large
 
 font Title
 {
-	fnt = zomboidLargeCN.fnt,
+	fnt = zomboidMediumCN.fnt,
 }
 
 font SdfRegular
 {
-	fnt = zomboidMediumCN.fnt,
+	fnt = zomboidLargeCN.fnt,
 }
 
 font SdfOldBold
