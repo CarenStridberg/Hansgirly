@@ -1,4 +1,9 @@
 Fluids_CN = {
+Fluid_Any = "任意%1"
+Fluid_Any_Others = "任意%1或其他"
+Fluid_And_Others = "%1或其他"
+Fluid_Name_Any = "任何液体",
+
     Fluid_Transfer_Fluids = "转移液体",
     Fluid_Info_Panel = "容器信息",
     Fluid_Max_Transfer = "最大转移量",

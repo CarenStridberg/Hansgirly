@@ -1,4 +1,7 @@
 SurvivorNames_CN = {
+SurvivorSurname_Arseneau = "Arseneau",
+SurvivorSurname_Harber = "Harber",
+
     SurvivorSurname_Simpson = "Simpson",
     SurvivorSurname_Hodgetts = "Hodgetts",
     SurvivorSurname_Porter = "Porter",

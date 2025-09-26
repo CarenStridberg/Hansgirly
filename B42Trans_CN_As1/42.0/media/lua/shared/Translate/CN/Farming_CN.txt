@@ -1,4 +1,6 @@
 Farming_CN = {
+Farming_SlugsBane = "防蛞蝓"
+
     -- Additional Translation --
     Farming_Strawberry_plant = "草莓",
     Farming_Tomato_Vine = "番茄",

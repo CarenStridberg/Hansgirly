@@ -1,4 +1,8 @@
 UI_CN = {
+UI_optionscreen_view_cone_opacity = "视图锥体不透明度",
+UI_trait_Crafty = "工艺精湛",
+UI_trait_CraftyDesc = "提供制作技能的经验值增益.",
+
     -- Additional Translation --
     UI_Map_HighlightStreet = "高亮街道",
     UI_Map_OutlineStreets = "主路标识",

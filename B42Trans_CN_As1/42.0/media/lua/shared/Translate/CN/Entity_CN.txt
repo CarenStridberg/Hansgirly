@@ -1,4 +1,7 @@
 Entity_CN = {
+EC_CraftLogic_Duration_Unknown = "所需时间: ??",
+EC_CraftLogic_Inputs_Full = "栏位已满!",
+
     EC_Entity_DisplayName_Default = "通用实体名称",
     EC_Entity_BuildDescription_Default = "通用实体建造描述",
 

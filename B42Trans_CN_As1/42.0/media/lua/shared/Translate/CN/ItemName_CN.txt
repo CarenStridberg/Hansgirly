@@ -1,4 +1,8 @@
 ItemName_CN = {
+ItemName_Base.KeyRing_Racing12 = "钥匙 - 赛车 12",
+ItemName_Base.KeyRing_Racing34 = "钥匙 - 赛车 34",
+ItemName_Base.KeyRing_Racing58 = "钥匙 - 赛车 58",
+
     -- Additional Translation --
     ItemName_Base.Thread_Sinew = "筋线",
     ItemName_Base.CoffeeMachine = "咖啡机",

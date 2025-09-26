@@ -1,4 +1,15 @@
 Tooltip_CN = {
+Tooltip_food_Poisonous = "有毒",
+Tooltip_food_MinutesToCook = "分钟后烹饪完毕",
+Tooltip_seen = "已观看",
+Tooltip_heard = "已聆听",
+Tooltip_lightFireNoFuel = "需要已有燃料才能点火.",
+Tooltip_lightFireNoEndurance = "需要未耗尽.",
+Tooltip_NoRecipes = "无法用于配方.",
+Tooltip_NoRecipes_More = "此物品已被标记为<br>无法用于任何配方。",
+Tooltip_Unwanted = "不想要",
+Tooltip_Unwanted_More = "此类物品已被<br>标记为不想要.",
+
     -- Additional Translation --
 Tooltip_Recipe_OpenMacAndCheese = "获取用于制作通心粉和奶酪的通心粉和奶酪粉."
 
