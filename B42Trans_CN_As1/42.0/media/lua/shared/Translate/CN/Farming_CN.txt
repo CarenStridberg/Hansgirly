@@ -1,6 +1,4 @@
 Farming_CN = {
-Farming_SlugsBane = "防蛞蝓"
-
     -- Additional Translation --
     Farming_Strawberry_plant = "草莓",
     Farming_Tomato_Vine = "番茄",
@@ -199,4 +197,5 @@ Farming_SlugsBane = "防蛞蝓"
 	Farming_MothFood = "吸引蛾子",
 	Farming_RabbitBane = "驱除兔子",
 	Farming_SlugsProof = "防蛞蝓",
+	Farming_SlugsBane = "防蛞蝓"
 }

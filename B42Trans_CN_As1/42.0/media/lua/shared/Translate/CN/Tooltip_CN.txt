@@ -1,15 +1,4 @@
 Tooltip_CN = {
-Tooltip_food_Poisonous = "有毒",
-Tooltip_food_MinutesToCook = "分钟后烹饪完毕",
-Tooltip_seen = "已观看",
-Tooltip_heard = "已聆听",
-Tooltip_lightFireNoFuel = "需要已有燃料才能点火.",
-Tooltip_lightFireNoEndurance = "需要未耗尽.",
-Tooltip_NoRecipes = "无法用于配方.",
-Tooltip_NoRecipes_More = "此物品已被标记为<br>无法用于任何配方。",
-Tooltip_Unwanted = "不想要",
-Tooltip_Unwanted_More = "此类物品已被<br>标记为不想要.",
-
     -- Additional Translation --
 Tooltip_Recipe_OpenMacAndCheese = "获取用于制作通心粉和奶酪的通心粉和奶酪粉."
 
@@ -24,6 +13,7 @@ Tooltip_Recipe_OpenMacAndCheese = "获取用于制作通心粉和奶酪的通心
 	Tooltip_food_Toasted = "烤过的",
 	Tooltip_food_Grilled = "烤制的",
 	Tooltip_food_Burnt = "烧焦",
+	Tooltip_food_Poisonous = "有毒",
 	Tooltip_food_Hunger = "饥饿",
 	Tooltip_food_Thirst = "口渴",
 	Tooltip_food_Fatigue = "疲劳",
@@ -33,6 +23,7 @@ Tooltip_Recipe_OpenMacAndCheese = "获取用于制作通心粉和奶酪的通心
 	Tooltip_food_Unhappiness = "忧郁",
 	Tooltip_food_Dangerous_uncooked = "生吃危险",
 	Tooltip_food_SlightDanger_uncooked = "未烹饪会导致疾病和恶心.",
+	Tooltip_food_MinutesToCook = "分钟后烹饪完毕",
     Tooltip_food_Nutrition = "营养成分",
 	Tooltip_tissue_tooltip = "拿着可安静地打喷嚏和咳嗽.",
 	Tooltip_item_StackWeight = "堆叠负重",
@@ -225,6 +216,8 @@ Tooltip_Recipe_OpenMacAndCheese = "获取用于制作通心粉和奶酪的通心
 	Tooltip_blunt = "钝的",
 	Tooltip_dull = "钝",
 	Tooltip_never = "未修理过",
+	Tooltip_seen = "已观看",
+	Tooltip_heard = "已聆听",
 	Tooltip_item_Spices = "调味品: ",
 	Tooltip_needsToBeHot = "容器中的水需要非常热.",
 	Tooltip_Scope = "武器配件. 增加最大射程, 降低近程精度.",
@@ -367,6 +360,8 @@ Tooltip_Recipe_OpenMacAndCheese = "获取用于制作通心粉和奶酪的通心
     Tooltip_craft_pressToRotate = "在建造时按 "%1" 键旋转",
     Tooltip_removeBurntVehicle = " 使 用 焊 工 面 罩 和 丙 烷 喷 灯 来 拆 解 汽 车 残 骸 , 并 获 得 金 属 材 料 . <LINE> 更 高 的 金 工 技 能 将 回 收 更 多 的 材 料 .",
     Tooltip_lightFireNoStick = "需要树枝或木棒来点燃.",
+    Tooltip_lightFireNoFuel = "需要已有燃料才能点火.",
+    Tooltip_lightFireNoEndurance = "需要未耗尽.",
     Tooltip_item_Insulation = "保温性能",
     Tooltip_NeedWrench = "你需要一个 %1 来做这个.",
     Tooltip_weapon_Jammed = "武器卡壳, 请手动退膛.",
@@ -642,4 +637,9 @@ Tooltip_Recipe_OpenMacAndCheese = "获取用于制作通心粉和奶酪的通心
 
 	Tooltip_item_BreakOnSmithing = "用于锻造时会损坏.",
 	Tooltip_weapon_NoMaintenanceXp = "作为武器使用时不会获得维护经验值.",
+
+	Tooltip_NoRecipes = "无法用于配方.",
+	Tooltip_NoRecipes_More = "此物品已被标记为<br>无法用于任何配方. ",
+	Tooltip_Unwanted = "不想要",
+	Tooltip_Unwanted_More = "此类物品已被<br>标记为不想要.",
 }

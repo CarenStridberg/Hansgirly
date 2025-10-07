@@ -1,8 +1,4 @@
 UI_CN = {
-UI_optionscreen_view_cone_opacity = "视图锥体不透明度",
-UI_trait_Crafty = "工艺精湛",
-UI_trait_CraftyDesc = "提供制作技能的经验值增益.",
-
     -- Additional Translation --
     UI_Map_HighlightStreet = "高亮街道",
     UI_Map_OutlineStreets = "主路标识",
@@ -267,6 +263,7 @@ UI_trait_CraftyDesc = "提供制作技能的经验值增益.",
     UI_optionscreen_clock_24_hour = "24 小时制",
     UI_optionscreen_clock_12_hour = "12 小时制",
     UI_optionscreen_fog_quality = "雾气质量",
+    UI_optionscreen_view_cone_opacity = "视图锥体不透明度",
     UI_optionscreen_legacy = "遗留 (版本 40)",
     UI_optionscreen_language = "语言",
     UI_optionscreen_keybinding = "按键设置",
@@ -481,6 +478,8 @@ UI_trait_CraftyDesc = "提供制作技能的经验值增益.",
     UI_trait_ArtisanDesc = "擅长陶艺和玻璃工艺品制作.",
     UI_trait_Inventive = "创新者",
     UI_trait_InventiveDesc = "通过物品研究配方或自动学习配方时所需技能等级更低.",
+    UI_trait_Crafty = "工艺精湛",
+    UI_trait_CraftyDesc = "提供制作技能的经验值增益.",
     -- UI_prof_MetalWorker = "Metalworker",
 
     UI_trait_axemandesc = "更擅长砍树. <br>挥动斧头的速度更快.",

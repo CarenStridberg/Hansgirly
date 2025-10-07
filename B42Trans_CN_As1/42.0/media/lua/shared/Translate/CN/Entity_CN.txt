@@ -1,7 +1,4 @@
 Entity_CN = {
-EC_CraftLogic_Duration_Unknown = "所需时间: ??",
-EC_CraftLogic_Inputs_Full = "栏位已满!",
-
     EC_Entity_DisplayName_Default = "通用实体名称",
     EC_Entity_BuildDescription_Default = "通用实体建造描述",
 
@@ -32,6 +29,8 @@ EC_CraftLogic_Inputs_Full = "栏位已满!",
     EC_CraftLogic_Tools = "工具",
     EC_CraftLogic_Progress = "进行中",
     EC_CraftLogic_Duration = "所需时间: \n%1",
+    EC_CraftLogic_Duration_Unknown = "所需时间: ??",
+    EC_CraftLogic_Inputs_Full = "栏位已满!",
     
     -- Tooltips
     EC_CraftLogicTooltip_NoCraftInProgress = "没有进行中的制作.",

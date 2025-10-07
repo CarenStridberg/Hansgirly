@@ -1,15 +1,10 @@
 Fluids_CN = {
-Fluid_Any = "任意%1"
-Fluid_Any_Others = "任意%1或其他"
-Fluid_And_Others = "%1或其他"
-Fluid_Name_Any = "任何液体",
-
     Fluid_Transfer_Fluids = "转移液体",
     Fluid_Info_Panel = "容器信息",
     Fluid_Max_Transfer = "最大转移量",
     Fluid_Transferring = "正在转移",
     Fluid_Swap = "交换",
-    Fluid_Transfer = "转移",
+    Fluid_Transfer_Fluids = "转移液体",
     Fluid_Close = "取消",
     Fluid_Source = "源容器",
     Fluid_Target = "目标容器",
@@ -61,6 +56,10 @@ Fluid_Name_Any = "任何液体",
     Fluid_Poison_Medium = "中等",
     Fluid_Poison_Mild = "轻微",
     Fluid_Poison_None = "无",
+
+    Fluid_Any = "任意%1"
+    Fluid_Any_Others = "任意%1或其他"
+    Fluid_And_Others = "%1或其他"
 
     Fluid_Category_Beverage = "饮料",
     Fluid_Category_Water = "水",
@@ -131,6 +130,8 @@ Fluid_Name_Any = "任何液体",
     Fluid_Container_LeatherWaterBag = "皮水袋",
     Fluid_Container_LargeBucket = "大桶",
 
+    Fluid_Name_Any = "任何液体",
+    
     Fluid_Name_Acid = "酸",
     Fluid_Name_Alcohol = "酒精",
     Fluid_Name_AnimalBlood = "动物血液",
