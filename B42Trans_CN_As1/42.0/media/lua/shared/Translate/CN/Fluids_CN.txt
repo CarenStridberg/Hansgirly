@@ -48,7 +48,7 @@ Fluids_CN = {
     Fluid_Prop_Proteins = "蛋白质",
     Fluid_Prop_Alcohol = "酒精",
 
-    Fluid_Poison = "中毒",
+    Fluid_Poison = "有毒",
     Fluid_Effect = "效果",
     Fluid_Poison_Deadly = "致命",
     Fluid_Poison_Extreme = "极度",

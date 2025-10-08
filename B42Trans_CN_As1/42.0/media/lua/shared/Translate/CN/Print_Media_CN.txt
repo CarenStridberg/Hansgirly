@@ -954,7 +954,7 @@ Print_Media_GreenesJobAdEkron_title = "格林杂货店招聘广告 (以革伦)",
 
 Print_Media_MailCarrierAdEkron_title = "招聘: 邮递员 (以革伦)",
 
-Print_Media_PremiseswithApartmentsforLeaselistingno891_title = "Premises with Apartments for Lease (listing no. 891)",
+Print_Media_PremiseswithApartmentsforLeaselistingno891_title = "出租公寓 (no. 891)",
 
 Print_Media_HouseforSale907_title = "吉房出售 (no. 907)",
 
@@ -1320,7 +1320,7 @@ Print_Media_HouseforSale860_title = "吉房出售 (no. 860)",
 Print_Media_HouseforSale860_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house860.png"), width:800, height:1131>",
 
-Print_Media_PremisesforLease863_title = "Premises for Lease (listing no. 863)",
+Print_Media_PremisesforLease863_title = "出租 (no. 863)",
 
 Print_Media_PremisesforLease863_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house863.png"), width:800, height:1131>",
