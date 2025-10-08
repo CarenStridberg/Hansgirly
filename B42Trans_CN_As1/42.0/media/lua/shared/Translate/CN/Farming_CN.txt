@@ -1,7 +1,6 @@
 Farming_CN = {
     -- Additional Translation --
     Farming_Strawberry_plant = "草莓",
-    Farming_Tomato_Vine = "番茄",
 
     -- vegetables name (type of seed)
     Farming_Carrots = "胡萝卜",

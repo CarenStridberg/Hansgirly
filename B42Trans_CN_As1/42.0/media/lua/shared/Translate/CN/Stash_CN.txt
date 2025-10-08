@@ -1,11 +1,11 @@
 Stash_CN = {
     -- Additional Translation --
-    Stash_WorldMap1_Text4 = "如果你开的比较慢，不要吸引他们",
-    Stash_WorldMap8_Text1 = "肯的东西，应该可以用上",
+    Stash_WorldMap1_Text4 = "如果你开的比较慢, 不要吸引他们",
+    Stash_WorldMap8_Text1 = "肯的东西, 应该可以用上",
     Stash_WorldMap8_Text2 = "小心跟随你的人",
     Stash_WorldMap8_Text21 = "不仅仅是僵尸",
-    Stash_WorldMap8_Text3 = "办公室，空的",
-    Stash_WorldMap8_Text4 = "仓库？",
+    Stash_WorldMap8_Text3 = "办公室, 空的",
+    Stash_WorldMap8_Text4 = "仓库?",
     Stash_WorldMap14_Text3 = "上帝保佑他们",
     Stash_WorldMap18_Text1 = "本",
     Stash_WorldMap18_Text2 = "路径",
