@@ -1039,7 +1039,7 @@ Sandbox_PhysicHitReactionStrength_option4 = "低",
     Sandbox_HardFallThreshold2 = "DEV: 硬跌落阈值2",
     -- Sandbox_HardFallThreshold2_tooltip = "触发硬跌落标志 2 所需的跌落时间",
     Sandbox_LethalFallThreshold = "DEV: 致命跌落阈值",
-    Sandbox_HardFallThreshold2_tooltip = "触发自动致命跌落的跌落时间；0 将禁用自动致命跌落",
+    Sandbox_HardFallThreshold2_tooltip = "触发自动致命跌落的跌落时间; 0 将禁用自动致命跌落",
 
     Sandbox_MaximumLooted = "最大被掠夺建筑几率",
     Sandbox_MaximumLooted_tooltip = "任何建筑在被发现时已经被掠夺的几率. \n勾选下方的"高级"选项以使用自定义数字.",
