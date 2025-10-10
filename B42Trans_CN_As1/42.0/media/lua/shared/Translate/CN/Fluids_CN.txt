@@ -20,8 +20,8 @@ Fluids_CN = {
 
     Fluid_Empty = "空",
     Fluid_HoldingNone = "空 %1",
-    Fluid_HoldingOneType = "%2 (%1)",
-    Fluid_HoldingTwoTypes = "%2 和 %3 (%1)",
+    Fluid_HoldingOneType = "%1 (%2)",
+    Fluid_HoldingTwoTypes = "%1 (%2 和 %3)",
     Fluid_Of = "的",
     Fluid_Per = "每",
     Fluid_And = "和",
