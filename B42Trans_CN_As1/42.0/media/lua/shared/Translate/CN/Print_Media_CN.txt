@@ -812,7 +812,7 @@ Print_Media_McCoyLoggingCorp_title = "麦考伊伐木公司",
 
 Print_Media_NolansUsedCars_title = "诺兰二手车行",
 
-Print_Media_WestMapleCountryClub_title = "西枫乡村俱乐部",
+Print_Media_WestMapleCountryClub_title = "西枫郊野俱乐部",
 
 Print_Media_FashionaBelle_title = "时尚佳人",
 
@@ -820,11 +820,11 @@ Print_Media_TacodelPancho_title = "潘乔的墨西哥卷饼店",
 
 Print_Media_CrossRoadsMall_title = "十字路口购物中心",
 
-Print_Media_UStoreItRiverside_title = "优储存 (河畔镇)",
+Print_Media_UStoreItRiverside_title = "优仓储 (河畔镇)",
 
-Print_Media_UStoreItLouisville_title = "优储存 (路易斯维尔)",
+Print_Media_UStoreItLouisville_title = "优仓储 (路易斯维尔)",
 
-Print_Media_UStoreItMuldraugh_title = "优储存 (马尔德劳)",
+Print_Media_UStoreItMuldraugh_title = "优仓储 (马尔德劳)",
 
 Print_Media_Fossoil1_title = "福索石油 (马尔德劳)",
 
@@ -866,7 +866,7 @@ Print_Media_TheSeaShanty_title = "船歌餐厅",
 
 Print_Media_ScarletOakDistillery_title = "红橡威士忌蒸馏厂",
 
-Print_Media_ReadyPrep_title = "速备军事用品店",
+Print_Media_ReadyPrep_title = "预备役军事用品店",
 
 Print_Media_WellingtonHeightsGolfClub_title = "惠灵顿高地高尔夫俱乐部",
 
@@ -884,9 +884,9 @@ Print_Media_PizzaWhirled_title = "披萨旋风",
 
 Print_Media_PizzaWhirledJobAdRosewood_title = "披萨旋风 (罗斯伍德)",
 
-Print_Media_PileoCrepeJobAdCrossRoadsMall_title = "可丽家招聘广告 (十字路口购物中心)",
+Print_Media_PileoCrepeJobAdCrossRoadsMall_title = "可丽塔招聘广告 (十字路口购物中心)",
 
-Print_Media_HitVidsJobAdMarchRidge_title = "Hit Vids 影音店招聘广告 (三月岭)",
+Print_Media_HitVidsJobAdMarchRidge_title = "爆红视频租赁招聘广告 (三月岭)",
 
 Print_Media_MarchRidgeSchoolJobAd_title = "三月岭社区学校工作招聘",
 
@@ -958,7 +958,7 @@ Print_Media_PremiseswithApartmentsforLeaselistingno891_title = "出租公寓 (no
 
 Print_Media_HouseforSale907_title = "吉房出售 (no. 907)",
 
-Print_Media_YourLocalShelterBrandenburg_title = "Your Local Shelter (Brandenburg)",
+Print_Media_YourLocalShelterBrandenburg_title = "您的当地避难所 (勃兰登堡)",
 
 Print_Media_BrandenburgAirfield_title = "勃兰登堡机场",
 
@@ -1255,7 +1255,7 @@ Print_Media_AlsAutoShop_title = "阿尔汽修店",
 Print_Media_AlsAutoShop_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/AlsAutoShop.png"), width:800, height:1131>",
 
-Print_Media_NailsAndNuts_title = "螺丝螺母专卖行",
+Print_Media_NailsAndNuts_title = "钉螺五金店",
 
 Print_Media_NailsAndNuts_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NailsandNuts.png"), width:800, height:1131>",
@@ -1355,7 +1355,7 @@ Print_Media_OldCGECorpBuilding_title = "旧 CGE 公司大楼",
 Print_Media_OldCGECorpBuilding_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/CGECorp.png"), width:800, height:1131>",
 
-Print_Media_RustyRifle_title = "锈步枪酒吧",
+Print_Media_RustyRifle_title = "宝枪未老酒吧",
 
 Print_Media_RustyRifle_info = "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/RustyRifle.png"), width:800, height:1131>",
@@ -1464,7 +1464,7 @@ Print_Media_QuillManor_title= "布伦福德的翎毛庄园",
 Print_Media_QuillManor_info= "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Brenford.png"), width:800, height:1131>",
 
-Print_Media_Sammies_title= "萨米之家百货 (勃兰登堡)",
+Print_Media_Sammies_title= "萨米百货 (勃兰登堡)",
 Print_Media_Sammies_info= "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Sammies.png"), width:800, height:1131>",
 
@@ -1523,7 +1523,7 @@ Print_Media_FlyerTemplate2_info = "<type:parent, width:480, height:715>"..
 "<type:text, x:20, y:150, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Lorem ipsum ( 无 实 意 )"..
 "<type:text, x:20, y:210, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Lorem ipsum ( 无 实 意 )"..
 "<type:text, x:20, y:270, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Lorem ipsum ( 无 实 意 )"..
-"<type:text, x:170, y:150, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold> 西 枫 乡 村 俱 乐 部 是 运 动 爱 好 者 的 一 方 小 天 堂 - 1993 年 会 员 招 募 现 已 开 启 ! "..
+"<type:text, x:170, y:150, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold> 西 枫 郊 野 俱 乐 部 是 运 动 爱 好 者 的 一 方 小 天 堂 - 1993 年 会 员 招 募 现 已 开 启 ! "..
 "<type:text, x:170, y:210, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. ( 无 实 意 )"..
 "<type:text, x:170, y:270, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. ( 无 实 意 )"..
 "<type:texture, x:10, y:330, width:460, height:45, r:0, g:0, b:0>"..
@@ -1585,7 +1585,7 @@ Print_Media_FlyerTemplate7_info = "<type:parent, width:480, height:715>"..
 "<type:texture, x:100, y:10, texture:getTexture("media/textures/printMedia/FlyerPics/WestMapleCountryClub.png"), width:300, height:110, r:225/255.0, g:225/255.0, b:225/255.0>"..
 "<type:texture, x:20, y:130, width:130, height:185, r:0, g:0, b:0>"..
 "<type:texture, x:22, y:132, width:126, height:181, r:225/255.0, g:225/255.0, b:225/255.0>"..
-"<type:text, x:170, y:140, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold> 西 枫 乡 村 俱 乐 部 : 体 育 爱 好 者 的 天 堂 ! 世 界 级 18 洞 高 尔 夫 球 场 吸 引 着 来 自 全 球 的 专 业 球 手 "..
+"<type:text, x:170, y:140, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold> 西 枫 郊 野 俱 乐 部 : 体 育 爱 好 者 的 天 堂 ! 世 界 级 18 洞 高 尔 夫 球 场 吸 引 着 来 自 全 球 的 专 业 球 手 "..
 "<type:text, x:170, y:210, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold> 但 高 尔 夫 只 是 我 们 众 多 特 色 之 一 ! 泳 池 游 泳 , 打 网 球 , 壁 球 或 台 球 , 舒 适 的 休 息 室 , 酒 吧 和 餐 厅 , 放 松 身 心 , 补 充 能 量 ."..
 "<type:text, x:170, y:270, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold> 新 会 员 加 入 可 享 5% 的 会 员 折 扣 , 最 低 仅 需 3999 美 元 , 现 在 加 入 再 好 不 过 ! "..
 "<type:texture, x:10, y:330, width:460, height:45, r:0, g:0, b:0>"..
@@ -1604,8 +1604,8 @@ Print_Media_FlyerTemplate8_info = "<type:parent, width:480, height:650>"..
 "<type:texture, x:100, y:10, texture:getTexture("media/textures/printMedia/logos/PonyRoamO.png"), width:300, height:110, r:225/255.0, g:225/255.0, b:225/255.0>"..
 "<type:texture, x:20, y:130, width:130, height:185, r:0, g:0, b:0>"..
 "<type:texture, x:22, y:132, width:126, height:181, r:225/255.0, g:225/255.0, b:225/255.0>"..
-"<type:text, x:170, y:130, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:450, font:UIFont.SdfOldBold> 西 枫 乡 村 俱 乐 部 : 体 育 爱 好 者 的 天 堂 ! 世 界 级 18 洞 高 尔 夫 球 场 吸 引 着 来 自 全 球 的 专 业 球 手 "..
-"<type:text, x:20, y:350, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:450, font:UIFont.SdfOldBold> 西 枫 乡 村 俱 乐 部 : 体 育 爱 好 者 的 天 堂 ! 世 界 级 18 洞 高 尔 夫 球 场 吸 引 着 来 自 全 球 的 专 业 球 手 "..
+"<type:text, x:170, y:130, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:450, font:UIFont.SdfOldBold> 西 枫 郊 野 俱 乐 部 : 体 育 爱 好 者 的 天 堂 ! 世 界 级 18 洞 高 尔 夫 球 场 吸 引 着 来 自 全 球 的 专 业 球 手 "..
+"<type:text, x:20, y:350, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:450, font:UIFont.SdfOldBold> 西 枫 郊 野 俱 乐 部 : 体 育 爱 好 者 的 天 堂 ! 世 界 级 18 洞 高 尔 夫 球 场 吸 引 着 来 自 全 球 的 专 业 球 手 "..
 "<type:texture, x:300, y:350, width:130, height:185, r:0, g:0, b:0>"..
 "<type:texture, x:302, y:352, width:126, height:181, r:225/255.0, g:225/255.0, b:225/255.0>"..
 "<type:text, x:10, y:560, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold> 地 址 , 肯 塔 基 州 "..
@@ -1619,7 +1619,7 @@ Print_Media_FlyerTemplate9_info = "<type:parent, width:480, height:715>"..
 "<type:texture, x:100, y:10, texture:getTexture("media/textures/printMedia/logos/ChapelmountDowns.png"), width:300, height:110, r:225/255.0, g:225/255.0, b:225/255.0>"..
 "<type:texture, x:10, y:130, width:460, height:255, r:0, g:0, b:0>"..
 "<type:texture, x:12, y:132, width:456, height:251, r:225/255.0, g:225/255.0, b:225/255.0>"..
-"<type:text, x:20, y:395, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold> 西 枫 乡 村 俱 乐 部 : 体 育 爱 好 者 的 天 堂 ! 世 界 级 18 洞 高 尔 夫 球 场 吸 引 着 来 自 全 球 的 专 业 球 手 "..
+"<type:text, x:20, y:395, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold> 西 枫 郊 野 俱 乐 部 : 体 育 爱 好 者 的 天 堂 ! 世 界 级 18 洞 高 尔 夫 球 场 吸 引 着 来 自 全 球 的 专 业 球 手 "..
 "<type:texture, x:10, y:580, width:460, height:45, r:0, g:0, b:0>"..
 "<type:texture, x:12, y:582, width:456, height:41, r:225/255.0, g:225/255.0, b:225/255.0>"..
 "<type:text, x:241, y:605, r:0, g:0, b:0, pivotX:0.5, pivotY:0.5, scaleX:0.75, scaleY:0.75, font:UIFont.SdfOldBold> 我 们 一 直 在 等 你 ."..
@@ -1672,9 +1672,9 @@ Print_Media_FlyerTemplate14_info = "<type:parent, width:480, height:715>"..
 "<type:texture, width:480, height:715, r:225/255.0, g:225/255.0, b:225/255.0>"..
 "<type:text, x:240, y:15, r:0, g:0, b:0, pivotX:0.5, pivotY:0, scaleX:1.5, scaleY:1.5, autoWidth:440/0.6, font:UIFont.SdfOldBold> 大 标 题 "..
 "<type:texture, x:240, y:200, pivotX:0.5, width:200, height:200, r:0, g:0, b:0>"..
-"<type:text, x:20, y:85, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold> 西 枫 乡 村 俱 乐 部 : 体 育 爱 好 者 的 天 堂 ! 世 界 级 18 洞 高 尔 夫 球 场 吸 引 着 来 自 全 球 的 专 业 球 手 ."..
+"<type:text, x:20, y:85, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold> 西 枫 郊 野 俱 乐 部 : 体 育 爱 好 者 的 天 堂 ! 世 界 级 18 洞 高 尔 夫 球 场 吸 引 着 来 自 全 球 的 专 业 球 手 ."..
 "<type:texture, x:240, y:202, pivotX:0.5, width:196, height:196, r:225/255.0, g:225/255.0, b:225/255.0>"..
-"<type:text, x:20, y:420, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold> 西 枫 乡 村 俱 乐 部 : 体 育 爱 好 者 的 天 堂 ! 世 界 级 18 洞 高 尔 夫 球 场 吸 引 着 来 自 全 球 的 专 业 球 手 "..
+"<type:text, x:20, y:420, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold> 西 枫 郊 野 俱 乐 部 : 体 育 爱 好 者 的 天 堂 ! 世 界 级 18 洞 高 尔 夫 球 场 吸 引 着 来 自 全 球 的 专 业 球 手 "..
 "<type:texture, x:10, y:580, width:460, height:45, r:0, g:0, b:0>"..
 "<type:texture, x:12, y:582, width:456, height:41, r:225/255.0, g:225/255.0, b:225/255.0>"..
 "<type:text, x:241, y:605, r:0, g:0, b:0, pivotX:0.5, pivotY:0.5, scaleX:0.75, scaleY:0.75, font:UIFont.SdfOldBold> 我 们 一 直 在 等 你 ."..

@@ -4476,7 +4476,7 @@
             <point x="1874.5" y="6473.0"/>
         </points>
     </street>
-    <street name="KY-60" width="16">
+    <street name="60号公路" width="16">
         <points>
             <point x="2997.0" y="6151.0"/>
             <point x="3460.5" y="6151.0"/>
@@ -4493,7 +4493,7 @@
             <point x="3755.0" y="6058.5"/>
         </points>
     </street>
-    <street name="KY-60" width="17">
+    <street name="60号公路" width="17">
         <points>
             <point x="3753.5" y="8717.0"/>
             <point x="3829.0" y="8868.0"/>
@@ -4501,19 +4501,19 @@
             <point x="4338.5" y="9510.0"/>
         </points>
     </street>
-    <street name="KY-60" width="16">
+    <street name="60号公路" width="16">
         <points>
             <point x="3754.0" y="6055.0"/>
             <point x="3754.0" y="8721.0"/>
         </points>
     </street>
-    <street name="KY-60" width="14">
+    <street name="60号公路" width="14">
         <points>
             <point x="1501.0" y="5758.5"/>
             <point x="1501.0" y="6080.0"/>
         </points>
     </street>
-    <street name="KY-60" width="12">
+    <street name="60号公路" width="12">
         <points>
             <point x="1501.0" y="5758.5"/>
             <point x="1501.5" y="5517.0"/>
@@ -4528,55 +4528,55 @@
             <point x="1874.5" y="6473.0"/>
         </points>
     </street>
-    <street name="KY-144" width="9">
+    <street name="144号公路" width="9">
         <points>
             <point x="4200.0" y="9895.5"/>
             <point x="4330.0" y="9895.5"/>
         </points>
     </street>
-    <street name="KY-144" width="8">
+    <street name="144号公路" width="8">
         <points>
             <point x="1528.0" y="9895.0"/>
             <point x="4200.0" y="9895.0"/>
         </points>
     </street>
-    <street name="KY-60" width="15">
+    <street name="60号公路" width="15">
         <points>
             <point x="6000.0" y="11204.5"/>
             <point x="12900.0" y="11204.5"/>
         </points>
     </street>
-    <street name="KY-60" width="16">
+    <street name="60号公路" width="16">
         <points>
             <point x="5296.5" y="11204.0"/>
             <point x="6000.0" y="11204.0"/>
         </points>
     </street>
-    <street name="KY-60" width="17">
+    <street name="60号公路" width="17">
         <points>
             <point x="4960.0" y="11034.5"/>
             <point x="5300.0" y="11204.5"/>
         </points>
     </street>
-    <street name="KY-60" width="16">
+    <street name="60号公路" width="16">
         <points>
             <point x="4569.5" y="10644.0"/>
             <point x="4962.0" y="11036.5"/>
         </points>
     </street>
-    <street name="KY-60" width="17">
+    <street name="60号公路" width="17">
         <points>
             <point x="4338.0" y="10179.0"/>
             <point x="4571.5" y="10646.0"/>
         </points>
     </street>
-    <street name="KY-60" width="16">
+    <street name="60号公路" width="16">
         <points>
             <point x="4338.0" y="9506.0"/>
             <point x="4338.0" y="10183.0"/>
         </points>
     </street>
-    <street name="KY-163" width="15">
+    <street name="163号公路" width="15">
         <points>
             <point x="10599.0" y="12324.5"/>
             <point x="11221.5" y="12324.5"/>
@@ -4589,50 +4589,50 @@
             <point x="12591.5" y="11212.0"/>
         </points>
     </street>
-    <street name="KY-79" width="8">
+    <street name="79号公路" width="8">
         <points>
             <point x="832.0" y="10691.0"/>
             <point x="832.0" y="13305.5"/>
         </points>
     </street>
-    <street name="KY-79" width="6">
+    <street name="79号公路" width="6">
         <points>
             <point x="950.0" y="13446.0"/>
             <point x="988.0" y="13465.0"/>
         </points>
     </street>
-    <street name="KY-79" width="5">
+    <street name="79号公路" width="5">
         <points>
             <point x="852.5" y="13348.5"/>
             <point x="950.5" y="13446.5"/>
         </points>
     </street>
-    <street name="KY-79" width="6">
+    <street name="79号公路" width="6">
         <points>
             <point x="831.0" y="13304.0"/>
             <point x="853.5" y="13349.0"/>
         </points>
     </street>
-    <street name="KY-79" width="8">
+    <street name="79号公路" width="8">
         <points>
             <point x="987.0" y="13464.0"/>
             <point x="1099.0" y="13464.0"/>
         </points>
     </street>
-    <street name="KY-79" width="8">
+    <street name="79号公路" width="8">
         <points>
             <point x="1902.0" y="14838.5"/>
             <point x="1920.0" y="14829.5"/>
             <point x="2250.5" y="14499.0"/>
         </points>
     </street>
-    <street name="KY-79" width="6">
+    <street name="79号公路" width="6">
         <points>
             <point x="1500.0" y="14838.0"/>
             <point x="1903.5" y="14838.0"/>
         </points>
     </street>
-    <street name="KY-79" width="6">
+    <street name="79号公路" width="6">
         <points>
             <point x="1099.0" y="13460.0"/>
             <point x="1099.0" y="13654.0"/>
@@ -4646,19 +4646,19 @@
             <point x="1500.0" y="14839.0"/>
         </points>
     </street>
-    <street name="KY-79" width="8">
+    <street name="79号公路" width="8">
         <points>
             <point x="8268.0" y="14116.0"/>
             <point x="10585.0" y="14116.0"/>
         </points>
     </street>
-    <street name="KY-79" width="7">
+    <street name="79号公路" width="7">
         <points>
             <point x="8217.5" y="14141.0"/>
             <point x="8269.0" y="14115.0"/>
         </points>
     </street>
-    <street name="KY-79" width="8">
+    <street name="79号公路" width="8">
         <points>
             <point x="2593.0" y="14501.0"/>
             <point x="5309.0" y="14501.0"/>
@@ -4678,13 +4678,13 @@
             <point x="8217.5" y="14141.0"/>
         </points>
     </street>
-    <street name="KY-79" width="10">
+    <street name="79号公路" width="10">
         <points>
             <point x="2248.5" y="14501.0"/>
             <point x="2593.0" y="14501.0"/>
         </points>
     </street>
-    <street name="KY-79" width="7">
+    <street name="79号公路" width="7">
         <points>
             <point x="539.0" y="9295.0"/>
             <point x="566.0" y="9241.0"/>
@@ -4695,7 +4695,7 @@
             <point x="1874.0" y="8134.5"/>
         </points>
     </street>
-    <street name="KY-163" width="8">
+    <street name="163号公路" width="8">
         <points>
             <point x="4274.0" y="6106.0"/>
             <point x="4388.0" y="6106.0"/>
@@ -4711,7 +4711,7 @@
             <point x="5454.0" y="5836.0"/>
         </points>
     </street>
-    <street name="KY-163" width="7">
+    <street name="163号公路" width="7">
         <points>
             <point x="4147.0" y="5999.0"/>
             <point x="4184.5" y="6017.5"/>
@@ -4721,7 +4721,7 @@
             <point x="4275.0" y="6106.5"/>
         </points>
     </street>
-    <street name="KY-163" width="8">
+    <street name="163号公路" width="8">
         <points>
             <point x="3763.0" y="6086.0"/>
             <point x="3784.5" y="6044.0"/>
@@ -4730,7 +4730,7 @@
             <point x="4149.0" y="6000.0"/>
         </points>
     </street>
-    <street name="KY-163" width="8">
+    <street name="163号公路" width="8">
         <points>
             <point x="7168.0" y="6015.0"/>
             <point x="7168.0" y="6258.0"/>
@@ -4873,7 +4873,7 @@
             <point x="1975.0" y="6888.5"/>
         </points>
     </street>
-    <street name="KY-79" width="6">
+    <street name="79号公路" width="6">
         <points>
             <point x="1967.0" y="6888.5"/>
             <point x="1967.0" y="7420.5"/>
@@ -4882,7 +4882,7 @@
             <point x="1874.0" y="8135.0"/>
         </points>
     </street>
-    <street name="KY-79" width="6">
+    <street name="79号公路" width="6">
         <points>
             <point x="1975.0" y="6888.0"/>
             <point x="1975.0" y="7425.5"/>
@@ -4897,7 +4897,7 @@
             <point x="12936.0" y="3442.0"/>
         </points>
     </street>
-    <street name="KY-1394" width="6">
+    <street name="1394号公路" width="6">
         <points>
             <point x="12067.0" y="3173.0"/>
             <point x="12072.0" y="3180.0"/>
@@ -4908,7 +4908,7 @@
             <point x="12932.0" y="3445.0"/>
         </points>
     </street>
-    <street name="KY-1394" width="6">
+    <street name="1394号公路" width="6">
         <points>
             <point x="12067.0" y="3173.0"/>
             <point x="12062.0" y="3180.0"/>
@@ -4919,7 +4919,7 @@
             <point x="12932.0" y="3455.0"/>
         </points>
     </street>
-    <street name="KY-841" width="6">
+    <street name="841号公路" width="6">
         <points>
             <point x="12940.0" y="3445.0"/>
             <point x="15144.5" y="3445.0"/>
@@ -4929,7 +4929,7 @@
             <point x="15898.0" y="3325.0"/>
         </points>
     </street>
-    <street name="KY-841" width="6">
+    <street name="841号公路" width="6">
         <points>
             <point x="12940.5" y="3455.0"/>
             <point x="15137.0" y="3455.0"/>
@@ -4949,7 +4949,7 @@
             <point x="14104.0" y="5422.0"/>
         </points>
     </street>
-    <street name="KY-163" width="8">
+    <street name="163号公路" width="8">
         <points>
             <point x="7277.0" y="8566.0"/>
             <point x="7277.0" y="9749.0"/>
