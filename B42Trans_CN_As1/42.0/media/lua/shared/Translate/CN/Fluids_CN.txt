@@ -18,7 +18,7 @@ Fluids_CN = {
     Fluid_Show_Info = "显示信息",
     Fluid_Items_Inventory = "物品需从人物库存拖入面板.",
 
-    Fluid_Empty = "空",
+    Fluid_Empty = "倒空",
     Fluid_HoldingNone = "空 %1",
     Fluid_HoldingOneType = "%1 (%2)",
     Fluid_HoldingTwoTypes = "%1 (%2 和 %3)",

@@ -1642,7 +1642,7 @@ Print_Media_FlyerTemplate10_info = "<type:parent, width:480, height:690>"..
 Print_Media_FlyerTemplate11_info = "<type:parent, width:450, height:750>"..
 "<type:texture, width:450, height:750, r:79/255.0, g:129/255.0, b:241/255.0>"..
 "<type:texture, x:70, y:10, texture:getTexture("media/textures/printMedia/logos/Fossoil.png"), pivotX:-0.6, width:120, height:60>"..
-"<type:text, x:15, y:80, r:232/255, g:230/255, b:228/255, a:0.9, autoWidth:700, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfBold> 油 价 低 至 谷 底 ! 含 铅 量 比 以 往 更 低 , 选 择 福 索 加 油 , 时 机 再 好 不 过 ! 从 经 济 实 惠 的 普 通 汽 油 到 顶 级 优 质 汽 油 , 您 的 发 动 机 和 您 的 钱 包 会 感 谢 您 . 如 果 车 辆 抛 锚 , 感 到 饥 饿 , 或 是 简 单 采 购 , 在 福 索 加 油 能 找 到 一 切 所 需 . ^^ 最 新 油 价 (1993 年 5 月 20 日 ) ^- 常 规 汽 油 : 1.06 美 元 ^- 优 质 汽 油 (Plus) : 1.15 美 元 ^- 特 级 汽 油 (Supreme) : 1.24 美 元 ^- 柴 油 : 1.05 美 元 ^^ 以 下 是 您 所 在 区 域 的 加 油 站 位 置 ! "..
+"<type:text, x:15, y:80, r:232/255, g:230/255, b:228/255, a:0.9, autoWidth:700, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfBold> 油 价 低 至 谷 底 ! 含 铅 量 比 以 往 更 低 , 选 择 福 索 石 油 , 时 机 再 好 不 过 ! 从 经 济 实 惠 的 普 通 汽 油 到 顶 级 优 质 汽 油 , 您 的 发 动 机 和 您 的 钱 包 会 感 谢 您 . 如 果 车 辆 抛 锚 , 感 到 饥 饿 , 或 是 简 单 采 购 , 在 福 索 石 油 能 找 到 一 切 所 需 . ^^ 最 新 油 价 (1993 年 5 月 20 日 ) ^- 常 规 汽 油 : 1.06 美 元 ^- 优 质 汽 油 : 1.15 美 元 ^- 特 级 汽 油 : 1.24 美 元 ^- 柴 油 : 1.05 美 元 ^^ 以 下 是 您 所 在 区 域 的 加 油 站 位 置 ! "..
 "<type:texture, x:450/4, y:450, pivotX:0.5, width:100, height:100, r:225/255.0, g:225/255.0, b:225/255.0>"..
 "<type:text, x:450/4, y:555, pivotX:0.5, r:232/255, g:230/255, b:228/255, a:0.9, autoWidth:700, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfBold> 地 址 1"..
 "<type:texture, x:450*0.75, y:450, pivotX:0.5, width:100, height:100, r:225/255.0, g:225/255.0, b:225/255.0>"..
