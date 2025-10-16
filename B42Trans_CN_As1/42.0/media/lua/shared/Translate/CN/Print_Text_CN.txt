@@ -603,7 +603,7 @@ Print_Text_Sammies_info= "杂货, 服装, 玩具, 电子产品. 还有更多! \n
 Print_Text_Sanatorium_title= "桑德兰山疗养院",
 Print_Text_Sanatorium_info= "每周日, 来美国最"恐怖"的地点之一探寻鬼魂吧! \n\n 桑德兰山疗养院建于 1910 年, 用于应对"白色瘟疫" - 肺结核. \n\n 数百名患者在此离世, 直到 1961 年关闭. \n\n 幸运的是, 瘟疫的日子早已远去, 但有人说… 在月光皎洁的夜晚, 你仍能听到患者的哭喊与呻吟…\n\n 你有足够的勇气加入我们吗? \n\n 致电 943-555-桑德兰 预订你的行程! \n\n 肯塔基州, 勃兰登堡市, 桑德兰山疗养院",
 
-Print_Text_ScarletOakDistillery_title= "红橡威士忌蒸馏厂",
+Print_Text_ScarletOakDistillery_title= "赤橡酒厂",
 Print_Text_ScarletOakDistillery_info= "红橡树 \n 世界顶级波本威士忌 \n\n 陈酿至臻. 我们自 1910 年起酿造. \n 是工人与总统的共同挚爱. \n 抿一口, 便知为何红橡树波本是顶级中的顶级. \n\n 自豪荣获 1992 年北美酿酒师奖, 最佳进口奖及伊莱贾·克雷格纪念奖. \n\n 参观我们的工厂, 全程游览, 沿途还有样品品尝! \n 肯塔基州, 路易斯维尔市, 波本路 455 号",
 
 Print_Text_SunstarMotel_title = "日星汽车旅馆",

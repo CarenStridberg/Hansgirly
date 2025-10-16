@@ -864,7 +864,7 @@ Print_Media_LouisvilleBruiser_title = "路易斯维尔布鲁瑟工厂",
 
 Print_Media_TheSeaShanty_title = "船歌餐厅",
 
-Print_Media_ScarletOakDistillery_title = "红橡威士忌蒸馏厂",
+Print_Media_ScarletOakDistillery_title = "赤橡酒厂",
 
 Print_Media_ReadyPrep_title = "预备役军事用品店",
 
