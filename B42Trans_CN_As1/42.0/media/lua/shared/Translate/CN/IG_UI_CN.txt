@@ -2031,7 +2031,7 @@ IGUI_Fish_Window_Tab_Guide = "指南",
     IGUI_Breed_swamp = "沼泽",
     IGUI_Breed_golden = "金色",
     IGUI_Breed_deer = "白足",
--- 注: White-Footed Mouse (白足鼠), 又称Deer Mouse。
+-- 注: White-Footed Mouse (白足鼠), 又称 Deer Mouse.
     -- IGUI_Breed_white = "Lab",
     IGUI_Breed_appalachian = "阿巴拉契亚",
     IGUI_Breed_cottontail = "棉尾",
