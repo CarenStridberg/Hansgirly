@@ -862,7 +862,7 @@ Print_Media_HavishamSuites_title = "哈维沙姆酒店套房",
 
 Print_Media_LouisvilleBruiser_title = "路易斯维尔布鲁瑟工厂",
 
-Print_Media_TheSeaShanty_title = "船歌餐厅",
+Print_Media_TheSeaShanty_title = "海之屋",
 
 Print_Media_ScarletOakDistillery_title = "赤橡酒厂",
 
@@ -886,7 +886,7 @@ Print_Media_PizzaWhirledJobAdRosewood_title = "披萨旋风 (罗斯伍德)",
 
 Print_Media_PileoCrepeJobAdCrossRoadsMall_title = "可丽塔招聘广告 (十字路口购物中心)",
 
-Print_Media_HitVidsJobAdMarchRidge_title = "爆红视频租赁招聘广告 (三月岭)",
+Print_Media_HitVidsJobAdMarchRidge_title = "爆红录像带租赁招聘广告 (三月岭)",
 
 Print_Media_MarchRidgeSchoolJobAd_title = "三月岭社区学校工作招聘",
 
@@ -942,7 +942,7 @@ Print_Media_CardinalPlaza_title = "红雀广场",
 
 Print_Media_CircuitalHealing_title = "电脑维修",
 
-Print_Media_GnomeSweetGnome_title = "甜蜜地精之家",
+Print_Media_GnomeSweetGnome_title = "甜蜜矮人之家",
 
 Print_Media_MeadshireEstate_title = "米德希尔庄园",
 

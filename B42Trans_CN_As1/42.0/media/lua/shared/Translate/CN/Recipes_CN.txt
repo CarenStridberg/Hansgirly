@@ -1747,14 +1747,14 @@ Recipe_Wild_Garlic_Growing_Season = "野蒜生长季",
     DismantleLongerImplement = "拆解超长工具",
     DismantleGardenImplement = "拆解园艺工具",
 
-    Amphora_Closed = "双耳细颈瓶(关闭)",
+    Amphora_Closed = "陶罐",
     Boulder = "巨石",
     Boulder2 = "巨石",
 
     -- buildings
 
     AdvancedForge = "高级锻造炉",
-    Amphora = "双耳瓶",
+    Amphora = "陶罐",
     BarbedWireFence = "带刺铁丝网围栏",
     Bed = "木床",
     BigDoublePoleGate = "双开高金属柱大门",

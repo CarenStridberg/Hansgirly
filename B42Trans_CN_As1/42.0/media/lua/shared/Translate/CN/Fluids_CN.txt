@@ -65,7 +65,7 @@ Fluids_CN = {
     Fluid_Category_Water = "水",
 
     Fluid_Container_FluidContainer = "液体容器",
-    Fluid_Container_Amphora = "双耳瓶",
+    Fluid_Container_Amphora = "陶罐",
     Fluid_Container_Bathtub = "浴缸",
     Fluid_Container_Bottle = "瓶子",
     Fluid_Container_BottleBeer = "啤酒瓶",
