@@ -5,6 +5,7 @@ function MapSpawnSelect:_fillList()
 	WORLD_MAP = nil
 	self.mapPanel:clear()
 	local spawnSelectImagePyramid = nil
+
 	self.sortedList = {};
 	self.notSortedList = {};
 
@@ -18,6 +19,12 @@ function MapSpawnSelect:_fillList()
 			item.region = v;
 			item.dir = v.name;
 			item.desc = info.description or "NO DESCRIPTION";
+			--item.worldimage = info.thumb;
+			if info.spawnSelectImagePyramid then
+				spawnSelectImagePyramid = info.spawnSelectImagePyramid -- only one is supported
+--			elseif info.worldmap then
+--				WORLD_MAP = info.worldmap
+			end
 			item.zoomX = info.zoomX
 			item.zoomY = info.zoomY
 			item.zoomS = info.zoomS
@@ -47,13 +54,7 @@ function MapSpawnSelect:_fillList()
         --self.listbox:addItem(item.name, item);
 		table.insert(self.notSortedList, item);
     end
-	--[[
-	spawnSelectImagePyramid =
-	getMapInfo("Riverside, KY").spawnSelectImagePyramid or
-	getMapInfo("riverside, ky").spawnSelectImagePyramid or
-	getMapInfo("Muldraugh, KY").spawnSelectImagePyramid or
-	getMapInfo("muldraugh, ky").spawnSelectImagePyramid or nil;
-	]]
+	
 	spawnSelectImagePyramid = getMapInfo("Riverside, KY").dir .. "\\spawnSelectImagePyramid.rar"
 	if spawnSelectImagePyramid then
 		self.mapPanel:setImagePyramid(spawnSelectImagePyramid)
