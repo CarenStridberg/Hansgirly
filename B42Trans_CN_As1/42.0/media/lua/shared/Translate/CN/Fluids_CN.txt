@@ -65,7 +65,7 @@ Fluids_CN = {
     Fluid_Category_Water = "水",
 
     Fluid_Container_FluidContainer = "液体容器",
-    Fluid_Container_Amphora = "陶罐",
+    Fluid_Container_Amphora = "双耳罐",
     Fluid_Container_Bathtub = "浴缸",
     Fluid_Container_Bottle = "瓶子",
     Fluid_Container_BottleBeer = "啤酒瓶",
@@ -157,7 +157,7 @@ Fluids_CN = {
     Fluid_Name_Honey = "蜂蜜",
 	Fluid_Name_JuiceApple = "苹果汁",
 	Fluid_Name_JuiceCranberry = "蔓越莓汁",
-	Fluid_Name_JuiceFruitpunch = "水果宾治汁",
+	Fluid_Name_JuiceFruitpunch = "水果宾治",
 	Fluid_Name_JuiceGrape = "葡萄汁",
 	Fluid_Name_JuiceLemon = "柠檬汁",
 	Fluid_Name_JuiceOrange = "橙汁",
