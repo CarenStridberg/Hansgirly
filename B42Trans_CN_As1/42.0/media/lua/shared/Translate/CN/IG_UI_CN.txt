@@ -1174,7 +1174,7 @@ IGUI_Fish_Window_Tab_Guide = "指南",
     IGUI_Map_TabLoot = "战利品",
     IGUI_Map_TabSymbols = "符号",
 
-    IGUI_Map_Key = "地图键",
+    IGUI_Map_Key = "图例",
 
     IGUI_Map_Community = "社区",
     IGUI_Map_Hospitality = "接待",
