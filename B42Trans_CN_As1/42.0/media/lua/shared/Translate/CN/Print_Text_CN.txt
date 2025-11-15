@@ -310,7 +310,7 @@ Print_Text_ReadyPrep_info = "犯罪率上升! 骚乱频发! 邪教猖獗! \n\n �
 Print_Text_WellingtonHeightsGolfClub_title = "惠灵顿高地高尔夫俱乐部",
 Print_Text_WellingtonHeightsGolfClub_info = "领略惠灵顿高地风光 \n\n 惠灵顿高地公园北侧的 9 洞球场, 难度适中且公平公正, 适合各水平的球手. \n\n 每周都有洛根·巴顿的公开课程, 他是 1992 年河滨精英赛冠军. 提供球杆租赁服务和团体折扣. \n\n 即使你不是高尔夫球手, 也能在我们舒适, 宽敞且私密的会所里享用顶级美食和饮品. 今天就来看看吧? \n\n 惠灵顿高地 \n 我们远超标准水平 \n\n 今天就来打一场吧!",
 
-Print_Text_MuldraughBakeSale_title ="马尔德劳妇女委员会年度烘焙义卖! ",
+Print_Text_MuldraughBakeSale_title ="马尔德劳妇女委员会年度烘焙义卖!",
 Print_Text_MuldraughBakeSale_info = "时间: 7 月 2 日! \n\n 地点: 圣恩教堂停车场! \n\n 有烘焙食品, 还有马蹄铁游戏, 套圈游戏和小马骑行. 全家人的欢乐时刻! \n\n 所有收益都将捐赠给马尔德劳妇女委员会. 团结女性, 为弱势群体筹款.",
 
 Print_Text_FarmingAndRuralSupplyDoeValley_title ="农业与乡村用品店",
@@ -341,7 +341,7 @@ Print_Text_WPTownHall_title = "西点市政厅",
 Print_Text_WPTownHall_info = ""你好! 我是理查德·罗森沃尔德, 西点镇市长! "\n\n 无论遇到什么问题, 市政厅随时都能为你提供帮助. \n\n 民主在开放时才能发挥作用, 我们随时为你敞开大门! \n\n 需要了解当地法律? \n 咨询许可证相关事宜? \n 了解作为美国公民的权利? \n\n 拨打我的办公室电话 555-2100, 或到第三街的市政厅找我",
 
 Print_Text_RiversideIndependenceDayPartyAllWelcome_title  = "河畔镇独立日派对",
-Print_Text_RiversideIndependenceDayPartyAllWelcome_info  = "7 月 4 日, 河畔凯利大道 8 号将举办街区派对. \n\n 音乐, 欢乐, 啤酒和美味的食物! ",
+Print_Text_RiversideIndependenceDayPartyAllWelcome_info  = "7 月 4 日, 河畔凯利大道 8 号将举办街区派对. \n\n 音乐, 欢乐, 啤酒和美味的食物!",
 
 Print_Text_HitVidsJobAdMarchRidge_title = "爆红录像带租赁! 招聘零售助理",
 Print_Text_HitVidsJobAdMarchRidge_info= "爆红录像带租赁影像店三月岭社区分店正在招聘! \n\n 如果你性格友好, 乐于助人, 热爱最新大片, 请联系我们! \n\n 无需工作经验! 今天就申请吧. \n\n 三月岭, 码头大道 5565 号",
@@ -473,7 +473,7 @@ Print_Text_McCoyLoggingCorp_title = "麦考伊伐木公司",
 Print_Text_McCoyLoggingCorp_info = "招聘: 伐木工 \n\n 我们的工厂需要可靠的人员从事重体力劳动. \n\n 工作内容: 使用工业设备, 以及使用斧头和锯子进行小规模锯木和定制木工活. 会开卡车者优先. \n\n 麦考伊伐木公司, 让树木发挥价值, 始于 1914 年\n\n 肯塔基州, 马尔德劳, 老磨坊路, 
 
 Print_Text_DuCaseApartments_title = "杜凯斯公寓",
-Print_Text_DuCaseApartments_info = "月租 450 美元起. \n\n 位于路易斯维尔北部, 价格实惠的公寓, 窗外俄亥俄河美景. \n\n 众多选择, 适合各种生活方式和预算. \n\n 提供私人停车位. 24 小时安保. \n\n 你可以在这里度过余生! ",
+Print_Text_DuCaseApartments_info = "月租 450 美元起. \n\n 位于路易斯维尔北部, 价格实惠的公寓, 窗外俄亥俄河美景. \n\n 众多选择, 适合各种生活方式和预算. \n\n 提供私人停车位. 24 小时安保. \n\n 你可以在这里度过余生!",
 
 Print_Text_RedOakApartments_title = "红橡树公寓",
 Print_Text_RedOakApartments_info = "路易斯维尔市中心精装公寓出租. \n\n 位于大俄亥俄购物中心南部. \n\n 从温馨的单人间到适合大家庭的套间, 任何人都能在这里找到新家! \n\n 月租 500 美元起.",
@@ -497,7 +497,7 @@ Print_Text_ArtGalleryofLouisville_title = "路易斯维尔艺术画廊",
 Print_Text_ArtGalleryofLouisville_info = "一幅画, 一次思想的拓展! \n\n 探索经典画作, 如《星夜》《雾海上的旅人》和《啊!》\n\n 楼上可以欣赏现代艺术作品, 包括获奖艺术家阿什琳·德怀尔的作品. \n\n 老年人免费入场. 12 岁以下儿童半价. \n\n 地址: 路易斯维尔北部, 大桥以南两个街区, 北一街 2023 号. \n\n",
 
 Print_Text_LVPDHQ_title= "公共毒品讲座",
-Print_Text_LVPDHQ_info= "在路易斯维尔警察局总部开办公共毒品知识讲座, 地址: 工业路 635 号 \n\n1993 年 7 月 5 日, 晚 7 点 \n\n 了解吸毒成瘾的危害, 常见的毒品辨识, 以及帮派剥削弱势群体的阴险手段. \n\n 格雷厄姆局长将展示一系列从街头查获的毒品, 并告诉我们毒品不仅仅是他人和罪犯的问题. \n\n 塔拉·汉德尔医生将讲述她自己的吸毒经历, 以及如何获得帮助和希望. \n\n《肯塔基先驱报》的约翰·巴里斯特将为我们讲述这座美丽城市里一些有趣的犯罪故事. 请带着开放的心态到场! ",
+Print_Text_LVPDHQ_info= "在路易斯维尔警察局总部开办公共毒品知识讲座, 地址: 工业路 635 号 \n\n1993 年 7 月 5 日, 晚 7 点 \n\n 了解吸毒成瘾的危害, 常见的毒品辨识, 以及帮派剥削弱势群体的阴险手段. \n\n 格雷厄姆局长将展示一系列从街头查获的毒品, 并告诉我们毒品不仅仅是他人和罪犯的问题. \n\n 塔拉·汉德尔医生将讲述她自己的吸毒经历, 以及如何获得帮助和希望. \n\n《肯塔基先驱报》的约翰·巴里斯特将为我们讲述这座美丽城市里一些有趣的犯罪故事. 请带着开放的心态到场!",
 
 Print_Text_RiversidePD_title= "米德县警察局",
 Print_Text_RiversidePD_info= "7 月 3 日下午 6 点, 将在河畔镇西部的岩岭路 210 号警察局大楼内举行枪支安全简报会. \n\n 学习扳机纪律的重要性 \n 安全存放枪支以保护家人安全 \n 如何在射击前识别目标 \n 你和你的枪: 了解你的权利 \n\n 千万不要错过这次演讲! ",
