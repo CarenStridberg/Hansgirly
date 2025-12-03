@@ -758,7 +758,7 @@ Sandbox_PhysicHitReactionStrength_option4 = "低",
     --
     Sandbox_Vehicle = "汽车",
     Sandbox_ZombieAttractionMultiplier = "僵尸吸引倍率",
-    Sandbox_ZombieAttractionMultiplier_tooltip = "用此来放大或降低发动机的总体响度.",
+    Sandbox_ZombieAttractionMultiplier_tooltip = "用此来放大或降低引擎的总体响度.",
     Sandbox_VehicleEasyUse = "简单模式",
     Sandbox_VehicleEasyUse_tooltip = "汽车是否被锁住, 是否需要钥匙才能启动等.",
     Sandbox_CarSpawnRate = "车辆生成率",
