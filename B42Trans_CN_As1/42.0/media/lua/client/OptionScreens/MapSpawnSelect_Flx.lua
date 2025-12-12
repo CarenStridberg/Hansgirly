@@ -82,6 +82,11 @@ function MapSpawnSelect:_fillList()
 	self:hideOrShowSaveName()
 	self:recalculateMapSize()
 
+    if self.textEntry ~= nil and self.textEntry:getInternalText() == "" then
+        local sdf = SimpleDateFormat.new("yyyy-MM-dd_HH-mm-ss", Locale.ENGLISH);
+        self.textEntry:setText(sdf:format(Calendar.getInstance():getTime()));
+    end
+
 	self.mapPanel.shownInitialLocation = false
 end
 

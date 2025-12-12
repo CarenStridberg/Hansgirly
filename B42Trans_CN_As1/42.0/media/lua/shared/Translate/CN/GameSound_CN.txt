@@ -67,8 +67,8 @@ GameSound_CN = {
     GameSound_Stormy9mmClipEject = "9mm 弹匣",
     GameSound_Stormy9mmRack = "9mm 上膛",
     GameSound_Stormy9mmClipLoad = "9mm 装载弹匣",
-    
-/* Meta */ 
+
+/* Meta */
     GameSound_Helicopter = "直升机",
     GameSound_MetaAssaultRifle1 = "元事件 - 步枪射击",
     GameSound_MetaPistol1 = "元事件 - 手枪射击 1",
@@ -81,7 +81,7 @@ GameSound_CN = {
     GameSound_MetaWolfHowl = "元事件 - 狼嚎",
     GameSound_ChatDrawCard = "抽卡",
     GameSound_ChatRollDice = "掷骰子",
-        
+
 /* Music */
     GameSound_AmbientMusic_BrassAmbient = "环境: 铜管",
     GameSound_AmbientMusic_CreepyAmbient = "环境: 潜行",
@@ -250,8 +250,8 @@ GameSound_CN = {
     GameSound_WalkOnBrokenGlass = "碎玻璃上行走",
     GameSound_WindowRattle = "窗户嘎嘎响",
     GameSound_WindowWind = "风入窗",
-    
-    
+
+
 /* Player */
     GameSound_GetWater = "取水",
     GameSound_GetWaterFromTap = "水龙头取水",
@@ -337,8 +337,8 @@ GameSound_CN = {
     GameSound_HitVehiclePartWithWeapon = "武器击中车辆",
     GameSound_HitVehicleWindowWithWeapon = "武器击中车窗",
     GameSound_VehicleScrapePastPlant = "车辆剐蹭植物",
-    
-    
+
+
 /* World */
     GameSound_HouseAlarm = "房屋警报",
     GameSound_Thunder = "雷声",
@@ -356,8 +356,8 @@ GameSound_CN = {
     GameSound_CatchTrashWithRod = "插中垃圾",
     GameSound_StrikeWithFishingSpear = "长矛攻击",
     GameSound_CheckFishingNet = "检查渔网",
-    
-    
+
+
 /* Zombie */
     GameSound_FemaleZombieCombined = "女僵尸群",
     GameSound_MaleZombieCombined = "男僵尸群",

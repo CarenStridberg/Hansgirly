@@ -1,7 +1,7 @@
 ======= As 1 =======
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/).
-This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms. 
+This license allows others to redistribute, or remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms. 
 
 ======= 如一汉化组 =======
 本作品以CC-BY-NC-SA 4.0协议发布 (https://creativecommons.org/licenses/by-nc-sa/4.0/)。
-若要引用本作品，须注明来源，不得用于商业用途，且必须以与原先许可协议相同或相兼容的许可协议分发作品。
+若要转载、引用或修改本作品，须注明来源，不得用于商业用途，且必须以与原先许可协议相同或相兼容的许可协议分发作品。

@@ -98,106 +98,106 @@ Stash_CN = {
     Stash_MulMap1_Text1 = "这里的地板下藏有某些东西.",
     Stash_MulMap1_Text2 = "",
     Stash_MulMap1_Text3 = "一群僵尸? ",
-	
+
     Stash_MulMap2_Text1 = "远离这里! ",
     Stash_MulMap2_Text2 = "",
     Stash_MulMap2_Text3 = "",
-	
+
     Stash_MulMap3_Text1 = "这里藏着霰弹枪和弹药.",
     Stash_MulMap3_Text2 = "一些工具! ",
     Stash_MulMap3_Text3 = "很多东西在这里.",
-	
+
     Stash_MulMap4_Text1 = "这儿比较容易出去",
     Stash_MulMap4_Text2 = "医疗物资.",
     Stash_MulMap4_Text3 = "它们全都聚在这里",
-	
+
     Stash_MulMap6_Text1 = "我不想再回到这地狱一般的地方! ",
     Stash_MulMap6_Text2 = "医疗物资在这",
     Stash_MulMap6_Text21 = "这里应该有有一些抗生素和绷带.",
     Stash_MulMap6_Text3 = "看到一群僵尸正朝这里行进! ",
-	
+
     Stash_MulMap7_Text1 = "B 计划.",
     Stash_MulMap7_Text2 = "商店, 仍然有很多资源.",
     Stash_MulMap7_Text3 = "搞砸了! ",
-	
+
     Stash_MulMap8_Text1 = "拿走我的东西吧, 如果安全的话希望你能安葬我.",
     Stash_MulMap8_Text2 = "如果需要饮料, 可以来这里! ",
     Stash_MulMap8_Text3 = "有一大堆僵尸在这待了好几天",
-	
+
     Stash_MulMap10_Text1 = "死亡小屋! ",
     Stash_MulMap10_Text2 = "",
     Stash_MulMap10_Text3 = "这里似乎已经被洗劫一空! ",
-	
+
     Stash_MulMap11_Text1 = "浣熊餐厅里有些枪! ",
     Stash_MulMap11_Text2 = "",
     Stash_MulMap11_Text3 = "一些麻烦! ",
-	
+
     Stash_MulMap12_Text1 = "这里有霰弹枪, 也许还有些吃的在厨房里",
     Stash_MulMap12_Text2 = "",
     Stash_MulMap12_Text3 = "大量僵尸! ",
-	
+
     Stash_MulMap13_Text1 = "不得不放弃了一些东西, 太重了.",
     Stash_MulMap13_Text2 = "五金店里还有很多物资.",
     Stash_MulMap13_Text3 = "枪声! ",
 
-	Stash_MulMap14_Text1 = "安全屋 - 建造路障!",
-	Stash_MulMap14_Text2 = "到处都是",
-	Stash_MulMap14_Text3 = "不要开枪 - 声音会吸引他们",
+    Stash_MulMap14_Text1 = "安全屋 - 建造路障!",
+    Stash_MulMap14_Text2 = "到处都是",
+    Stash_MulMap14_Text3 = "不要开枪 - 声音会吸引他们",
 
-	Stash_MulMap15_Text1 = "老医生住在这",
-	Stash_MulMap15_Text2 = "注意这里",
-	Stash_MulMap15_Text21 = "这是 J 被咬的地方",
+    Stash_MulMap15_Text1 = "老医生住在这",
+    Stash_MulMap15_Text2 = "注意这里",
+    Stash_MulMap15_Text21 = "这是 J 被咬的地方",
 
-	Stash_MulMap16_Text1 = "银行保安有枪",
-	Stash_MulMap16_Text2 = "我想念电视和冰镇啤酒, 去他妈的这个世界",
+    Stash_MulMap16_Text1 = "银行保安有枪",
+    Stash_MulMap16_Text2 = "我想念电视和冰镇啤酒, 去他妈的这个世界",
 
-	Stash_MulMap17_Text1 = "塞满了东西",
-	Stash_MulMap17_Text2 = "也检查隔壁的面包店",
-	Stash_MulMap17_Text3 = "妈妈小心, 爸爸还在这里",
+    Stash_MulMap17_Text1 = "塞满了东西",
+    Stash_MulMap17_Text2 = "也检查隔壁的面包店",
+    Stash_MulMap17_Text3 = "妈妈小心, 爸爸还在这里",
 
-	Stash_MulMap18_Text1 = "疯狂威利的家",
-	Stash_MulMap18_Text11 = "听说他已经变成了它们中的一员",
-	Stash_MulMap18_Text12 = "希望他所有的枪都还在",
-	
-	Stash_MulMap19_Text1 = "我们所需要的一切! "
+    Stash_MulMap18_Text1 = "疯狂威利的家",
+    Stash_MulMap18_Text11 = "听说他已经变成了它们中的一员",
+    Stash_MulMap18_Text12 = "希望他所有的枪都还在",
+
+    Stash_MulMap19_Text1 = "我们所需要的一切! "
 
     Stash_WpMap1_Text1 = "这肯定是他住的地方.",
     Stash_WpMap1_Text2 = "僵尸太多, 无法处理, 谨慎使用枪支! ",
-	
+
     Stash_WpMap2_Text1 = "可能有人住在这里.",
     Stash_WpMap2_Text2 = "医疗中心.",
     Stash_WpMap2_Text3 = "看到她在这附件徘徊, 并没有带着枪",
-	
+
     Stash_WpMap4_Text1 = "勇敢点. 我爱你们! ",
     Stash_WpMap4_Text3 = "梅根已经成为了它们的一员了",
     Stash_WpMap4_Text31 = "别过去",
-	
+
     Stash_WpMap5_Text1 = "工具",
     Stash_WpMap5_Text11 = "我爱你",
     Stash_WpMap5_Text2 = "",
     Stash_WpMap5_Text3 = "麻烦! ",
-	
+
     Stash_WpMap6_Text1 = "我现在不再需要这些了, 祝你好运.",
     Stash_WpMap6_Text2 = "",
     Stash_WpMap6_Text3 = "地狱.",
-	
+
     Stash_WpMap8_Text1 = "乔琳没生病, 她可以帮助你.",
     Stash_WpMap8_Text2 = "",
     Stash_WpMap8_Text3 = "看到一个家伙在这里死了.",
-	
+
     Stash_WpMap9_Text1 = "僵尸地狱.",
     Stash_WpMap9_Text2 = "",
     Stash_WpMap9_Text3 = "爸爸的尸体",
-	
+
     Stash_WpMap10_Text1 = "各种混乱! ",
     Stash_WpMap10_Text2 = "",
     Stash_WpMap10_Text3 = "更多麻烦! ",
-	
+
     Stash_WpMap11_Text1 = "浣熊餐厅的经理曾留了一把霰弹枪在店里.",
     Stash_WpMap11_Text11 = "鬼知道这儿有什么 ",
     Stash_WpMap11_Text2 = "没有人来过的五金店.",
     Stash_WpMap11_Text3 = "避免靠近这里, 别来找我! ",
-	
+
     Stash_WpMap12_Text1 = "办公室的每个人都发烧了.",
     Stash_WpMap12_Text11 = "在它们复活之前我就离开了.",
     Stash_WpMap12_Text2 = "枪店",
@@ -228,24 +228,24 @@ Stash_CN = {
     Stash_MarchRidgeMap2_Text1 = "我留了一把手枪给你",
     Stash_MarchRidgeMap2_Text2 = "商店看起来还有一些补给品.",
     Stash_MarchRidgeMap2_Text3 = "它们在迁移吗? 好像要去这里.",
-	
+
     Stash_MarchRidgeMap3_Text1 = "猎人的家伙在这里.",
     Stash_MarchRidgeMap3_Text2 = "面包店.",
     Stash_MarchRidgeMap3_Text3 = "我最后一次看见她的地方.",
-	
+
     Stash_MarchRidgeMap4_Text1 = "如果你能在尸变之前到这里的话, 可以拿走这里的物资",
     Stash_MarchRidgeMap4_Text11 = "没准有一些帮助. 我们会一起回来. 如果可能的话",
     Stash_MarchRidgeMap4_Text2 = "你会在这儿找到我的尸体, 我爱你们! ",
     Stash_MarchRidgeMap4_Text3 = "但愿上帝保佑, 千万别去这里! ",
-	
+
     Stash_MarchRidgeMap5_Text1 = "这里有一些能当武器用的玩意儿",
     Stash_MarchRidgeMap5_Text2 = "医疗中心",
     Stash_MarchRidgeMap5_Text3 = "这里很安静",
-	
+
     Stash_MarchRidgeMap6_Text1 = "我们可以用来保护建筑的东西",
     Stash_MarchRidgeMap6_Text2 = "五金件",
     Stash_MarchRidgeMap6_Text3 = "这里什么鬼都被扫光了",
-	
+
     Stash_MarchRidgeMap7_Text1 = "我想他就藏在那里.",
     Stash_MarchRidgeMap7_Text2 = "",
     Stash_MarchRidgeMap7_Text3 = "他在这里, 没有被咬, 不过仍在发烧! ",
@@ -303,7 +303,7 @@ Stash_CN = {
     Stash_RosewoodStashMap2_Text1 = "藏了一些枪",
     Stash_RosewoodStashMap2_Text2 = "接下来去这",
     Stash_RosewoodStashMap2_Text3 = "最后去这里",
-	
+
     Stash_RosewoodStashMap3_Text1 = "记得在我们不在的时候加固这里.",
     Stash_RosewoodStashMap3_Text11 = "妈妈的老家. 我会在那里等你 x",
     Stash_RosewoodStashMap3_Text2 = "学校",
@@ -316,156 +316,156 @@ Stash_CN = {
     Stash_RosewoodStashMap5_Text1 = "这里有食物",
     Stash_RosewoodStashMap5_Text2 = "不要冲进来!",
     Stash_RosewoodStashMap5_Text3 = "永远铭记邓肯先生的遭遇",
-	
-	Stash_BBurgMap1_Text1 = "钢琴老师的房子",
-	
-	Stash_BBurgMap2_Text1 = "社区中心",
-	
-	Stash_BBurgMap3_Text1 = "亚瑟的枪? ",
-	Stash_BBurgMap3_Text2 = "废弃的餐馆"
-	
-	Stash_BBurgMap4_Text1 = "妈妈的拖车",
-	Stash_BBurgMap4_Text2 = "记住: 一口即致命",
-	
-	Stash_BBurgMap5_Text1 = "储物单元",
-	Stash_BBurgMap5_Text2 = "酒吧",
-	
-	Stash_BBurgMap6_Text1 = "我和德里克有过一段情",
-	Stash_BBurgMap6_Text2 = "我真的很抱歉",
-	
-	Stash_BBurgMap7_Text1 = "那些混蛋不让我进去",
-	Stash_BBurgMap7_Text2 = "把它们全杀了! ",
-	
-	Stash_BBurgMap8_Text1 = "奥利弗, 我搬到这里了, 靠近勃兰登堡",
-	Stash_BBurgMap8_Text2 = "妈妈生病了. 我不想让她变成",
-	Stash_BBurgMap8_Text3 = "请来看我",
-	Stash_BBurgMap8_Text4 = "我会解释一切",
-	
-	Stash_EkronStashMap1_Text1 = "旧工厂",
-	Stash_EkronStashMap1_Text2 = "工具? ",
-	
-	Stash_EkronMap2_Text1 = "蔬菜",
-	
-	Stash_EkronMap3_Text1 = "货物",
-	
-	Stash_EkronMap5_Text1 = "学校",
-	Stash_EkronMap5_Text2 = "援助"
-	Stash_EkronMap5_Text3 = "太晚了, 别费劲了"
-	
-	Stash_EkronMap6_Text1 = "如果你看到这条信息",
-	Stash_EkronMap6_Text2 = "去死吧! ! ",
-	Stash_EkronMap6_Text3 = "喝漂白剂吧! ! ",
-	
-	Stash_EkronMap7_Text1 = "以革伦",
-	
-	Stash_EkronMap8_Text1 = "通往以革伦的路",
-	Stash_EkronMap8_Text2 = "忘了他们! 快点到这里来",
-	
-	Stash_IrvingtonMap1_Text1 = "珂赛特 - 56.34 秒",
-	Stash_IrvingtonMap1_Text2 = "飞镖 - 1 分钟, 14.55 秒",
-	
-	Stash_IrvingtonMap2_Text1 = "我知道你住在哪里",
-	Stash_IrvingtonMap2_Text2 = "你会为",
-	Stash_IrvingtonMap2_Text3 = "你对安所做的付出代价",
-	
-	Stash_IrvingtonMap3_Text1 = "别跑! 他们会追你的",
-	Stash_IrvingtonMap3_Text2 = "如果需要, 用无线电联系我们",
-	Stash_IrvingtonMap3_Text3 = "学校",
-	Stash_IrvingtonMap3_Text4 = "尸群",
-	
-	Stash_IrvingtonMap4_Text1 = "战争多么古怪离奇",
-	Stash_IrvingtonMap4_Text2 = "你所击倒的那家伙",
-	Stash_IrvingtonMap4_Text3 = "若在酒馆相遇, 本会请他喝一杯",
-	Stash_IrvingtonMap4_Text4 = "或借他半克朗银币",
-	
-	Stash_IrvingtonMap5_Text1 = "这里应该有食物",
-	Stash_IrvingtonMap5_Text2 = "除非特蕾莎把它们全拿走了",
-	
-	Stash_IrvingtonMap6_Text1 = "东西可能在这里",
-	Stash_IrvingtonMap6_Text2 = "但要小心",
-	
-	Stash_IrvingtonMap8_Text1 = "餐馆",
-	Stash_IrvingtonMap8_Text2 = "洗衣店",
-	Stash_IrvingtonMap8_Text3 = "我不会是唯一剩下的人",
 
-	Stash_IrvingtonMap9_Text1 = "我们可以在这里加强防御",
-	Stash_IrvingtonMap9_Text2 = "一切都会好起来的! ",
-	
-	Stash_IrvingtonMap10_Text1 = "欧文顿",
-	Stash_IrvingtonMap10_Text2 = "我们会在这里",
-	
-	Stash_WorldMap1_Text1 = "卡拉会帮忙的",
-	Stash_WorldMap1_Text2 = "慢点开车",
+    Stash_BBurgMap1_Text1 = "钢琴老师的房子",
 
-	Stash_WorldMap2_Text1 = "很好的基地",
-	Stash_WorldMap2_Text11 = "到达时先设置路障! ",
-	Stash_WorldMap2_Text12 = "给你藏了一些枪",
+    Stash_BBurgMap2_Text1 = "社区中心",
 
-	Stash_WorldMap3_Text1 = "这里有丙烷罐",
-	Stash_WorldMap3_Text11 = "你需要它",
+    Stash_BBurgMap3_Text1 = "亚瑟的枪? ",
+    Stash_BBurgMap3_Text2 = "废弃的餐馆"
 
-	Stash_WorldMap4_Text1 = "亚娜说", 
-	Stash_WorldMap4_Text11 = "这是那个女人住的地方",
-	Stash_WorldMap4_Text12 = "也许她会帮助我们",
+    Stash_BBurgMap4_Text1 = "妈妈的拖车",
+    Stash_BBurgMap4_Text2 = "记住: 一口即致命",
 
-	Stash_WorldMap5_Text1 = "保利把东西放在这里了",
-	Stash_WorldMap5_Text11 = "不要被发现了",
-	Stash_WorldMap5_Text12 = "别忘了烧掉这张地图!!!",
+    Stash_BBurgMap5_Text1 = "储物单元",
+    Stash_BBurgMap5_Text2 = "酒吧",
 
-	Stash_WorldMap6_Text1 = "这里有好东西",
-	Stash_WorldMap6_Text2 = "用于搜寻 - 太大而无法保护",
-	Stash_WorldMap6_Text3 = "安迪",
+    Stash_BBurgMap6_Text1 = "我和德里克有过一段情",
+    Stash_BBurgMap6_Text2 = "我真的很抱歉",
 
-	Stash_WorldMap7_Text1 = "在这里",
-	Stash_WorldMap7_Text2 = "全被感染了",
-	Stash_WorldMap7_Text21 = "它们都是从哪里来的",
+    Stash_BBurgMap7_Text1 = "那些混蛋不让我进去",
+    Stash_BBurgMap7_Text2 = "把它们全杀了! ",
 
-	Stash_WorldMap9_Text1 = "货运站",
-	Stash_WorldMap9_Text2 = "到处都是箱子, 可以装满东西",
-	Stash_WorldMap9_Text3 = "办公室, 什么都没有",
-	Stash_WorldMap9_Text4 = "仓库",
-	Stash_WorldMap9_Text5 = "马尔德劳",
-	Stash_WorldMap9_Text6 = "这里的火车全都没法开? ? ? ",
+    Stash_BBurgMap8_Text1 = "奥利弗, 我搬到这里了, 靠近勃兰登堡",
+    Stash_BBurgMap8_Text2 = "妈妈生病了. 我不想让她变成",
+    Stash_BBurgMap8_Text3 = "请来看我",
+    Stash_BBurgMap8_Text4 = "我会解释一切",
 
-	Stash_WorldMap10_Text1 = "加油站",
-	Stash_WorldMap10_Text2 = "服装店",
-	Stash_WorldMap10_Text3 = "斯皮福餐厅",
-	Stash_WorldMap10_Text4 = "汽车",
+    Stash_EkronStashMap1_Text1 = "旧工厂",
+    Stash_EkronStashMap1_Text2 = "工具? ",
 
-	Stash_WorldMap11_Text1 = "2 号塔上的 3 号天线 - 丢失信号", 
-	Stash_WorldMap11_Text11 = "在 6 GHz 频段上丢失信号 - 电源问题",
-	Stash_WorldMap11_Text2 = "让总部和列克星敦一起测试",
+    Stash_EkronMap2_Text1 = "蔬菜",
 
-	Stash_WorldMap12_Text1 = "大型露营地",
-	Stash_WorldMap12_Text11 = "我们需要一切 (简需要的药丸除外)",
-	Stash_WorldMap12_Text2 = "我们很快就能坐在火堆旁",
-	Stash_WorldMap12_Text21 = "放声高歌",
+    Stash_EkronMap3_Text1 = "货物",
 
-	Stash_WorldMap13_Text1 = "哈尔, 我知道这很难",
-	Stash_WorldMap13_Text11 = "但你真的该走了",
-	Stash_WorldMap13_Text12 = "宝拉, 我们在这里",
+    Stash_EkronMap5_Text1 = "学校",
+    Stash_EkronMap5_Text2 = "援助"
+    Stash_EkronMap5_Text3 = "太晚了, 别费劲了"
 
-	Stash_WorldMap14_Text1 = "奶奶",
-	Stash_WorldMap14_Text2 = "爸爸在这里",
+    Stash_EkronMap6_Text1 = "如果你看到这条信息",
+    Stash_EkronMap6_Text2 = "去死吧! ! ",
+    Stash_EkronMap6_Text3 = "喝漂白剂吧! ! ",
 
-	Stash_WorldMap16_Text1 = "营地",
-	Stash_WorldMap16_Text2 = "检查点",
-	Stash_WorldMap16_Text3 = "障碍",
+    Stash_EkronMap7_Text1 = "以革伦",
 
-	Stash_WorldMap17_Text1 = "巡逻盲点",
-	Stash_WorldMap17_Text2 = "V 将在 23: 15 时完全关闭探测器",
-	Stash_WorldMap17_Text21 = "不要分心! 带上你的地图, 出去",
+    Stash_EkronMap8_Text1 = "通往以革伦的路",
+    Stash_EkronMap8_Text2 = "忘了他们! 快点到这里来",
 
-	Stash_WorldMap19_Text1 = "顽固的杂种! ",
-	Stash_WorldMap19_Text11 = "如果你死了, 我永远不会原谅你!!!",
-	Stash_WorldMap19_Text12 = "你可能会活过这周",
+    Stash_IrvingtonMap1_Text1 = "珂赛特 - 56.34 秒",
+    Stash_IrvingtonMap1_Text2 = "飞镖 - 1 分钟, 14.55 秒",
 
-	Stash_WorldMap20_Text1 = "白痴",
-	Stash_WorldMap20_Text2 = "混蛋",
-	Stash_WorldMap20_Text3 = "蠢货",
-	
-	Stash_WorldMap22_Text1 = "很好的基地! ",
-	
-	Stash_WorldMap23_Text1 = "地下室",
-	Stash_WorldMap23_Text2 = "雷霆加油站",
+    Stash_IrvingtonMap2_Text1 = "我知道你住在哪里",
+    Stash_IrvingtonMap2_Text2 = "你会为",
+    Stash_IrvingtonMap2_Text3 = "你对安所做的付出代价",
+
+    Stash_IrvingtonMap3_Text1 = "别跑! 他们会追你的",
+    Stash_IrvingtonMap3_Text2 = "如果需要, 用无线电联系我们",
+    Stash_IrvingtonMap3_Text3 = "学校",
+    Stash_IrvingtonMap3_Text4 = "尸群",
+
+    Stash_IrvingtonMap4_Text1 = "战争多么古怪离奇",
+    Stash_IrvingtonMap4_Text2 = "你所击倒的那家伙",
+    Stash_IrvingtonMap4_Text3 = "若在酒馆相遇, 本会请他喝一杯",
+    Stash_IrvingtonMap4_Text4 = "或借他半克朗银币",
+
+    Stash_IrvingtonMap5_Text1 = "这里应该有食物",
+    Stash_IrvingtonMap5_Text2 = "除非特蕾莎把它们全拿走了",
+
+    Stash_IrvingtonMap6_Text1 = "东西可能在这里",
+    Stash_IrvingtonMap6_Text2 = "但要小心",
+
+    Stash_IrvingtonMap8_Text1 = "餐馆",
+    Stash_IrvingtonMap8_Text2 = "洗衣店",
+    Stash_IrvingtonMap8_Text3 = "我不会是唯一剩下的人",
+
+    Stash_IrvingtonMap9_Text1 = "我们可以在这里加强防御",
+    Stash_IrvingtonMap9_Text2 = "一切都会好起来的! ",
+
+    Stash_IrvingtonMap10_Text1 = "欧文顿",
+    Stash_IrvingtonMap10_Text2 = "我们会在这里",
+
+    Stash_WorldMap1_Text1 = "卡拉会帮忙的",
+    Stash_WorldMap1_Text2 = "慢点开车",
+
+    Stash_WorldMap2_Text1 = "很好的基地",
+    Stash_WorldMap2_Text11 = "到达时先设置路障! ",
+    Stash_WorldMap2_Text12 = "给你藏了一些枪",
+
+    Stash_WorldMap3_Text1 = "这里有丙烷罐",
+    Stash_WorldMap3_Text11 = "你需要它",
+
+    Stash_WorldMap4_Text1 = "亚娜说",
+    Stash_WorldMap4_Text11 = "这是那个女人住的地方",
+    Stash_WorldMap4_Text12 = "也许她会帮助我们",
+
+    Stash_WorldMap5_Text1 = "保利把东西放在这里了",
+    Stash_WorldMap5_Text11 = "不要被发现了",
+    Stash_WorldMap5_Text12 = "别忘了烧掉这张地图!!!",
+
+    Stash_WorldMap6_Text1 = "这里有好东西",
+    Stash_WorldMap6_Text2 = "用于搜寻 - 太大而无法保护",
+    Stash_WorldMap6_Text3 = "安迪",
+
+    Stash_WorldMap7_Text1 = "在这里",
+    Stash_WorldMap7_Text2 = "全被感染了",
+    Stash_WorldMap7_Text21 = "它们都是从哪里来的",
+
+    Stash_WorldMap9_Text1 = "货运站",
+    Stash_WorldMap9_Text2 = "到处都是箱子, 可以装满东西",
+    Stash_WorldMap9_Text3 = "办公室, 什么都没有",
+    Stash_WorldMap9_Text4 = "仓库",
+    Stash_WorldMap9_Text5 = "马尔德劳",
+    Stash_WorldMap9_Text6 = "这里的火车全都没法开? ? ? ",
+
+    Stash_WorldMap10_Text1 = "加油站",
+    Stash_WorldMap10_Text2 = "服装店",
+    Stash_WorldMap10_Text3 = "斯皮福餐厅",
+    Stash_WorldMap10_Text4 = "汽车",
+
+    Stash_WorldMap11_Text1 = "2 号塔上的 3 号天线 - 丢失信号",
+    Stash_WorldMap11_Text11 = "在 6 GHz 频段上丢失信号 - 电源问题",
+    Stash_WorldMap11_Text2 = "让总部和列克星敦一起测试",
+
+    Stash_WorldMap12_Text1 = "大型露营地",
+    Stash_WorldMap12_Text11 = "我们需要一切 (简需要的药丸除外)",
+    Stash_WorldMap12_Text2 = "我们很快就能坐在火堆旁",
+    Stash_WorldMap12_Text21 = "放声高歌",
+
+    Stash_WorldMap13_Text1 = "哈尔, 我知道这很难",
+    Stash_WorldMap13_Text11 = "但你真的该走了",
+    Stash_WorldMap13_Text12 = "宝拉, 我们在这里",
+
+    Stash_WorldMap14_Text1 = "奶奶",
+    Stash_WorldMap14_Text2 = "爸爸在这里",
+
+    Stash_WorldMap16_Text1 = "营地",
+    Stash_WorldMap16_Text2 = "检查点",
+    Stash_WorldMap16_Text3 = "障碍",
+
+    Stash_WorldMap17_Text1 = "巡逻盲点",
+    Stash_WorldMap17_Text2 = "V 将在 23: 15 时完全关闭探测器",
+    Stash_WorldMap17_Text21 = "不要分心! 带上你的地图, 出去",
+
+    Stash_WorldMap19_Text1 = "顽固的杂种! ",
+    Stash_WorldMap19_Text11 = "如果你死了, 我永远不会原谅你!!!",
+    Stash_WorldMap19_Text12 = "你可能会活过这周",
+
+    Stash_WorldMap20_Text1 = "白痴",
+    Stash_WorldMap20_Text2 = "混蛋",
+    Stash_WorldMap20_Text3 = "蠢货",
+
+    Stash_WorldMap22_Text1 = "很好的基地! ",
+
+    Stash_WorldMap23_Text1 = "地下室",
+    Stash_WorldMap23_Text2 = "雷霆加油站",
 }

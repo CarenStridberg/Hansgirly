@@ -16,7 +16,7 @@ Farming_CN = {
     Farming_Potatoes = "土豆",
     Farming_Cabbages = "卷心菜",
     Farming_Mint = "薄荷",
-		
+
     Farming_Corn = "玉米",
     Farming_Soybeans = "大豆",
     Farming_Kale = "羽衣甘蓝",
@@ -25,7 +25,7 @@ Farming_CN = {
     Farming_Wheat = "冬小麦",
     Farming_Onion = "洋葱",
     Farming_Garlic = "大蒜",
-		
+
     Farming_Basil = "罗勒",
     Farming_Chives = "细香葱",
     Farming_Cilantro = "香菜",
@@ -75,7 +75,7 @@ Farming_CN = {
     Farming_CastIronPlant = "铁兰",
     Farming_Ficus = "榕树",
     Farming_ChineseEvergreen = "万年青",
-	
+
     -- growing phase
     Farming_Seedling = "发芽",
     Farming_Young = "幼苗",
@@ -147,7 +147,7 @@ Farming_CN = {
     Farming_Tooltip_AverageWater = "平均水分: ",
     Farming_Tooltip_FurrowNeedsSeed = "犁沟需要种子.",
     Farming_Tooltip_ItemUsed = "已使用的物品",
-	Farming_Tooltip_None = "无",
+    Farming_Tooltip_None = "无",
     Farming_Tooltip_NotAFurrow = "不是犁沟.",
     Farming_Tooltip_NotAPlant = "不是植物.",
     Farming_Tooltip_NotEnoughWaterInInventory = "物品栏中没有足够的水.",
@@ -186,15 +186,15 @@ Farming_CN = {
 
     Farming_Weeks = "周",
     Farming_Months = "月",
-	
-	--pest info tab
-	Farming_Tooltip_PestInfo = "害虫信息",
-	Farming_AphidsBane = "驱除蚜虫",
-	Farming_DeerBane = "驱除鹿",
-	Farming_FliesBane = "驱除苍蝇",
-	Farming_MothBane = "驱除蛾子",
-	Farming_MothFood = "吸引蛾子",
-	Farming_RabbitBane = "驱除兔子",
-	Farming_SlugsProof = "防蛞蝓",
-	Farming_SlugsBane = "防蛞蝓"
+
+    --pest info tab
+    Farming_Tooltip_PestInfo = "害虫信息",
+    Farming_AphidsBane = "驱除蚜虫",
+    Farming_DeerBane = "驱除鹿",
+    Farming_FliesBane = "驱除苍蝇",
+    Farming_MothBane = "驱除蛾子",
+    Farming_MothFood = "吸引蛾子",
+    Farming_RabbitBane = "驱除兔子",
+    Farming_SlugsProof = "防蛞蝓",
+    Farming_SlugsBane = "防蛞蝓"
 }
