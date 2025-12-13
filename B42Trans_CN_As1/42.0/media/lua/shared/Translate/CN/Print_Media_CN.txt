@@ -1460,7 +1460,7 @@ Print_Media_Pondview_title= "邦德唯优购物中心",
 Print_Media_Pondview_info= "<type:parent, width:1616, height:910>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Pondview.png"), width:1616, height:910>",
 
-Print_Media_QuillManor_title= "布伦福德的翎毛庄园",
+Print_Media_QuillManor_title= "布伦福德的翎羽庄园",
 Print_Media_QuillManor_info= "<type:parent, width:800, height:1131>"..
 "<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Brenford.png"), width:800, height:1131>",
 
