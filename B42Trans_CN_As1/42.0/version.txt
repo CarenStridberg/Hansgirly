@@ -163,5 +163,9 @@ v2.50.2 2025.12.13
 教程关现在可以被汉化了！
 --这是通过修改media\lua\client\OptionScreens中，MainScreen.Lua文件内的MainScreen.startTutorial函数实现的。
 
-v2.50.2 2025.12.14
+v2.50.3 2025.12.14
 解决了鼠标悬停于道路上时显示“???”的问题。
+--参见zombie.worldMap.UIWorldMap.class中的renderStreetLabel()函数。
+
+v2.50.4 2025.12.14
+优化了大量译文。
