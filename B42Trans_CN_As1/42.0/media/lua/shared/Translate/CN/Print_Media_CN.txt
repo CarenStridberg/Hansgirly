@@ -1630,7 +1630,7 @@ Print_Media_FlyerTemplate10_info = "<type:parent, width:480, height:690>"..
 "<type:texture, x:18, y:10, texture:getTexture("media/textures/printMedia/logos/TacoDelPancho.png"), width:450, height:75>"..
 "<type:texture, x:20, y:130, width:130, height:185, r:0, g:0, b:0>"..
 "<type:texture, x:22, y:132, width:126, height:181, texture:getTexture("media/textures/printMedia/FlyerPics/pancho.png")>"..
-"<type:text, x:170, y:130, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, autoWidth:375, font:UIFont.SdfOldBold> 你 好 , 我 叫 潘 乔 ! 我 是 一 只 小 狗 , 来 这 里 是 要 告 诉 你 一 件 事 . ."..
+"<type:text, x:170, y:130, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, autoWidth:375, font:UIFont.SdfOldBold> 你 好 , 我 叫 潘 乔 ! 我 是 一 只 小 狗 , 来 这 里 是 要 告 诉 你 一 件 事 ."..
 "<type:text, x:170, y:230, r:190/255, g:71/255, b:51/255, pivotX:0, pivotY:0, scaleX:1, scaleY:1, font:UIFont.SdfOldBold> 墨 西 哥 卷 饼 ! 玉 米 煎 饼 ! 锅 巴 烩 饼 ! "..
 "<type:text, x:20, y:360, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, autoWidth:300, font:UIFont.SdfOldBold> 在 潘 乔 的 墨 西 哥 卷 饼 店 , 这 些 我 们 都 有 ! 我 知 道 什 么 是 好 吃 的 , 快 来 带 一 份 回 去 吧 ! Arriba! "..
 "<type:texture, x:300, y:350, width:130, height:185, r:0, g:0, b:0>"..
