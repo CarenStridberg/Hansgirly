@@ -18,8 +18,8 @@ Stash_CN = {
     Stash_LVMap1_Text2 = "疯子枪手的家",
 
     Stash_LVMap2_Text1 = "妈妈的礼物",
-    Stash_LVMap2_Text2 = "别忘了来看望",
-    Stash_LVMap2_Text3 = "去奶奶的坟墓, 如果你能做到的话",
+    Stash_LVMap2_Text2 = "别忘了来",
+    Stash_LVMap2_Text3 = "给奶奶上坟, 如果你能做到的话",
     Stash_LVMap2_Text4 = "为我们所有人祈祷",
 
     Stash_LVMap3_Text1 = "学校",
@@ -83,7 +83,7 @@ Stash_CN = {
     Stash_LVMap15_Text2 = "路易斯安那州立大学艺术史讲师",
     Stash_LVMap15_Text3 = "我已经死了, 但我有一个最后的请求",
     Stash_LVMap15_Text4 = "只有每个人都放任不管时, 世界末日才会真的到来.",
-    Stash_LVMap15_Text5 = "我们必须保护美术馆中的宝藏",
+    Stash_LVMap15_Text5 = "我们必须保护美术馆中的珍品",
     Stash_LVMap15_Text6 = "否则, 我们就真的一无所有了",
     Stash_LVMap15_Text7 = "",
     Stash_LVMap15_Text8 = "不要让人类永远迷失下去.",
@@ -120,13 +120,13 @@ Stash_CN = {
     Stash_MulMap7_Text2 = "商店, 仍然有很多资源.",
     Stash_MulMap7_Text3 = "搞砸了! ",
 
-    Stash_MulMap8_Text1 = "拿走我的东西吧, 如果安全的话希望你能安葬我.",
-    Stash_MulMap8_Text2 = "如果需要饮料, 可以来这里! ",
+    Stash_MulMap8_Text1 = "把我埋了吧 - 上帝保佑.",
+    Stash_MulMap8_Text2 = "",
     Stash_MulMap8_Text3 = "有一大堆僵尸在这待了好几天",
 
     Stash_MulMap10_Text1 = "死亡小屋! ",
     Stash_MulMap10_Text2 = "",
-    Stash_MulMap10_Text3 = "这里似乎已经被洗劫一空! ",
+    Stash_MulMap10_Text3 = "这儿看起来啥都没有",
 
     Stash_MulMap11_Text1 = "浣熊餐厅里有些枪! ",
     Stash_MulMap11_Text2 = "",
@@ -337,7 +337,7 @@ Stash_CN = {
     Stash_BBurgMap7_Text2 = "把它们全杀了! ",
 
     Stash_BBurgMap8_Text1 = "奥利弗, 我搬到这里了, 靠近勃兰登堡",
-    Stash_BBurgMap8_Text2 = "妈妈生病了. 我不想让她变成",
+    Stash_BBurgMap8_Text2 = "妈妈生病了. 我不想让她变成那样",
     Stash_BBurgMap8_Text3 = "请来看我",
     Stash_BBurgMap8_Text4 = "我会解释一切",
 

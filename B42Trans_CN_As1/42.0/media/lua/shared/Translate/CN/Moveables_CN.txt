@@ -1,6 +1,6 @@
 Moveables_CN = {
     -- Additional Translation --
-    Medical_Tool_Drawers = "医疗工具抽屉",
+    Medical_Tool_Drawers = "医疗工具柜",
 
     50s_Barstool = "50 年代酒吧椅",
     50s_Diner_Table = "50 年代餐桌",
