@@ -108,6 +108,11 @@ font SdfRegular
 	fnt = zomboidLargeCN.fnt,
 }
 
+font SdfBold
+{
+	fnt = zomboidLargeCN.fnt,
+}
+
 font SdfOldBold
 {
 	fnt = zomboidLargeCN.fnt,
