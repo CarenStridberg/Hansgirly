@@ -194,7 +194,7 @@ Fluids_CN = {
 
     Fluid_Reason_Source_Null = "无有效源容器.",
     Fluid_Reason_Target_Null = "无有效目标容器.",
-    Fluid_Reason_Source_Empty = "没液体可倒.",
+    Fluid_Reason_Source_Empty = "原容器为空.",
     Fluid_Reason_Target_Full = "目标容器已满.",
     Fluid_Reason_Equal = "源容器与目标容器相同.",
     Fluid_Reason_Target_Locked = "无法倒入目标容器.",

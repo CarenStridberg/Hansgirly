@@ -465,7 +465,7 @@ Print_Media_NationalDispatch_July6_info = "<type:parent, width:880, height:825>"
 "<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
 "<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
 
-Print_Media_NationalDispatch_July7_title = "The National Dispatch - 1993年7月7日",
+Print_Media_NationalDispatch_July7_title = "国家快报 - 1993年7月7日",
 
 Print_Media_NationalDispatch_July7_info = "<type:parent, width:880, height:825>"..
 "<type:texture, width:865, height:820, pivotX:-0.012, pivotY:0, angle:0.2, r:145/255.0, g:145/255.0, b:145/255.0>"..
@@ -501,7 +501,7 @@ Print_Media_NationalDispatch_July7_info = "<type:parent, width:880, height:825>"
 "<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
 "<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
 
-Print_Media_NationalDispatch_July12_title = "The National Dispatch - 1993年7月12日",
+Print_Media_NationalDispatch_July12_title = "国家快报 - 1993年7月12日",
 
 Print_Media_NationalDispatch_July12_info = "<type:parent, width:880, height:825>"..
 "<type:texture, width:865, height:820, pivotX:-0.014, pivotY:0, angle:0.2, r:145/255.0, g:145/255.0, b:145/255.0>"..
@@ -573,7 +573,7 @@ Print_Media_NationalDispatch_July13_info = "<type:parent, width:880, height:825>
 "<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
 "<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
 
-Print_Media_NationalDispatch_July14_title = "The National Dispatch - 1993年7月14日",
+Print_Media_NationalDispatch_July14_title = "国家快报 - 1993年7月14日",
 
 Print_Media_NationalDispatch_July14_info = "<type:parent, width:880, height:825>"..
 "<type:texture, width:865, height:820, pivotX:-0.009, pivotY:0, angle:0.3, r:145/255.0, g:145/255.0, b:145/255.0>"..
@@ -609,7 +609,7 @@ Print_Media_NationalDispatch_July14_info = "<type:parent, width:880, height:825>
 "<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
 "<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
 
-Print_Media_NationalDispatch_July15_title = "The National Dispatch - 1993年7月15日",
+Print_Media_NationalDispatch_July15_title = "国家快报 - 1993年7月15日",
 
 Print_Media_NationalDispatch_July15_info = "<type:parent, width:880, height:825>"..
 "<type:texture, width:865, height:820, pivotX:-0.012, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
