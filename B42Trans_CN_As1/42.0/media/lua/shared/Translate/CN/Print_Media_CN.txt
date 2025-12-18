@@ -239,12 +239,12 @@ Print_Media_KentuckyHerald_July6_info = "<type:parent, width:915, height:750>"..
 "<type:text, x:900/2, y:205, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:1.95, scaleY:1.95, textLeading:-4, font:UIFont.SdfOldBold> 马 尔 德 劳 爆 发 疫 情 "..
 "<type:text, x:120, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>" 画 廊 展 览 吸 引 众 多 观 众 "..
 "<type:text, x:120, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>" 艺 术 家 作 品 在 路 易 斯 维 尔 大 受 欢 迎 "..
-"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular> 肯 塔 基 州 , 路 易 斯 维 尔 - 路 易 斯 维 尔 艺 术 画 廊 举 办 的 爱 尔 兰 艺 术 家 阿 什 琳 · 德 怀 尔 的 新 画 展 周 一 晚 吸 引 了 大 批 观 众 . ^ 德 怀 尔 是 1992 年 Siu-Chong 奖 得 主 , 此 次 展 出 了 两 幅 新 画 《 粉 色 窗 帘 》 和 《 黄 色 , 黄 色 , 黄 色 》 . 这 两 幅 作 品 用 色 大 胆 , 富 有 深 情 , 以 及 娴 熟 的 现 代 艺 术 技 巧 令 其 大 受 赞 赏 . ^ 德 怀 尔 是 在 国 际 上 崭 露 头 角 的 新 一 代 爱 尔 兰 艺 术 家 之 一 . 她 的 其 他 作 品 包 括 《 色 彩 事 故 》 和 行 为 作 品 《 48 个 炖 锅 》 … "..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.6, textLeading:3, font:UIFont.SdfOldRegular> 肯 塔 基 州 , 路 易 斯 维 尔 - 路 易 斯 维 尔 艺 术 画 廊 举 办 的 爱 尔 兰 艺 术 家 阿 什 琳 · 德 怀 尔 的 新 画 展 周 一 晚 吸 引 了 大 批 观 众 . ^ 德 怀 尔 是 1992 年 Siu-Chong 奖 得 主 , 此 次 展 出 了 两 幅 新 画 《 粉 色 窗 帘 》 和 《 黄 色 , 黄 色 , 黄 色 》 . 这 两 幅 作 品 用 色 大 胆 , 富 有 深 情 , 以 及 娴 熟 的 现 代 艺 术 技 巧 令 其 大 受 赞 赏 . ^ 德 怀 尔 是 在 国 际 上 崭 露 头 角 的 新 一 代 爱 尔 兰 艺 术 家 之 一 . 她 的 其 他 作 品 包 括 《 色 彩 事 故 》 和 行 为 作 品 《 48 个 炖 锅 》 … "..
 "<type:text, x:782, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold>" 地 区 报 告 ^ 大 量 病 例 "..
 "<type:text, x:780, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold> 因 电 话 中 断 而 ^ 无 法 做 出 响 应 "..
-"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular> 肯 塔 基 州 , 马 尔 德 劳 - 诺 克 斯 堡 以 北 的 小 镇 马 尔 德 劳 地 区 已 报 告 数 十 例 流 感 样 疾 病 病 例 , 症 状 包 括 严 重 恶 心 和 发 烧 . 该 地 区 有 多 个 军 事 设 施 和 有 毒 废 物 倾 倒 场 , 医 生 们 正 在 调 查 此 次 疫 情 是 否 与 化 学 物 质 泄 漏 到 水 源 或 食 物 中 有 关 , 不 过 有 报 道 称 , 向 外 部 当 局 求 助 时 遭 到 了 含 糊 其 辞 的 拒 绝 . 目 前 , 美 国 陆 军 已 开 放 其 在 诺 克 斯 堡 医 院 的 隔 离 设 施 … "..
-"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold> 一 辆 停 在 马 尔 德 劳 地 区 某 处 房 屋 外 的 救 护 车 , 据 信 与 此 次 疫 情 有 关 ."..
-"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular> 联 合 报 道 "..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.6, textLeading:3, font:UIFont.SdfOldRegular> 肯 塔 基 州 , 马 尔 德 劳 - 诺 克 斯 堡 以 北 的 小 镇 马 尔 德 劳 地 区 已 报 告 数 十 例 流 感 样 疾 病 病 例 , 症 状 包 括 严 重 恶 心 和 发 烧 . 该 地 区 有 多 个 军 事 设 施 和 有 毒 废 物 倾 倒 场 , 医 生 们 正 在 调 查 此 次 疫 情 是 否 与 化 学 物 质 泄 漏 到 水 源 或 食 物 中 有 关 , 不 过 有 报 道 称 , 向 外 部 当 局 求 助 时 遭 到 了 含 糊 其 辞 的 拒 绝 . 目 前 , 美 国 陆 军 已 开 放 其 在 诺 克 斯 堡 医 院 的 隔 离 设 施 … "..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:410/0.6, textLeading:3, font:UIFont.SdfOldBold> 一 辆 停 在 马 尔 德 劳 地 区 某 处 房 屋 外 的 救 护 车 , 据 信 与 此 次 疫 情 有 关 ."..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfRegular> 联 合 报 道 "..
 "<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold>   " 尸 体 身 份 ^ 确 认 为 当 地 律 师 "..
 "<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic> 总 统 取 消 ^ 东 京 G7 峰 会 行 程 "..
 "<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
@@ -280,12 +280,12 @@ Print_Media_KentuckyHerald_July13_info = "<type:parent, width:915, height:750>".
 "<type:text, x:900/2, y:205, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:1.75, scaleY:1.75, textLeading:-4, font:UIFont.SdfOldBold>" 诺 克 斯 事 件 已 得 到 控 制 "- · 官 方 宣 布 "..
 "<type:text, x:115, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold> " 路 易 斯 维 尔 市 长 ^ 表 示 " 无 需 宵 禁 ""..
 "<type:text, x:110, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>" 照 片 泄 露 引 发 恐 慌 ^ 市 长 淡 化 谣 言 "..
-"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular> 路 易 斯 维 尔 - 针 对 多 个 城 市 实 施 宵 禁 的 情 况 , 市 长 特 伦 斯 · 斯 塔 尔 否 认 了 路 易 斯 维 尔 也 将 实 施 宵 禁 的 谣 言 . ^" 让 那 些 沿 海 精 英 们 恐 慌 去 吧 , " 斯 塔 尔 市 长 在 周 一 的 新 闻 发 布 会 上 说 . " 路 易 斯 维 尔 人 更 坚 强 . 我 们 对 这 种 疾 病 , 病 毒 或 者 不 管 它 是 什 么 的 东 西 , 毫 不 在 意 . 当 局 完 全 掌 控 着 局 面 . 恐 惧 对 我 们 的 伤 害 远 比 任 何 疫 情 都 大 . 坦 率 讲 , 宵 禁 除 了 让 局 势 更 加 紧 张 没 有 任 何 作 用 . 更 不 用 说 对 本 地 酒 吧 , 企 业 和 餐 馆 的 经 济 影 响 … "..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.6, textLeading:3, font:UIFont.SdfOldRegular> 路 易 斯 维 尔 - 针 对 多 个 城 市 实 施 宵 禁 的 情 况 , 市 长 特 伦 斯 · 斯 塔 尔 否 认 了 路 易 斯 维 尔 也 将 实 施 宵 禁 的 谣 言 . ^" 让 那 些 沿 海 精 英 们 恐 慌 去 吧 , " 斯 塔 尔 市 长 在 周 一 的 新 闻 发 布 会 上 说 . " 路 易 斯 维 尔 人 更 坚 强 . 我 们 对 这 种 疾 病 , 病 毒 或 者 不 管 它 是 什 么 的 东 西 , 毫 不 在 意 . 当 局 完 全 掌 控 着 局 面 . 恐 惧 对 我 们 的 伤 害 远 比 任 何 疫 情 都 大 . 坦 率 讲 , 宵 禁 除 了 让 局 势 更 加 紧 张 没 有 任 何 作 用 . 更 不 用 说 对 本 地 酒 吧 , 企 业 和 餐 馆 的 经 济 影 响 … "..
 "<type:text, x:780, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold>  " 泄 露 的 照 片 ^ 引 发 质 疑 "..
 "<type:text, x:770, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>" 官 方 试 图 平 息 ^ 日 益 加 剧 的 恐 慌 "..
-"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular> 肯 塔 基 州 , 诺 克 斯 事 件 区 - 昨 日 , 一 张 来 自 诺 克 斯 事 件 区 的 可 怕 照 片 泄 露 后 , 总 统 连 同 疾 控 中 心 和 军 方 官 员 迅 速 采 取 行 动 , 向 公 众 保 证 " 诺 克 斯 病 毒 " 仍 被 控 制 在 隔 离 区 内 . ^ 这 张 照 片 显 示 一 名 感 染 者 站 在 满 是 尸 体 的 街 道 上 , 引 发 了 公 众 恐 慌 , 并 让 人 们 对 病 毒 的 严 重 性 产 生 了 疑 问 . ^ 军 方 内 部 人 士 透 露 的 零 星 信 息 , 以 及 被 困 在 事 件 区 内 传 出 的 短 波 无 线 电 消 息 , 都 对 军 方 的 说 法 构 成 了 质 疑 … "..
-"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular> 联 合 报 道 "..
-"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold> 为 尊 重 受 害 者 , 此 照 片 已 做 模 糊 处 理 , 画 面 中 一 名 男 子 手 臂 遭 受 重 伤 , 站 在 满 是 血 迹 和 尸 体 的 街 道 上 . "..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.6, textLeading:3, font:UIFont.SdfOldRegular> 肯 塔 基 州 , 诺 克 斯 事 件 区 - 昨 日 , 一 张 来 自 诺 克 斯 事 件 区 的 可 怕 照 片 泄 露 后 , 总 统 连 同 疾 控 中 心 和 军 方 官 员 迅 速 采 取 行 动 , 向 公 众 保 证 " 诺 克 斯 病 毒 " 仍 被 控 制 在 隔 离 区 内 . ^ 这 张 照 片 显 示 一 名 感 染 者 站 在 满 是 尸 体 的 街 道 上 , 引 发 了 公 众 恐 慌 , 并 让 人 们 对 病 毒 的 严 重 性 产 生 了 疑 问 . ^ 军 方 内 部 人 士 透 露 的 零 星 信 息 , 以 及 被 困 在 事 件 区 内 传 出 的 短 波 无 线 电 消 息 , 都 对 军 方 的 说 法 构 成 了 质 疑 … "..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfRegular> 联 合 报 道 "..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:410/0.6, textLeading:3, font:UIFont.SdfOldBold> 为 尊 重 受 害 者 , 此 照 片 已 做 模 糊 处 理 , 画 面 中 一 名 男 子 手 臂 遭 受 重 伤 , 站 在 满 是 血 迹 和 尸 体 的 街 道 上 . "..
 "<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold>" 诺 克 斯 区 ^ 未 得 到 物 资 供 应 "..
 "<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic>" 日 本 北 海 道 ^ 发 生 地 震 "..
 "<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
@@ -321,12 +321,12 @@ Print_Media_KentuckyHerald_July14_info = "<type:parent, width:915, height:750>".
 "<type:text, x:900/2, y:205, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:1.75, scaleY:1.75, textLeading:-4, font:UIFont.SdfOldBold>" 无 需 恐 慌 "- 麦 格 鲁 将 军 "..
 "<type:text, x:115, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold> 梵 蒂 冈 , 麦 加 关 闭 ^ 禁 止 朝 圣 者 进 入 "..
 "<type:text, x:110, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>   两 大 宗 教 圣 地 ^ 因 病 毒 恐 慌 关 闭 "..
-"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular> 罗 马 天 主 教 教 皇 所 在 地 梵 蒂 冈 和 伊 斯 兰 教 圣 城 麦 加 , 因 " 诺 克 斯 病 毒 " 的 威 胁 对 外 界 关 闭 . ^ 教 皇 呼 吁 " 宽 恕 与 祈 祷 ", 这 座 位 于 罗 马 市 中 心 的 圣 地 随 即 向 公 众 关 闭 . 瑞 士 卫 队 表 示 , 他 们 已 " 为 最 坏 的 情 况 做 好 准 备 ", 数 千 名 因 国 际 航 班 停 飞 而 滞 留 在 意 大 利 首 都 的 朝 圣 者 , 将 被 限 制 行 动 . ^ 沙 特 阿 拉 伯 昨 日 无 限 期 关 闭 边 境 , 该 国 也 宣 布 … "..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.6, textLeading:3, font:UIFont.SdfOldRegular> 罗 马 天 主 教 教 皇 所 在 地 梵 蒂 冈 和 伊 斯 兰 教 圣 城 麦 加 , 因 " 诺 克 斯 病 毒 " 的 威 胁 对 外 界 关 闭 . ^ 教 皇 呼 吁 " 宽 恕 与 祈 祷 ", 这 座 位 于 罗 马 市 中 心 的 圣 地 随 即 向 公 众 关 闭 . 瑞 士 卫 队 表 示 , 他 们 已 " 为 最 坏 的 情 况 做 好 准 备 ", 数 千 名 因 国 际 航 班 停 飞 而 滞 留 在 意 大 利 首 都 的 朝 圣 者 , 将 被 限 制 行 动 . ^ 沙 特 阿 拉 伯 昨 日 无 限 期 关 闭 边 境 , 该 国 也 宣 布 … "..
 "<type:text, x:780, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold>  病 毒 致 命 ^ 但 " 已 被 控 制 ""..
 "<type:text, x:770, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold> 总 统 离 开 首 都 - ^" 与 疫 情 无 关 ""..
-"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular> 诺 克 斯 事 件 区 - 约 翰 · 麦 格 鲁 将 军 于 周 二 发 表 声 明 , 确 认 " 诺 克 斯 病 毒 " 具 有 退 化 性 , 但 声 明 其 传 播 范 围 已 被 控 制 诺 克 斯 事 件 区 域 内 . ^ 疾 控 中 心 同 时 发 表 声 明 称 , 尽 管 该 病 毒 似 乎 会 导 致 患 者 发 生 严 重 暴 力 行 为 , 但 其 通 过 体 液 传 播 的 方 式 传 播 效 率 较 低 . ^ 官 员 们 还 否 认 总 统 离 开 华 盛 顿 特 区 与 该 病 毒 有 关 , 他 的 离 开 与 私 人 家 庭 事 务 有 关 … "..
-"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular> 联 合 报 道 "..
-"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold> 在 人 们 对 " 诺 克 斯 病 毒 " 的 致 命 性 和 感 染 率 日 益 担 忧 之 际 , 约 翰 · 麦 格 鲁 将 军 表 示 " 无 需 升 级 恐 慌 ""..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.6, textLeading:3, font:UIFont.SdfOldRegular> 诺 克 斯 事 件 区 - 约 翰 · 麦 格 鲁 将 军 于 周 二 发 表 声 明 , 确 认 " 诺 克 斯 病 毒 " 具 有 退 化 性 , 但 声 明 其 传 播 范 围 已 被 控 制 诺 克 斯 事 件 区 域 内 . ^ 疾 控 中 心 同 时 发 表 声 明 称 , 尽 管 该 病 毒 似 乎 会 导 致 患 者 发 生 严 重 暴 力 行 为 , 但 其 通 过 体 液 传 播 的 方 式 传 播 效 率 较 低 . ^ 官 员 们 还 否 认 总 统 离 开 华 盛 顿 特 区 与 该 病 毒 有 关 , 他 的 离 开 与 私 人 家 庭 事 务 有 关 … "..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfRegular> 联 合 报 道 "..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:410/0.6, textLeading:3, font:UIFont.SdfOldBold> 在 人 们 对 " 诺 克 斯 病 毒 " 的 致 命 性 和 感 染 率 日 益 担 忧 之 际 , 约 翰 · 麦 格 鲁 将 军 表 示 " 无 需 升 级 恐 慌 ""..
 "<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold> 民 主 党 加 入 ^ 共 和 党 对 总 统 的 ^ 批 评 行 列 "..
 "<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic> 路 易 斯 维 尔 市 长 :^" 我 们 仍 保 持 开 放 ""..
 "<type:texture, pivotX:0.5, x:900/2, y:250, width:420, height:350, scaleX:1, scaleY:1, r:0, g:0, b:0, a:0.9>"..
@@ -360,15 +360,15 @@ Print_Media_KentuckyHerald_July15_info = "<type:parent, width:915, height:750>".
 "<type:text, x:900/2, y:135, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold> 路 易 斯 维 尔 , 1993 年 7 月 15 日 , 星 期 四 "..
 "<type:text, x:890, y:135, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>32 页 - 35"..
 "<type:text, x:900/2, y:212, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:2.2, scaleY:2.2, textLeading:-4, font:UIFont.SdfOldBold> 诺 克 斯 边 界 被 突 破 "..
-"<type:text, x:115, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>  各 州 就 诺 克 斯 问 题 ^ 展 开 辩 论 "..
+"<type:text, x:115, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>  各 州 就 诺 克 斯 ^ 问 题 展 开 辩 论 "..
 "<type:text, x:110, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>     当 局 考 虑 ^" 激 进 解 决 方 案 ""..
-"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular> 田 纳 西 州 议 会 投 票 决 定 为 所 有 " 心 智 稳 定 " 的 居 民 提 供 免 费 枪 支 . 加 利 福 尼 亚 州 最 高 法 院 正 准 备 迁 往 圣 卡 塔 利 娜 岛 . 国 会 参 众 两 院 均 将 出 席 人 数 限 制 在 25%, 当 局 就 如 何 应 对 诺 克 斯 病 毒 展 开 讨 论 . ^ 辩 论 集 中 在 两 个 话 题 上 : 如 何 应 对 感 染 者 , 以 及 在 哪 里 设 立 安 全 区 以 保 护 未 感 染 者 . 建 议 从 隔 离 到 处 决 , 众 说 纷 纭 . ^ 诺 克 斯 事 件 边 界 被 突 破 后 的 报 告 表 明 … "..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.6, textLeading:3, font:UIFont.SdfOldRegular> 田 纳 西 州 议 会 投 票 决 定 为 所 有 " 心 智 稳 定 " 的 居 民 提 供 免 费 枪 支 . 加 利 福 尼 亚 州 最 高 法 院 正 准 备 迁 往 圣 卡 塔 利 娜 岛 . 国 会 参 众 两 院 均 将 出 席 人 数 限 制 在 25%, 当 局 就 如 何 应 对 诺 克 斯 病 毒 展 开 讨 论 . ^ 辩 论 集 中 在 两 个 话 题 上 : 如 何 应 对 感 染 者 , 以 及 在 哪 里 设 立 安 全 区 以 保 护 未 感 染 者 . 建 议 从 隔 离 到 处 决 , 众 说 纷 纭 . ^ 诺 克 斯 事 件 边 界 被 突 破 后 的 报 告 表 明 … "..
 "<type:text, x:780, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold> 数 十 人 丧 生 ,^ 军 队 撤 退 "..
 "<type:text, x:770, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold> 诺 克 斯 边 界 发 生 枪 击 ,^ 出 现 人 员 伤 亡 "..
-"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular> 诺 克 斯 事 件 区 - 数 百 名 感 染 " 诺 克 斯 病 毒 " 的 人 突 破 了 路 易 斯 维 尔 以 南 的 军 事 边 界 , 造 成 数 十 人 死 亡 . ^ 尽 管 当 局 下 令 " 格 杀 勿 论 ", 但 军 队 很 快 被 击 溃 , 之 后 感 染 者 袭 击 了 住 在 边 界 营 地 帐 篷 里 的 幸 存 者 . ^ 随 着 军 队 撤 退 , 诺 克 斯 事 件 边 界 线 正 向 北 部 路 易 斯 维 尔 移 动 . 由 于 网 络 状 况 恶 劣 抵 抗 居 民 难 以 … "..
-"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular> 联 合 报 道 "..
-"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold> 数 百 名 " 诺 克 斯 病 毒 " 感 染 者 用 手 疯 狂 攻 击 人 员 和 路 障 , 阻 挡 的 军 队 和 居 民 ."..
-"<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold>  活 动 取 消 ^" 由 组 织 者 决 定 ""..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.6, textLeading:3, font:UIFont.SdfOldRegular> 诺 克 斯 事 件 区 - 数 百 名 感 染 " 诺 克 斯 病 毒 " 的 人 突 破 了 路 易 斯 维 尔 以 南 的 军 事 边 界 , 造 成 数 十 人 死 亡 . ^ 尽 管 当 局 下 令 " 格 杀 勿 论 ", 但 军 队 很 快 被 击 溃 , 之 后 感 染 者 袭 击 了 住 在 边 界 营 地 帐 篷 里 的 幸 存 者 . ^ 随 着 军 队 撤 退 , 诺 克 斯 事 件 边 界 线 正 向 北 部 路 易 斯 维 尔 移 动 . 由 于 网 络 状 况 恶 劣 抵 抗 居 民 难 以 … "..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfRegular> 联 合 报 道 "..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:410/0.6, textLeading:3, font:UIFont.SdfOldBold> 数 百 名 " 诺 克 斯 病 毒 " 感 染 者 用 手 疯 狂 攻 击 人 员 和 路 障 , 淹 没 军 队 和 居 民 ."..
+"<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold>  " 组 织 者 决 定 "^ 活 动 取 消 "..
 "<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic> 州 长 承 认 ^ 需 要 联 邦 援 助 "..
 "<type:texture, pivotX:0.5, x:900/2, y:250, width:420, height:350, scaleX:1, scaleY:1, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
@@ -403,12 +403,12 @@ Print_Media_KentuckyHerald_July16_info = "<type:parent, width:915, height:750>".
 "<type:text, x:900/2, y:205, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:1.75, scaleY:1.75, textLeading:-4, font:UIFont.SdfOldBold> 诺 克 斯 病 毒 会 通 过 空 气 传 播 "..
 "<type:text, x:115, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>  先 驱 报 ^ 特 别 留 言 "..
 "<type:text, x:110, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>   感 谢 ^ 所 有 读 者 "..
-"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular> 这 可 能 是 《 肯 塔 基 先 驱 报 》 的 最 后 一 期 . 病 毒 已 传 入 路 易 斯 维 尔 . 我 们 这 里 有 人 开 始 发 烧 , 街 上 有 数 百 名 感 染 者 . ^ 感 谢 所 有 读 者 在 这 段 前 所 未 有 的 时 期 陪 伴 着 我 们 . 如 果 你 是 少 数 免 疫 者 之 一 , 你 就 是 新 世 界 的 守 护 者 . 现 在 , 传 承 人 类 和 文 明 的 光 芒 是 你 的 责 任 . 即 使 是 一 支 蜡 烛 , 也 能 穿 透 最 深 的 黑 暗 . ^ 愿 上 帝 怜 悯 我 们 其 余 的 人 以 及 我 们 所 爱 的 人 ."..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.6, textLeading:3, font:UIFont.SdfOldRegular> 这 可 能 是 《 肯 塔 基 先 驱 报 》 的 最 后 一 期 . 病 毒 已 传 入 路 易 斯 维 尔 . 我 们 这 里 有 人 开 始 发 烧 , 街 上 有 数 百 名 感 染 者 . ^ 感 谢 所 有 读 者 在 这 段 前 所 未 有 的 时 期 陪 伴 着 我 们 . 如 果 你 是 少 数 免 疫 者 之 一 , 你 就 是 新 世 界 的 守 护 者 . 现 在 , 传 承 人 类 和 文 明 的 光 芒 是 你 的 责 任 . 即 使 是 一 支 蜡 烛 , 也 能 穿 透 最 深 的 黑 暗 . ^ 愿 上 帝 怜 悯 我 们 其 余 的 人 以 及 我 们 所 爱 的 人 ."..
 "<type:text, x:780, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold> 绝 望 笼 罩 全 国 ^ 乃 至 全 球 "..
 "<type:text, x:770, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>    少 数 人 对 ^" 空 气 传 播 " 免 疫 "..
-"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular> 疾 控 中 心 已 证 实 , 诺 克 斯 病 毒 通 过 空 气 快 速 传 播 , 不 过 有 少 部 分 人 对 该 病 毒 的 " 空 气 传 播 变 种 " 具 有 免 疫 力 . 对 于 其 他 人 来 说 , 治 愈 或 治 疗 的 可 能 性 几 乎 为 零 . 请 帮 助 你 年 迈 和 脆 弱 的 邻 居 . 如 果 有 多 余 的 食 物 , 与 人 分 享 . 务 必 避 开 人 群 .^ 正 如 我 们 在 边 界 看 到 的 那 样 , 枪 声 会 吸 引 他 们 . 准 备 好 棒 球 棍 或 其 他 便 于 使 用 的 武 器 , 不 要 害 怕 攻 击 他 们 . 一 旦 他 们 死 亡 并 复 活 , 就 只 会 传 播 病 毒 ."..
-"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular> 联 合 报 道 "..
-"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold> 本 报 团 队 在 周 四 拍 摄 的 一 群 感 染 者 , 当 时 他 们 正 在 前 往 位 于 路 易 斯 维 尔 市 中 心 附 近 的 办 公 室 路 上 , 因 此 团 队 人 员 得 以 安 全 经 过 ."..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:222/0.6, textLeading:3, font:UIFont.SdfOldRegular> 疾 控 中 心 已 证 实 , 诺 克 斯 病 毒 通 过 空 气 快 速 传 播 , 不 过 有 少 部 分 人 对 该 病 毒 的 " 空 气 传 播 变 种 " 具 有 免 疫 力 . 对 于 其 他 人 来 说 , 治 愈 或 治 疗 的 可 能 性 几 乎 为 零 . 请 帮 助 你 年 迈 和 脆 弱 的 邻 居 . 如 果 有 多 余 的 食 物 , 与 人 分 享 . 务 必 避 开 人 群 .^ 正 如 我 们 在 边 界 看 到 的 那 样 , 枪 声 会 吸 引 他 们 . 准 备 好 棒 球 棍 或 其 他 便 于 使 用 的 武 器 , 不 要 害 怕 攻 击 他 们 . 一 旦 他 们 死 亡 并 复 活 , 就 只 会 传 播 病 毒 ."..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfRegular> 联 合 报 道 "..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:410/0.6, textLeading:3, font:UIFont.SdfOldBold> 本 报 团 队 在 周 四 拍 摄 的 一 群 感 染 者 , 当 时 他 们 正 在 前 往 位 于 路 易 斯 维 尔 市 中 心 附 近 的 办 公 室 路 上 , 因 此 团 队 人 员 得 以 安 全 经 过 ."..
 "<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold>   国 会 撤 离 ^ 至 气 象 山 "..
 "<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic> 病 毒 可 能 ^" 已 蔓 延 全 球 ""..
 "<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
@@ -457,7 +457,7 @@ Print_Media_NationalDispatch_July6_info = "<type:parent, width:880, height:825>"
 "<type:texture, width:146, height:1, x:510, y:770, r:0, g:0, b:0, a:0.9>"..
 "<type:text, x:660, y:782, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>( 详 见 " 伊 拉 克 , " A10)"..
 "<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold> 伊 拉 克 总 统 在 巴 格 达 向 国 际 媒 体 发 表 讲 话 "..
-"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular> 联 合 报 道 "..
+"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfRegular> 联 合 报 道 "..
 "<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
@@ -486,14 +486,14 @@ Print_Media_NationalDispatch_July7_info = "<type:parent, width:880, height:825>"
 "<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>( 详 见 " 偏 执 ",A11)"..
 "<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold> 作 者 : 杰 夫 · 弗 兰 克 斯 "..
 "<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular> 特 约 撰 稿 人 "..
-"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:379, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular> 肯 塔 基 州 - 周 一 , 美 国 军 方 封 锁 了 往 返 于 肯 塔 基 州 非 正 式 称 为 " 诺 克 斯 地 区 "( 即 诺 克 斯 堡 附 近 各 县 ) 的 道 路 和 高 速 公 路 , 但 未 说 明 原 因 . ^ 数 百 名 全 副 武 装 , 身 着 作 战 装 备 的 军 事 人 员 于 周 二 清 晨 抵 达 该 地 区 , 将 数 千 名 平 民 包 围 在 封 锁 区 内 , 这 也 迫 使 居 住 在 边 界 外 的 数 百 人 流 离 失 所 . 有 谣 言 称 这 是 一 次 军 事 演 习 , 但 所 有 致 电 军 方 官 员 的 尝 试 都 未 得 到 回 应 . ^ 该 地 区 的 电 话 线 过 去 几 天 也 一 直 处 于 中 断 状 态 , 使 得 与 封 锁 区 的 通 讯 几 乎 不 可 能 . ^ 西 点 镇 的 一 位 居 民 拉 里 · 斯 托 达 德 说 , 他 在 路 易 斯 维 尔 完 成 往 常 的 夜 班 护 士 工 作 后 , "..
-"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular> 看 到 " 远 处 有 士 兵 . 在 诺 克 斯 地 区 这 并 不 罕 见 , 但 后 来 我 看 到 他 们 沿 着 道 路 架 设 围 栏 . 就 像 电 影 里 一 样 . 然 后 一 辆 巨 大 的 卡 车 停 在 我 旁 边 , "..
-"<type:text, x:345, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular> 告 诉 我 不 能 再 往 前 走 了 . 我 告 诉 司 机 我 住 在 西 点 , 但 他 说 我 不 能 回 去 . " 几 位 封 锁 区 外 的 居 民 称 "..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:379, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular> 肯 塔 基 州 - 周 一 , 美 国 军 方 封 锁 了 往 返 于 肯 塔 基 州 非 正 式 称 为 " 诺 克 斯 地 区 "( 即 诺 克 斯 堡 附 近 各 县 ) 的 道 路 和 高 速 公 路 , 但 未 说 明 原 因 . ^ 数 百 名 全 副 武 装 , 身 着 作 战 装 备 的 军 事 人 员 于 周 二 清 晨 抵 达 该 地 区 , 将 数 千 名 平 民 包 围 在 封 锁 区 内 , 这 也 迫 使 居 住 在 边 界 外 的 数 百 人 流 离 失 所 . 有 谣 言 称 这 是 一 次 军 事 演 习 , 但 所 有 致 电 军 方 官 员 的 尝 试 都 未 得 到 回 应 . ^ 该 地 区 的 电 话 线 过 去 几 天 也 一 直 处 于 中 断 状 态 , 使 得 与 封 锁 区 的 通 讯 几 乎 不 可 能 . ^ 西 点 镇 的 一 位 居 民 拉 里 · 斯 托 达 德 说 , 他 在 路 易 斯 维 尔 完 成 往 常 的 夜 班 护 士 工 作 后 , 看 到 : " 远 处 有 士 兵 . "..
+"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular> 在 诺 克 斯 地 区 这 并 不 罕 见 , 但 后 来 我 看 到 他 们 沿 着 道 路 架 设 围 栏 . 就 像 电 影 里 一 样 . 然 后 一 辆 巨 大 的 卡 车 停 在 我 旁 边 , "..
+"<type:text, x:345, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular> 告 诉 我 不 能 再 往 前 走 了 . 我 告 诉 司 机 我 住 在 西 点 , 但 他 说 我 不 能 回 去 ." 几 位 封 锁 区 外 的 居 民 称 "..
 "<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular> 接 到 了 迁 移 命 令 , 其 中 一 人 说 士 兵 在 执 行 命 令 时 " 充 满 歉 意 ", 而 且 … ."..
 "<type:texture, width:146, height:1, x:510, y:786, r:0, g:0, b:0, a:0.9>"..
 "<type:text, x:660, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>( 详 见 " 封 锁 ", A10)"..
 "<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold> 拉 里 · 斯 托 达 德 向 当 地 媒 体 发 表 讲 话 . 军 方 人 员 拒 绝 了 所 有 采 访 或 评 论 请 求 ."..
-"<type:text, x:590, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular> 联 合 报 道 "..
+"<type:text, x:590, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfRegular> 联 合 报 道 "..
 "<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
@@ -529,7 +529,7 @@ Print_Media_NationalDispatch_July12_info = "<type:parent, width:880, height:825>
 "<type:texture, width:146, height:1, x:510, y:755, r:0, g:0, b:0, a:0.9>"..
 "<type:text, x:660, y:766, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>( 详 见 " 航 班 ", A9)"..
 "<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold> 全 球 数 百 万 旅 客 可 能 滞 留 "..
-"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular> 联 合 报 道 "..
+"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfRegular> 联 合 报 道 "..
 "<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
@@ -565,7 +565,7 @@ Print_Media_NationalDispatch_July13_info = "<type:parent, width:880, height:825>
 "<type:texture, width:146, height:1, x:510, y:755, r:0, g:0, b:0, a:0.9>"..
 "<type:text, x:660, y:766, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>( 详 见 " 泄 露 ", A10)"..
 "<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold> 为 尊 重 受 害 者 , 图 片 已 做 模 糊 处 理 "..
-"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular> 联 合 报 道 "..
+"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfRegular> 联 合 报 道 "..
 "<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
@@ -601,7 +601,7 @@ Print_Media_NationalDispatch_July14_info = "<type:parent, width:880, height:825>
 "<type:texture, width:146, height:1, x:510, y:772, r:0, g:0, b:0, a:0.9>"..
 "<type:text, x:660, y:786, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Response",A9)"..
 "<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold> 中 国 在 联 合 国 严 厉 批 评 美 国 对 疫 情 的 处 理 "..
-"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular> 联 合 报 道 "..
+"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfRegular> 联 合 报 道 "..
 "<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
@@ -637,7 +637,7 @@ Print_Media_NationalDispatch_July15_info = "<type:parent, width:880, height:825>
 "<type:texture, width:146, height:1, x:510, y:772, r:0, g:0, b:0, a:0.9>"..
 "<type:text, x:660, y:786, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>( 详 见 " 边 境 ", A9)"..
 "<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold> 数 百 名 感 染 者 冲 破 围 栏 , 疯 狂 攻 击 所 有 附 近 的 未 感 染 者 "..
-"<type:text, x:590, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular> 联 合 报 道 "..
+"<type:text, x:590, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfRegular> 联 合 报 道 "..
 "<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
 "<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
