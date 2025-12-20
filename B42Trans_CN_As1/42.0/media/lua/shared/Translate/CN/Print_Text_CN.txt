@@ -15,7 +15,7 @@ Print_Text_KnoxKnews_July1_info = "游骑兵队在西点凯旋而归 - 详见第
 Print_Text_KnoxKnews_July2_title = "诺克斯新闻 - 1993年7月2日",
 
 Print_Text_KnoxKnews_July2_info = "迪莉娅号在勃兰登堡"无限期"停泊 - 详见第 2 页\n"..
-"圣堂山马场计划在弗吉尼亚投建赛道 - 详见第 4 页\n\n"..
+"圣堂山跑马场计划在弗吉尼亚投建赛道 - 详见第 4 页\n\n"..
 "诺克斯地区电话线路大面积中断\n\n"..
 "[image] - 诺克斯电信称其工程师正在"夜以继日"进行维修工作. \n\n"..
 "诺克斯地区 - 诺克斯电信就其电话网络长达数小时的中断致歉, 截至发稿时间仍未完全恢复, 这导致上千名诺克斯居民无法使用电话和互联网服务. \n 这场突发中断引发了混乱, 数家依赖远程办公的企业停工, 其他企业则无法与客户或供应商沟通. 此次严重但仅限局部地区的中断原因尚未公布, 但诺克斯电信表示他们正在"处理此事",数十名工程师正在该地区的电线杆上加急作业. \n 专家凯文·霍根告诉《诺克斯新闻》: "这种故障极为罕见. 它似乎与某单一交换机或中央系统无关. 我听说有线路掉落或断开的报告. 要么是它们都因雷击而过载, 要么就是有人蓄意破坏. "(续第 2 页)\n\n"..
@@ -322,13 +322,13 @@ Print_Text_HavishamSuites_info = "通往梦想之门\n\n 奢华与放松\n\n 一
 Print_Text_SunsetPinesFuneralHome_title = "日落松殡仪馆",
 Print_Text_SunsetPinesFuneralHome_info = "在日落松, 体面地步入来世! \n\n 无需等待. 为葬礼做好计划\n\n 让家人专注于美好的回忆. 各种棺材可供选择, 满足不同预算, 也可以选择简单的火葬. 遗嘱顾问甚至会协助处理死亡相关的行政手续. \n\n 橡木棺材 500 美元 \n\n 松木棺材 200 美元 \n\n 樱桃木棺材 400 美元 \n\n 让最后的安息之地优雅舒适. \n\n 肯塔基州, 路易斯维尔市, 东街 401 号",
 
-Print_Text_UStoreItRiverside_title = "U-Store It (河畔店)",
+Print_Text_UStoreItRiverside_title = "优仓储 (河畔店)",
 Print_Text_UStoreItRiverside_info = "存储物品… 就到 U-Store It! \n\n 价格实惠, 空间宽敞, 满足你所有的存储需求. \n\n 从家居陈设到艺术品, 从工具到枪支弹药, 从长保质食品, 到舍不得丢掉的旧衣服…\n\n 存储物品… 就到 U-Store It! \n\n 每月仅需 20 美元起! \n\n7 月 9 日前, 租 3 个大储物柜只需付 2 个的钱. \n\n 肯塔基州, 河畔镇店",
 
-Print_Text_UStoreItLouisville_title = "U-Store It (路易斯维尔店)",
+Print_Text_UStoreItLouisville_title = "优仓储 (路易斯维尔店)",
 Print_Text_UStoreItLouisville_info = "存储物品… 就到 U-Store It! \n\n 价格实惠, 空间宽敞, 满足你所有的存储需求. \n\n 从家居陈设到艺术品, 从工具到枪支弹药, 从长保质食品, 到舍不得丢掉的旧衣服…\n\n 存储物品… 就到 U-Store It! \n\n 每月仅需 20 美元起! \n\n7 月 9 日前, 租 3 个大储物柜只需付 2 个的钱. \n\n肯塔基州, 路易斯维尔店",
 
-Print_Text_UStoreItMuldraugh_title = "U-Store It (马尔德劳店)",
+Print_Text_UStoreItMuldraugh_title = "优仓储 (马尔德劳店)",
 Print_Text_UStoreItMuldraugh_info = "存储物品… 就到 U-Store It! \n\n 价格实惠, 空间宽敞, 满足你所有的存储需求. \n\n 从家居陈设到艺术品, 从工具到枪支弹药, 从长保质食品, 到舍不得丢掉的旧衣服…\n\n 存储物品… 就到 U-Store It! \n\n 每月仅需 20 美元起! \n\n7 月 9 日前, 租 3 个大储物柜只需付 2 个的钱. \n\n肯塔基州, 马尔德劳店",
 
 Print_Text_WestMapleCountryClub_title = "西枫郊野俱乐部",

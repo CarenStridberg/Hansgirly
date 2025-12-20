@@ -52,7 +52,7 @@ Print_Media_KnoxKnews_July2_info = "<type:parent, width:805, height:910>"..
 "<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
 "<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:789, height:900, pivotX:1, pivotY:1, scaleX:-1, scaleY:-1, angle:0, a:0.4>"..
 "<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold> 迪 莉 娅 号 无 限 期 停 泊 在 勃 兰 登 堡 ""..
-"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold> 圣 堂 山 马 场 计 划 修 建 弗 吉 尼 亚 赛 道 "..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold> 圣 堂 山 跑 马 场 计 划 修 建 弗 吉 尼 亚 赛 道 "..
 "<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold> 参 见 第 2 页 "..
 "<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold> 参 见 第 4 页 "..
 "<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold> 周 五 "..
@@ -75,7 +75,7 @@ Print_Media_KnoxKnews_July2_info = "<type:parent, width:805, height:910>"..
 "<type:texture, texture:getTexture("media/textures/printMedia/logos/kk.png"), width:675, height:200, x:790/2, y:200, pivotX:0.5, pivotY:0.5, a:0.9>"..
 "<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:789, height:901, pivotX:0.0004, pivotY:0.0004, a:1>",
 
-Print_Media_KnoxKnews_July3_title = "Knox Knews - 1993年7月3日",
+Print_Media_KnoxKnews_July3_title = "诺克斯新闻 - 1993年7月3日",
 
 Print_Media_KnoxKnews_July3_info = "<type:parent, width:805, height:910>"..
 "<type:texture, width:794, height:900, pivotX:-0.01, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
@@ -709,7 +709,7 @@ Print_Media_LouisvilleSunTimes_July13_info = "<type:parent, width:820, height:81
 "<type:texture, width:789, height:300, x:0, y:-100, texture:getTexture("media/textures/printMedia/logos/LST.png")>"..
 "<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:805, height:801, pivotX:0.0004, pivotY:0.0004, a:1>",
 
-Print_Media_LouisvilleSunTimes_July14_title = "Louisville Sun Times - 1993年7月14日",
+Print_Media_LouisvilleSunTimes_July14_title = "路易斯维尔太阳时报 - 1993年7月14日",
 
 Print_Media_LouisvilleSunTimes_July14_info = "<type:parent, width:820, height:810>"..
 "<type:texture, width:805, height:800, pivotX:-0.012, pivotY:0, angle:0.2, r:145/255.0, g:145/255.0, b:145/255.0>"..
@@ -844,7 +844,7 @@ Print_Media_Fossoil8_title = "福索石油 (南路易斯维尔)",
 
 Print_Media_Delilah_title = "迪莉娅号蒸汽船",
 
-Print_Media_ChapelmountDownsRacetrack_title = "圣堂山马场赛道",
+Print_Media_ChapelmountDownsRacetrack_title = "圣堂山跑马场赛道",
 
 Print_Media_BensCabin_title = "小屋出租 (西点)",
 

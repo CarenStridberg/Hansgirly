@@ -2046,8 +2046,8 @@ IGUI_Fish_Window_Tab_Guide = "指南",
     UI_credits_header_Producer = "制片人";
     UI_credits_header_InteractiveMusicComposer = "交互音乐作曲家";
     UI_credits_header_DedicatedToTheMemoryOf = "谨以此纪念…";
-    UI_credits_header_SpecialInfected = "特别感谢";
-    UI_credits_header_SpecialThanksTo = "特别感谢";
+    UI_credits_header_SpecialInfected = "特意感染";
+    UI_credits_header_SpecialThanksTo = "特别鸣谢";
     UI_credits_header_AudioEngine = "音频引擎";
     UI_credits_header_UsesBinkVideo = "使用Bink视频";
 
@@ -2304,7 +2304,7 @@ IGUI_Fish_Window_Tab_Guide = "指南",
     UI_quick_tip13 = "有些刀可以用来"背后处决". 但要小心 - 你的刀可能会卡在僵尸身上.",
     UI_quick_tip14 = "车钥匙可能会在附近的地面上, 房子里, 或者僵尸身上找到.",
     UI_quick_tip15 = "在室内打开发电机产生的烟雾可能会杀死你.",
-    UI_quick_tip16 = "伤口感染 (不是诺克斯病毒感染) 可以用干净绷带进行预防. 你可以使用消毒剂或开水对绷带进行消毒.",
+    UI_quick_tip16 = "伤口感染 (说的不是诺克斯病毒感染) 可以用干净绷带进行预防. 你可以使用消毒剂或开水对绷带进行消毒.",
     UI_quick_tip17 = "把物品放到皮带上或者枪套内, 可以让你更快地取出它们, 还可以减重.",
     UI_quick_tip18 = "堆肥箱中的腐烂食物会慢慢变成堆肥, 然后用来给作物施肥.",
     UI_quick_tip19 = "车辆喇叭声或警笛声会吸引大片的僵尸.",
@@ -2376,4 +2376,5 @@ IGUI_Fish_Window_Tab_Guide = "指南",
     "<LINE> 为 了 获 得 最 佳 体 验 , 强 烈 建 议 在 白 名 单 服 务 器 上 游 玩 多 人 模 式 , 或 是 在 Steam 上 联 机 游 玩 . <LINE> " ..
     "<LINE> 游 戏 底 层 框 架 已 经 发 生 了 很 大 变 化 , 希 望 大 家 保 持 理 解 , 因 为 我 们 正 在 不 断 改 进 游 戏 , 修 复 已 知 的 问 题 .",
     UI_worldscreen_SavefileOld42_13 = " <H1> <LINE> <ORANGE> WARNING: <LINE> <LINE> <RGB:1,1,1> 在 不 稳 定 版 本 B42.13 前 创 建 的 存 档 已 经 不 再 能 在 本 版 本 中 使 用 . <LINE> <LINE> 转 换 过 程 可 能 会 导 致 游 戏 部 分 内 容 损 坏 , 请 在 继 续 操 作 前 备 份 存 档 . <LINE> <LINE> 要 转 换 存 档 吗 ?",
+    UI_ServerTime = "服务器时间: %1 ; 末次延迟: %2"
 }
