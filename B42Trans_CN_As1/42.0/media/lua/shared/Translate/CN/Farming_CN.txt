@@ -196,5 +196,5 @@ Farming_CN = {
     Farming_MothFood = "吸引蛾子",
     Farming_RabbitBane = "驱除兔子",
     Farming_SlugsProof = "防蛞蝓",
-    Farming_SlugsBane = "防蛞蝓"
+    Farming_SlugsBane = "防蛞蝓",
 }
