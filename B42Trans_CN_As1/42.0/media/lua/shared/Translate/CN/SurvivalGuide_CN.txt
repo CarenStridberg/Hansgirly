@@ -56,7 +56,7 @@ SurvivalGuide_CN = {
                                     " <H1> 搜 寻 <BR> <TEXT> 找 不 到 吃 的 ? 点 击 屏 幕 左 上 角 的 放 大 镜 图 标 , 然 后 点 击 " 启 用 搜 寻 模 式 ", 尝 试 从 大 自 然 中 寻 找 食 物 . 参 阅 本 指 南 第 12 页 以 便 了 解 更 多 信 息 . <BR>",
 
     SurvivalGuide_entrie9title = "#9 - 精心搜刮",
-    SurvivalGuide_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 精 心 搜 刮 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 快 速 有 效 地 管 理 您 的 库 存 可 以 节 省 时 间 , 有 时 候 还 能 救 你 一 命 !",
+    SurvivalGuide_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 精 心 搜 刮 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 快 速 有 效 地 管 理 您 的 物 品 栏 可 以 节 省 时 间 , 有 时 候 还 能 救 你 一 命 !",
     SurvivalGuide_entrie9moreinfo = "<H1> 选 择 <BR><TEXT> 如 何 在 僵 毁 里 翻 找 , 拿 取 , 放 置 和 使 用 ? 主 要 的 方 法 是 拖 动 , 或 者 右 键 单 击 以 调 出 菜 单 . <BR><IMAGECENTRE:media/ui/tutimages/invrbtnselect.png><LINE>" ..
                                     " 按 住 左 SHIFT 键 就 可 以 选 中 多 个 物 品 . <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 或 者 , 也 可 以 用 鼠 标 来 框 出 需 要 选 择 的 物 品 . <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
                                     " 双 击 储 存 空 间 的 物 品 栏 中 的 某 样 东 西 即 可 快 速 拿 取 , 或 者 , 你 也 可 以 单 击 所 选 内 容 右 侧 的 快 速 上 下 文 按 钮 . <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT> 如 果 想 拿 取 容 器 中 的 所 有 东 西 , 那 么 还 有 全 部 拿 取 的 选 项 . <LINE> "..
@@ -162,7 +162,7 @@ SurvivalGuide_CN = {
                                     " <H1> FORAGING <BR> <TEXT> 找 不 到 吃 的 ? 试 着 在 <JOYPAD:Back, 28, 28> 按 钮 菜 单 中 的 眼 睛 图 标 处 启 用 搜 寻 模 式 , 尝 试 从 大 自 然 中 寻 找 食 物 . 参 阅 本 指 南 第 12 页 以 便 了 解 更 多 信 息 . <BR> ",
 
     SurvivalGuide_Joypad_entrie9title = "#9 - 精 心 搜 刮 ",
-    SurvivalGuide_Joypad_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 精 心 搜 刮 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 快 速 有 效 地 管 理 您 的 库 存 可 以 节 省 时 间 , 有 时 候 还 能 救 你 一 命 !",
+    SurvivalGuide_Joypad_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 精 心 搜 刮 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 快 速 有 效 地 管 理 您 的 物 品 栏 可 以 节 省 时 间 , 有 时 候 还 能 救 你 一 命 !",
     SurvivalGuide_Joypad_entrie8moreinfo = " <H1> 物 品 栏 <BR> <TEXT> 如 何 在 僵 毁 里 翻 找 , 拿 取 , 放 置 和 使 用 ? 使 用 <JOYPAD:YButton, 28, 28> 打 开 物 品 栏 , 使 用 方 向 键 进 行 选 取 . <JOYPAD:LBumper, 28, 28> 和 <JOYPAD:RBumper, 28, 28> 可 以 在 附 近 的 容 器 ( 自 己 的 物 品 栏 或 者 附 近 区 域 的 容 器 ) 之 间 进 行 切 换 , 而 <JOYPAD:XButton, 28, 28> 则 可 以 把 选 中 的 物 品 在 容 器 间 来 回 移 动 . <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
                                     " 你 也 可 以 使 用 <JOYPAD:AButton, 28, 28> 菜 单 中 的 " 全 部 拿 取 " 来 拿 取 容 器 中 的 所 有 东 西 . <LINE> "..
                                     " <BR> <H1> 背 包 之 荣 耀 <BR> <TEXT> 背 包 很 重 要 , 有 助 于 搬 运 物 品 . <BR> 想 装 备 背 包 并 快 速 放 入 物 品 ? 只 需 在 物 品 栏 中 选 中 它 , 使 用 <JOYPAD:AButton, 28, 28> 菜 单 并 将 其 放 置 在 主 手 , 副 手 或 ( 只 对 于 某 些 背 包 可 用 ) 背 上 ."..
@@ -268,7 +268,7 @@ SurvivalGuide_CN = {
                                      " 鱼 的 数 量 会 受 到 天 气 , 时 间 , 附 近 噪 音 等 因 素 的 影 响 . 过 度 捕 捞 也 会 导 致 某 个 区 域 的 鱼 群 减 少 . <BR> 你 也 可 以 制 作 散 饵 来 吸 引 更 多 鱼 . 右 键 单 击 地 面 上 的 沙 子 可 以 创 建 一 个 " 饵 托 ". 然 后 在 你 的 物 品 栏 中 右 键 单 击 鱼 饵 , 添 加 鱼 饵 . 右 键 单 击 一 片 水 域 , 然 后 选 择 将 鱼 饵 扔 进 去 .",
 
     SurvivalGuide_Joypad_entrie14title = "#14 - 钓 鱼 大 师 ",
-    4SurvivalGuide_Joypad_entrie14txt = " <CENTRE> "<SIZE:large> #14 - 钓 鱼 大 师 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 人 类 可 能 会 灭 绝 , 但 动 物 绝 对 不 会 !",
+    SurvivalGuide_Joypad_entrie14txt = " <CENTRE> "<SIZE:large> #14 - 钓 鱼 大 师 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 人 类 可 能 会 灭 绝 , 但 动 物 绝 对 不 会 !",
     SurvivalGuide_Joypad_entrie14moreinfo = " <H1> 钓 鱼 <LINE>" ..
                                      " <TEXT> <SIZE:small>" ..
                                      " 钓 鱼 需 要 鱼 竿 或 渔 网 . 它 们 可 以 在 世 界 中 找 到 , 也 可 以 在 有 合 适 的 配 方 的 情 况 下 制 作 . 鱼 竿 需 要 一 根 鱼 线 和 一 个 鱼 钩 来 制 作 , 而 鱼 线 和 鱼 钩 都 可 能 断 掉 . 鱼 竿 还 需 要 装 上 钓 饵 来 吸 引 鱼 ." ..

@@ -16,7 +16,7 @@ Fluids_CN = {
     Fluid_Dropbox_Remove = "右键移除, 或将新容器拖至此处.",
     Fluid_Options = "液体选项",
     Fluid_Show_Info = "显示信息",
-    Fluid_Items_Inventory = "物品需从人物库存拖入面板.",
+    Fluid_Items_Inventory = "物品必须从人物的物品栏拖入面板.",
 
     Fluid_Empty = "清空",
 --Fluid_Empty = "倒空",
