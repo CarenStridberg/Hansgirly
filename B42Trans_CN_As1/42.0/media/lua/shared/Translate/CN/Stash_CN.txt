@@ -81,7 +81,7 @@ Stash_CN = {
 
     Stash_LVMap15_Text1 = "如果有谁发现了这张地图, 我是娜塔莉·西格蒙德森",
     Stash_LVMap15_Text2 = "路易斯安那州立大学艺术史讲师",
-    Stash_LVMap15_Text3 = "我已经死了, 但我有一个最后的请求",
+    Stash_LVMap15_Text3 = "我已经死了, 但我有个遗愿.",
     Stash_LVMap15_Text4 = "只有每个人都放任不管时, 世界末日才会真的到来.",
     Stash_LVMap15_Text5 = "我们必须保护美术馆中的珍品",
     Stash_LVMap15_Text6 = "否则, 我们就真的一无所有了",
