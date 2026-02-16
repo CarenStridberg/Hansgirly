@@ -135,7 +135,7 @@ Fluids_CN = {
     Fluid_Name_Any = "任何液体",
 
     Fluid_Name_Acid = "酸",
-    Fluid_Name_Alcohol = "酒精",
+    Fluid_Name_RubbingAlcohol = "医用酒精",
     Fluid_Name_AnimalBlood = "动物血液",
     Fluid_Name_Beer = "啤酒",
     Fluid_Name_Bleach = "漂白剂",
