@@ -216,7 +216,7 @@ SurvivalGuide_CN = {
                                      " 点 击 分 区 图 标 以 便 创 建 牲 畜 区 域 或 查 看 已 有 的 区 域 . <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/ui/Zone_Animal_Off.png> <LINE> " ..
                                      " 点 击 并 拖 动 即 可 创 建 新 的 牲 畜 区 域 . 位 于 牲 畜 区 域 内 的 动 物 将 自 动 被 分 配 到 该 区 域 , 即 使 该 区 域 没 有 围 栏 , 也 不 会 离 开 . 右 键 点 击 动 物 , 然 后 点 击 " 用 绳 索 系 住 动 物 ", 即 可 将 动 物 引 导 到 该 区 域 或 其 他 任 何 地 方 . 较 小 的 动 物 可 以 被 拿 起 并 放 置 ." ..
-                                     dan" <BR> 区 域 菜 单 显 示 所 有 附 近 的 牲 畜 区 域 . 区 域 外 的 动 物 会 随 机 游 荡 , 但 不 会 交 配 ." ..
+                                     " <BR> 区 域 菜 单 显 示 所 有 附 近 的 牲 畜 区 域 . 区 域 外 的 动 物 会 随 机 游 荡 , 但 不 会 交 配 ." ..
                                      " 在 区 域 上 右 键 单 击 , 可 以 查 看 额 外 的 信 息 . 例 如 被 分 配 到 这 里 的 动 物 , 以 及 这 里 剩 余 的 食 物 量 和 水 量 . <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
                                      " <SIZE:medium> <CENTRE> 照 顾 动 物 <TEXT> <BR> " ..
@@ -241,7 +241,7 @@ SurvivalGuide_CN = {
                                      " 点 击 分 区 图 标 以 便 创 建 牲 畜 区 域 或 查 看 已 有 的 区 域 . <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/ui/Zone_Animal_Off.png> <LINE> " ..
                                      " 点 击 并 拖 动 即 可 创 建 新 的 牲 畜 区 域 . 位 于 牲 畜 区 域 内 的 动 物 将 自 动 被 分 配 到 该 区 域 , 即 使 该 区 域 没 有 围 栏 , 也 不 会 离 开 . 右 键 点 击 动 物 , 然 后 点 击 " 用 绳 索 系 住 动 物 ", 即 可 将 动 物 引 导 到 该 区 域 或 其 他 任 何 地 方 . 较 小 的 动 物 可 以 被 拿 起 并 放 置 ." ..
-                                     dan" <BR> 区 域 菜 单 显 示 所 有 附 近 的 牲 畜 区 域 . 区 域 外 的 动 物 会 随 机 游 荡 , 但 不 会 交 配 ." ..
+                                     " <BR> 区 域 菜 单 显 示 所 有 附 近 的 牲 畜 区 域 . 区 域 外 的 动 物 会 随 机 游 荡 , 但 不 会 交 配 ." ..
                                      " 在 区 域 上 右 键 单 击 , 可 以 查 看 额 外 的 信 息 . 例 如 被 分 配 到 这 里 的 动 物 , 以 及 这 里 剩 余 的 食 物 量 和 水 量 . <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
                                      " <SIZE:medium> <CENTRE> 照 顾 动 物 <TEXT> <BR> " ..

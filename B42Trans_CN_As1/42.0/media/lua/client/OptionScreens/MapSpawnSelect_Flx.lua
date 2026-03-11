@@ -19,17 +19,13 @@ function MapSpawnSelect:_fillList()
 			item.region = v;
 			item.dir = v.name;
 			item.desc = info.description or "NO DESCRIPTION";
-			--item.worldimage = info.thumb;
 			if info.spawnSelectImagePyramid then
 				spawnSelectImagePyramid = info.spawnSelectImagePyramid -- only one is supported
---			elseif info.worldmap then
---				WORLD_MAP = info.worldmap
 			end
 			item.zoomX = info.zoomX
 			item.zoomY = info.zoomY
 			item.zoomS = info.zoomS
 			item.demoVideo = info.demoVideo
-			--self.listbox:addItem(item.name, item);
 			self:checkSorted(item);
 		else
 			local item = {}
@@ -39,11 +35,9 @@ function MapSpawnSelect:_fillList()
 			item.desc = "";
 			item.worldimage = nil;
 			self:checkSorted(item);
-			--self.listbox:addItem(item.name, item);
 		end
 	end
-	--self.listbox:sort()
-	--self:sortList();
+	
 	if #self.listbox.items > 1 then
         local item = {}
         item.name = getText("UI_mapspawn_random");
@@ -55,7 +49,7 @@ function MapSpawnSelect:_fillList()
 		table.insert(self.notSortedList, item);
     end
 	
-	spawnSelectImagePyramid = getMapInfo("Riverside, KY").dir .. "\\spawnSelectImagePyramid.rar"
+	spawnSelectImagePyramid = getMapInfo("Riverside, KY").dir .. "\\spawnSelectImagePyramid.zip"
 	if spawnSelectImagePyramid then
 		self.mapPanel:setImagePyramid(spawnSelectImagePyramid)
 	else
@@ -90,6 +84,4 @@ function MapSpawnSelect:_fillList()
 	self.mapPanel.shownInitialLocation = false
 end
 
-if getActivatedMods():contains("\\B42Trans_CN") then
-	MapSpawnSelect.fillList = MapSpawnSelect._fillList;
-end
+MapSpawnSelect.fillList = MapSpawnSelect._fillList;
