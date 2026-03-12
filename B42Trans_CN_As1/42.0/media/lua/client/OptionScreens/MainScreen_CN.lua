@@ -14,22 +14,12 @@ MainScreen.startTutorial = function()
     TutorialData = {}
     TutorialData.chosenTutorial = Tutorial1;
     createWorld(worldName);
---[[
-    -- menu activated via joypad, we disable the joypads and will re-set them automatically when the game is started
-    if MainScreen.instance.joyfocus then
-        local joypadData = MainScreen.instance.joyfocus
-        joypadData.focus = nil;
-        updateJoypadFocus(joypadData)
-        JoypadState.count = 0
-        JoypadState.players = {};
-        JoypadState.joypads = {};
-        JoypadState.forceActivate = joypadData.id;
-    end
---]]
+
     GameWindow.doRenderEvent(false);
     forceChangeState(LoadingQueueState.new());
 end
 
 -- As 1 --
+-- Available in B42.15.2 --
 -- line 2 is changed from ActiveMods.getById("currentGame") to ActiveMods.getById("default").
 -- line 3 is skipped to ensure that default mods can be loaded.

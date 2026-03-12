@@ -14,4 +14,5 @@ function MapUtils.initDirectoryStreetData(mapUI, directory)
 end
 
 -- As 1 --
+-- Available in B42.15.2 --
 -- Skip Muldraugh to load the street data in Riverside.

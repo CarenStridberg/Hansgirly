@@ -85,3 +85,6 @@ function MapSpawnSelect:_fillList()
 end
 
 MapSpawnSelect.fillList = MapSpawnSelect._fillList;
+
+-- As 1 --
+-- Available in B42.15.2 --

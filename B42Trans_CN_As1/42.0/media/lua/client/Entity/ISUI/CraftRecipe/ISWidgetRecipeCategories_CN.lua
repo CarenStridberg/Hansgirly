@@ -12,3 +12,6 @@ function ISWidgetRecipeCategories:populateCategoryList()
         end
     end
 end
+
+-- As 1 --
+-- Available in B42.15.2 --
