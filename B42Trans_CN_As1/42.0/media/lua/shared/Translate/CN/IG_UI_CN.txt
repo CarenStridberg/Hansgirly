@@ -3959,7 +3959,7 @@ IGUI_CraftingWindow_RightClickOnly = "仅限右键制作",
    IGUI_BookTitle_TorusChronicles4FateoftheSimulation= "《环界编年史 #4: 模拟终局》F. X. Chaotica 著",
    IGUI_BookTitle_TorusChronicles5TheGlichanRaceVictorious= "《环界编年史 #5: 格利坎族的胜利》F. X. Chaotica 著",
 
-    IGUI_ComicTitle_100BillionBC = "100亿年前",
+    IGUI_ComicTitle_100BillionBC = "1000亿年前",
     IGUI_ComicTitle_AbsoluteHooey = "绝对胡扯",
     IGUI_ComicTitle_AtomLizardAwakes = "原子蜥蜴觉醒了!",
     IGUI_ComicTitle_AtomLizardAwakesAgain = "原子蜥蜴再次觉醒!",
