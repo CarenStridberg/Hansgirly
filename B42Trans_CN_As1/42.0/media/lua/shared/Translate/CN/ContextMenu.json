@@ -682,6 +682,7 @@
     "ContextMenu_FuelPumpNoPower": "油泵未通电",
     "ContextMenu_FuelPumpNoContainer": "没有装燃料的容器",
     "ContextMenu_TooComplicated": "技能水平太低, 无法阅读.",
+    "ContextMenu_TooSimple": "技能水平太高, 不会从这本书中学到新东西.",
     "ContextMenu_TooDark": "光线太暗无法阅读.",
     "ContextMenu_RecentlyRead": "近期已读过.",
     "ContextMenu_RecentlySeen": "近期已查看过.",
@@ -786,7 +787,7 @@
     "ContextMenu_Tile_Floor": "地砖地面",
     "ContextMenu_Masonry": "石工",
     "ContextMenu_Tombstone": "墓碑",
-    "ContextMenu_Lure": "诱饵",
+    "ContextMenu_Lure": "引诱",
     "ContextMenu_Milk": "挤奶",
     "ContextMenu_KillAnimal": "宰杀动物",
     "ContextMenu_Hutch_CloseHatchDoor": "关闭孵化门",
@@ -846,4 +847,5 @@
     "ContextMenu_Gardening": "园艺",
     "ContextMenu_Fluid": "液体",
     "ContextMenu_FullInventory": "物品栏已满",
+    "ContextMenu_ChangeRadius": "更改半径"
 }

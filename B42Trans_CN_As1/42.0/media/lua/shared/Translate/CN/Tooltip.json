@@ -580,11 +580,11 @@
     "Tooltip_FishingTipTitle": "如何钓鱼",
     "Tooltip_FishingTip": "如何钓鱼<br>- 双手装备钓竿<br>- 瞄准水面<br>- 按下LMB投掷<br>- 当你被咬时, 线张力会增加<br>- 要开始卷起你的渔获, 按住鼠标左键<br>- 张力过大, 你的线可能会断<br>使用鼠标左右键改变张力<br><br><br><br>在生存指南中阅读更多关于钓鱼的信息.",
     "Tooltip_ButcherUI_AddAnimalCorpse": "死亡的动物可以靠近钩子或在你的物品栏中.",
-    "Tooltip_ButcherUI_CantAddThis": "对于屠宰钩来说, 这不是一只合适的死动物.",
-    "Tooltip_Animal_BetterOnHook": "如果你在没有屠宰钩的情况下屠宰, <br>你会得到更少的肉, 且得不到皮革.",
-    "Tooltip_GrappleCorpse": "按住互动键来抓取/放下尸体.",
-    "Tooltip_GrappleCorpseFire": "你不能抓取燃烧的尸体!",
-    "Tooltip_campfire_addcorpse": "当营火燃烧时, 添加太危险了.",
+    "Tooltip_ButcherUI_CantAddThis": "必须是只合适的死动物, 才能在屠宰钩上屠宰.",
+    "Tooltip_Animal_BetterOnHook": "如果你在没有屠宰钩的情况下屠宰, <br>会得到更少的肉, 且得不到皮革.",
+    "Tooltip_GrappleCorpse": "按住互动键来搬运/放下尸体.",
+    "Tooltip_GrappleCorpseFire": "你不能搬运燃烧的尸体!",
+    "Tooltip_campfire_addcorpse": "在营火燃烧时放入尸体过于危险.",
     "Tooltip_campfire_addcorpse_far": "太远了, 无法将尸体扔进营火.",
     "Tooltip_grave_addcorpse_far": "太远了, 无法将尸体扔进坟墓.",
     "Tooltip_trough_info1": "食槽只能包含食物或水.",
@@ -603,4 +603,5 @@
     "Tooltip_Unwanted": "不想要",
     "Tooltip_Unwanted_More": "此类物品已被<br>标记为不想要.",
     "Tooltip_IsEmpty": "无法在空的状态下激活.",
+    "Tooltip_DoorIsLocked": "门被锁"
 }
