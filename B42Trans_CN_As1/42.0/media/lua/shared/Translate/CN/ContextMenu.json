@@ -1,5 +1,7 @@
 {
-	"ContextMenu_AddWaterFromItem": "从物品中加水",
+    "ContextMenu_AddWaterFromItem": "从物品中加水",
+    "ContextMenu_Window": "窗户",
+    "ContextMenu_Curtain": "窗帘",
     "ContextMenu_Destroy": "破坏",
     "ContextMenu_DestroyFloor": "拆除地板",
     "ContextMenu_Sleep": "睡觉",
