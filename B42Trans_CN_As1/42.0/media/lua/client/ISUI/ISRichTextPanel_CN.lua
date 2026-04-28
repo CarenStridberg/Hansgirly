@@ -166,3 +166,6 @@ function ISRichTextPanel:paginate()
 
 	self:setScrollHeight(self.marginTop + y + self.marginBottom);
 end
+
+-- As 1 & ROBOLUTION --
+-- Available in B42.18.2 --
