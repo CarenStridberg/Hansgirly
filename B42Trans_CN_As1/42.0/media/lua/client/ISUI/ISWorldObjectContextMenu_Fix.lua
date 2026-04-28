@@ -1,9 +1,15 @@
-require "ISUI/ISWorldObjectContextMenu"
-
 local _createMenu = ISWorldObjectContextMenu.createMenu
 
 function ISWorldObjectContextMenu:createMenu(player, worldobjects, x, y, test)
-	context = _createMenu(player, worldobjects, x, y, test)
+	if getCore():getGameMode() == "Tutorial" then
+		local context = Tutorial1.createWorldContextMenu(player, worldobjects, x ,y);
+		return context;
+	end
+	if test then
+		return ISWorldObjectContextMenu.Test;
+	end
+
+	local context = _createMenu(self, player, worldobjects, x, y, test)
 
 	if context and context.options then
 		local windowOption = context:getOptionFromName("Window")
@@ -16,9 +22,9 @@ function ISWorldObjectContextMenu:createMenu(player, worldobjects, x, y, test)
 			doorOption.name = getText("ContextMenu_Door")
 		end
 
-		local doorOption = context:getOptionFromName("Curtain")
-		if doorOption then
-			doorOption.name = getText("ContextMenu_Curtain")
+		local curtainOption = context:getOptionFromName("Curtain")
+		if curtainOption then
+			curtainOption.name = getText("ContextMenu_Curtain")
 		end
 	end
 
