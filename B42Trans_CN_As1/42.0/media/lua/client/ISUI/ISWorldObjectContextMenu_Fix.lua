@@ -3,20 +3,14 @@ local _createMenu = ISWorldObjectContextMenu.createMenu
 function ISWorldObjectContextMenu:createMenu(player, worldobjects, x, y, test)
 	local context = _createMenu(self, player, worldobjects, x, y, test)
 
-	if context and context.options then
-		local windowOption = context:getOptionFromName("Window")
-		if windowOption then
-			windowOption.name = getText("ContextMenu_Window")
-		end
+	if context and context ~= true and context.options then
+		local itemList = {"Window", "Door", "Curtain"}
 
-		local doorOption = context:getOptionFromName("Door")
-		if doorOption then
-			doorOption.name = getText("ContextMenu_Door")
-		end
-
-		local curtainOption = context:getOptionFromName("Curtain")
-		if curtainOption then
-			curtainOption.name = getText("ContextMenu_Curtain")
+		for i = 1, #itemList do
+			local option = context:getOptionFromName(itemList[i])
+			if option and getText("ContextMenu_"..itemList[i]) then
+				option.name = getText("ContextMenu_"..itemList[i])
+			end
 		end
 	end
 
