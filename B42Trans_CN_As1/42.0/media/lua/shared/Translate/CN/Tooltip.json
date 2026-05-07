@@ -27,7 +27,7 @@
     "Tooltip_item_Weight": "负重",
     "Tooltip_item_Equipped": "装备",
     "Tooltip_item_Unequipped": "未装备",
-    "Tooltip_item_Unattached": "未安装",
+    "Tooltip_item_Unattached": "未装备",
     "Tooltip_item_Temperature": "温度",
     "Tooltip_item_Fatigue": "疲劳",
     "Tooltip_item_TaintedWater": "脏水. 直接饮用不安全. <br>请煮沸.",
