@@ -47,6 +47,7 @@ function ISRichTextPanel:paginate()
 		end
 	end
 	local maxLineWidth = self.maxLineWidth or (self.width - self.marginRight - self.marginLeft)
+	local token_flag_3 = false
 	-- Always go through at least once.
 	while not bDone do
 		cur = string.find(leftText, " ", cur+1);
@@ -95,8 +96,14 @@ function ISRichTextPanel:paginate()
 				elseif string.trim(token) ~= '' then
 					if #token == 3 then
 						chunkText = chunkText..''..string.trim(token);
+						token_flag_3 = true;
 					else
-						chunkText = chunkText..' '..string.trim(token);
+						if token_flag_3 == false then
+							chunkText = chunkText..' '..string.trim(token);
+						else
+							chunkText = chunkText..''..string.trim(token);
+						end
+						token_flag_3 = false;
 					end
 				end
 				--the code snippet above is changed for localization of zh-Hans.
@@ -167,5 +174,5 @@ function ISRichTextPanel:paginate()
 	self:setScrollHeight(self.marginTop + y + self.marginBottom);
 end
 
--- As 1 & ROBOLUTION --
+-- As 1 --
 -- Available in B42.18.2 --
