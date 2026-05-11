@@ -222,9 +222,9 @@
     "SurvivalGuide_activate_pvp_title": " 启 动 PVP 模 式 ",
     "SurvivalGuide_activate_pvp_description": " 点 击 %1 可 以 开 关 PvP 模 式 . <LINE> PvP 打 开 时 , 骷 髅 头 会 显 示 在 用 户 名 旁 边 . <LINE> 两 个 关 闭 PvP 的 玩 家 无 法 相 互 攻 击 , 但 开 了 PvP 的 玩 家 可 以 攻 击 到 任 何 人 .",
     "SurvivalGuide_faction_menu_title": " 建 立 阵 营 ",
-    "SurvivalGuide_faction_menu_description": " 点 击 %1, 然 后 创 建 派 系 , 这 样 就 得 到 了 一 个 邀 请 制 的 , 有 私 人 聊 天 的 小 团 体 . <LINE> 可 以 禁 用 派 系 内 部 的 PvP 模 式 , 派 系 成 员 还 可 以 分 享 地 图 . <LINE> 注 意 : 派 系 成 员 不 一 定 要 共 享 安 全 屋 , 共 享 安 全 屋 可 以 在 安 全 屋 菜 单 中 进 行 .",
+    "SurvivalGuide_faction_menu_description": " 点 击 %1, 然 后 创 建 阵 营 , 这 样 就 得 到 了 一 个 邀 请 制 的 , 有 私 人 聊 天 的 小 团 体 . <LINE> 可 以 禁 用 阵 营 内 部 的 PvP 模 式 , 阵 营 成 员 还 可 以 分 享 地 图 . <LINE> 注 意 : 阵 营 成 员 不 一 定 要 共 享 安 全 屋 , 共 享 安 全 屋 可 以 在 安 全 屋 菜 单 中 进 行 .",
     "SurvivalGuide_multiplayer_chat_title": " 使 用 聊 天 栏 ",
-    "SurvivalGuide_multiplayer_chat_description": " 按 %1 可 以 在 聊 天 中 打 字 . 聊 天 可 以 用 命 令 进 行 : /all ( 全 局 聊 天 , 不 会 吸 引 僵 尸 ), /say 或 者 /s ( 本 地 聊 天 ), /whisper 或 者 /w 后 面 跟 着 用 户 名 ( 私 聊 ), <LINE> /yell 或 者 /y ( 大 喊 ), /safehouse 或 者 /sh ( 安 全 屋 成 员 ), /faction 或 者 /f ( 派 系 成 员 ), <LINE> /admin 或 者 /a ( 管 理 员 聊 天 ), /r 或 者 /radio ( 使 用 装 备 的 无 线 电 发 消 息 ).",
+    "SurvivalGuide_multiplayer_chat_description": " 按 %1 可 以 在 聊 天 中 打 字 . 聊 天 可 以 用 命 令 进 行 : /all ( 全 局 聊 天 , 不 会 吸 引 僵 尸 ), /say 或 者 /s ( 本 地 聊 天 ), /whisper 或 者 /w 后 面 跟 着 用 户 名 ( 私 聊 ), <LINE> /yell 或 者 /y ( 大 喊 ), /safehouse 或 者 /sh ( 安 全 屋 成 员 ), /faction 或 者 /f ( 阵 营 成 员 ), <LINE> /admin 或 者 /a ( 管 理 员 聊 天 ), /r 或 者 /radio ( 使 用 装 备 的 无 线 电 发 消 息 ).",
     "SurvivalGuide_multiplayer_chat_description_joypad": "<IGNORE>",
     "SurvivalGuide_medical_check_title": " 医 疗 检 查 ",
     "SurvivalGuide_medical_check_description": " 对 着 玩 家 使 用 %1 并 选 择 相 应 选 项 即 可 进 行 医 疗 检 查 . <LINE> 在 这 里 , 你 可 以 给 其 他 玩 家 实 施 急 救 - 或 者 检 查 其 他 人 有 没 有 被 咬 到 ."
