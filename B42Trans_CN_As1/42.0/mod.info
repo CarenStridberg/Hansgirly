@@ -1,7 +1,6 @@
 name=[B42]统一中文汉化 (正式版)
 poster=poster.png
 id=B42Trans_CN
-description=该版本为游戏汉化 (正式版)，与英文版本内容一致
+description=该版本为游戏汉化 (正式版), 与英文版本内容一致
 author=如一组 (As1)
 icon=CN.png
-incompatible=\B42Trans_CN_Simple
