@@ -956,7 +956,7 @@
     "Sandbox_SeeNotLearntRecipe": "查看未知配方",
     "Sandbox_SeeNotLearntRecipe_tooltip": "如果开启, 即便没有阅读相关配方杂志, 你也能查看可以制作的任何配方.",
     "Sandbox_AnimalMatingSeason": "繁殖季节",
-    "Sandbox_AnimalMatingSeason_tooltip": "如果动物有繁殖季节, 它们是否会遵守. \\n否则, 它们可以全年繁殖/产卵.",
+    "Sandbox_AnimalMatingSeason_tooltip": "开启后, 动物只会在繁殖季节交配. \\n否则, 它们可以全年繁殖/产卵.",
     "Sandbox_MaximumRatIndex": "最大害虫指数",
     "Sandbox_MaximumRatIndex_tooltip": "例如, 受感染建筑物中老鼠的频率和强度.",
     "Sandbox_DaysUntilMaximumRatIndex": "达到最大害虫指数的天数",

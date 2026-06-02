@@ -36,7 +36,7 @@
 
     "credits_role_group.quality_assurance": "质量保证",
     "credits_role.lead_qa_tis": "首席质量保证",
-    "credits_role.quality_assurance_manager": "质量保证经理",
+    "credits_role.senior_qa": "高级质量测试员",
     "credits_role.quality_assurance_testers": "质量测试",
 
     "credits_role_group.administration": "管理团队",
@@ -45,12 +45,11 @@
     "credits_role.junior_system_administrator": "初级系统管理员",
     "credits_role.backup_sysadmin": "后备系统管理员",
     "credits_role.tech_support": "技术支持",
+    "credits_role.localisation_lead": "本地化领导人",
     "credits_role.community_managers": "社区经理",
     "credits_role.community_moderators": "社区版主",
-    "credits_role.website_maintenance": "网站维护",
     "credits_role.operations_manager": "运营经理",
     "credits_role.finance": "财务",
-    "credits_role.titles": "头衔",
 
     "credits_role_group.tea": "The Tea Division",
     "credits_role.director": "总监",
