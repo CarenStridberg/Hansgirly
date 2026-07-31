@@ -1,6 +1,5 @@
 {
 	"Base.CoffeeMachine": "咖啡机",
-	"Base.GlassChampagne": "香槟杯",
 	"Base.HotDrinkTumbler": "饮料",
 	"Base.HotDrinkSilver": "饮料",
 	"Base.HotDrinkGold": "饮料",
@@ -1722,6 +1721,7 @@
     "Base.GlassBlowingPipeUnfired": "玻璃吹管 (未烧制)",
     "Base.GlassPanel": "玻璃板",
     "Base.GlassShiv": "玻璃匕首",
+    "Base.GlassChampagne": "香槟杯",
     "Base.GlassTumbler": "玻璃杯",
     "Base.GlassWine": "红酒杯",
     "Base.Glasses": "反光太阳镜",
@@ -3071,7 +3071,7 @@
     "Base.Mov_SmallGreenCurtain": "绿色小窗帘",
     "Base.Mov_SmallPearlCurtain": "珍珠色小窗帘",
     "Base.Mov_SmallPineCabinet": "小型松木橱柜",
-    "Base.Mov_SmallTable": "小抽屉桌",
+    "Base.Mov_SmallTable": "小桂木抽屉桌",
     "Base.Mov_SmallWhiteCurtain": "白色小窗帘",
     "Base.Mov_SnackVendingMachine": "自动零食贩卖机",
     "Base.Mov_SnakePlant": "虎尾兰",
@@ -4957,5 +4957,5 @@
     "Base.x2Scope": "瞄准镜 (2 倍)",
     "Base.x4Scope": "瞄准镜 (4 倍)",
     "Base.x8Scope": "瞄准镜 (8 倍)",
-    "Moveables.Moveable": "可移动物",
+    "Moveables.Moveable": "可移动物品",
 }

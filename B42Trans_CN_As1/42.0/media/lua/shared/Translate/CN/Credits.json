@@ -10,7 +10,6 @@
     "credits_role.design_director": "设计总监",
 
     "credits_role_group.music_by": "原声带作曲",
-    "credits_role.music_originally_composed_by": "",
 
     "credits_role_group.programming_team": "编程团队",
     "credits_role.lead_gameplay_programmer": "首席游戏程序员",
@@ -32,7 +31,6 @@
     "credits_role.writer": "写手",
 
     "credits_role_group.research_and_development": "研发团队",
-    "credits_role.research_and_development": "",
 
     "credits_role_group.quality_assurance": "质量保证",
     "credits_role.lead_qa_tis": "首席质量保证",
@@ -46,6 +44,7 @@
     "credits_role.backup_sysadmin": "后备系统管理员",
     "credits_role.tech_support": "技术支持",
     "credits_role.localisation_lead": "本地化领导人",
+    "credits_role.lead_community_manager": "首席社区经理",
     "credits_role.community_managers": "社区经理",
     "credits_role.community_moderators": "社区版主",
     "credits_role.operations_manager": "运营经理",
@@ -76,7 +75,6 @@
     "credits_role.head_producer": "首席制作人",
 
     "credits_role_group.general_arcade": "General Arcade",
-    "credits_role.general_arcade": "",
 
     "credits_role_group.contributors": "贡献者",
     "credits_role.special_infected": "特意感染",
@@ -85,12 +83,24 @@
     "credits_role.wiki_admin": "维基管理员",
     "credits_role.wiki_editors": "维基编辑者",
 
-    "credits_role_group.localization": " 本 地 化 <LINE> <LINE> <SIZE:medium> PZ 社 区 <LINE> ( 可 在 翻 译 选 项 中 查 看 对 应 的 翻 译 团 队 致 谢 )",
-    "credits_role.localization": "",
+    "credits_role_group.localization": "社区本地化",
+    "credits_role_group.tmg": "TMG 本地化团队",
+    "credits_role.tmg_ua": "乌克兰语",
+    "credits_role.tmg_pt": "葡萄牙语 (葡)",
+    "credits_role.tmg_pl": "波兰语",
+    "credits_role.tmg_no": "挪威语",
+    "credits_role.tmg_nl": "荷兰语",
+    "credits_role.tmg_ko": "汉语",
+    "credits_role.tmg_it": "意大利语",
+    "credits_role.tmg_hu": "匈牙利语",
+    "credits_role.tmg_fi": "芬兰语",
+    "credits_role.tmg_de": "德语",
+    "credits_role.tmg_da": "丹麦语",
+    "credits_role.tmg_ch": "繁体中文",
+    "credits_role.tmg_cn": "简体中文",
 
     "credits_role_group.tools": " <SIZE:credits2> Tools <SIZE:medium> <LINE> <LINE> 音 频 引 擎 : FMOD Studio by Firelight Technologies <LINE> <LINE> <IMAGECENTRE:media/ui/Logos/FMOD_credits.png> <LINE> <LINE> <LINE> 使 用 了 Bink Video. Copyright (C) 1997-2026 by Epic Games Tools LLC <LINE> <LINE> <IMAGECENTRE:media/ui/Logos/Bink_credits.png>",
 
     "credits_role_group.in_loving_memory_of": " 谨 以 此 怀 念 … <LINE> ",
-    "credits_role.in_loving_memory_of": ""
-
+    "credits_spiffos_url": "WWW.SPIFFOS.COM"
 }

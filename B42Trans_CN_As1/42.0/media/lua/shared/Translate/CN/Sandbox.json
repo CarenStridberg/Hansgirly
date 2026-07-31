@@ -289,7 +289,7 @@
     "Sandbox_LootMedical_tooltip": "医疗物品, 例如绷带.",
     "Sandbox_LootFood": "非罐头食物",
     "Sandbox_LootFood_tooltip": "易腐烂的食物, 例如蔬菜.",
-    "Sandbox_LootLiterature": "文献书籍",
+    "Sandbox_LootLiterature": "读物",
     "Sandbox_LootLiterature_tooltip": "可阅读的文学作品.",
     "Sandbox_LootCannedFood": "罐头食物",
     "Sandbox_LootCannedFood_tooltip": "不易腐烂的食物, 例如罐头食品.",
@@ -600,6 +600,7 @@
     "Sandbox_RallyGroupRadius": "群体半径",
     "Sandbox_ZombiesCountBeforeDelete": "删除前的僵尸数量",
     "Sandbox_ZombiesCountBeforeDelete_tooltip": "特定区域内允许存在的最大僵尸数量",
+    "Sandbox_ZombiesCountBeforeDelete_help": "控制清理前系统追踪的僵尸最大数量. 0代表不会自动清理僵尸.\\n强烈推荐使用默认值 300. 调高该数值或设为 0 可能引发严重性能问题.\\n如需排查故障或提交 bug 反馈, 请先使用默认参数复现问题后再提交报告.",
     "Sandbox_PopulationMultiplier_help": "由\"僵尸数量\"设定的僵尸数量选项. \\n疯狂=2.5, 非常多=1.6, 多=1.2, 普通=0.65, 少=0.15, 没有=0.0.",
     "Sandbox_PopulationStartMultiplier_help": "调整游戏开局时想要的僵尸密度. \\n疯狂=3.0, 非常多=2.0, 多=1.5, 普通=1.0, 少=0.5, 没有=0.0.",
     "Sandbox_PopulationPeakMultiplier_help": "调整在峰值日时想要的僵尸密度. \\n疯狂=3.0, 非常多=2.0, 多=1.5, 普通=1.0, 少=0.5, 没有=0.0.",
@@ -1101,4 +1102,6 @@
     "Sandbox_FogCycle_option3": "无尽雾气",
     "Sandbox_UniqueHomeVHS": "唯一家庭录像带",
     "Sandbox_UniqueHomeVHS_tooltip": "启用时, 每种家庭录像带通常仅会生成一份副本.",
+    "Sandbox_WaterShutModifier": "停水调整",
+    "Sandbox_ElecShutModifier": "停电调整"
 }
