@@ -10,6 +10,9 @@ end
 function MapLabelEdit.applyChanges()
     if not ISWorldMap_instance then
         ISWorldMap.ShowWorldMap(0)
+        if not ISWorldMap_instance then
+            return
+        end
         ISWorldMap_instance:close()
     end
 
@@ -43,3 +46,6 @@ function MapLabelEdit.applyChanges()
 end
 
 Events.OnGameStart.Add(MapLabelEdit.applyChanges)
+
+-- As 1 --
+-- Available in B42.20 --
