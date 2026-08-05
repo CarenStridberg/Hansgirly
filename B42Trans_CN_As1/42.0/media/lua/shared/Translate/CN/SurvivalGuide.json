@@ -172,7 +172,7 @@
     "SurvivalGuide_sow_seeds_description": " 可 以 通 过 使 用 %1 在 犁 沟 中 播 种 . <LINE> 你 可 以 随 后 使 用 %1 或 %2 查 看 植 物 的 信 息 面 板 . <LINE> 要 留 意 当 前 的 季 节 和 作 物 的 需 求 哦 .",
     "SurvivalGuide_sow_seeds_description_joypad": " 可 以 通 过 使 用 %1 在 犁 沟 中 播 种 . <LINE> 你 可 以 随 后 使 用 %1 查 看 植 物 的 信 息 面 板 . <LINE> 要 留 意 当 前 的 季 节 和 作 物 的 需 求 哦 .",
     "SurvivalGuide_harvesting_title": "收获",
-    "SurvivalGuide_harvesting_description": " 艰 苦 的 工 作 都 干 完 了 k? 现 在 是 时 候 收 获 了 ! 在 植 物 上 按 下 %1 使 用 \" 收 获 \" 选 项 . <LINE> 农 业 技 能 等 级 越 高 , 收 获 的 作 物 就 越 多 .",
+    "SurvivalGuide_harvesting_description": " 艰 苦 的 工 作 都 干 完 了 ? 现 在 是 时 候 收 获 了 ! 在 植 物 上 按 下 %1 使 用 \" 收 获 \" 选 项 . <LINE> 农 业 技 能 等 级 越 高 , 收 获 的 作 物 就 越 多 .",
     "SurvivalGuide_ranching_title": "畜牧",
     "SurvivalGuide_ranching_description": " <LINE> <IMAGECENTRE:media/ui/survival_guide_spiffo/spiffo_ranching.png> ",
     "SurvivalGuide_ranching_category_image": "media/ui/survival_guide_spiffo/category_ranching.png",

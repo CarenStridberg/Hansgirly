@@ -2725,7 +2725,7 @@
             <point x="4015.0" y="12753.0"/>
         </points>
     </street>
-    <street name="河步道" width="6">
+    <street name="河滨步道" width="6">
         <points>
             <point x="7417.5" y="6168.5"/>
             <point x="7423.0" y="6175.0"/>
@@ -2820,7 +2820,7 @@
             <point x="10620.0" y="6925.0"/>
         </points>
     </street>
-    <street name="河步道" width="6">
+    <street name="河滨步道" width="6">
         <points>
             <point x="10366.0" y="6928.0"/>
             <point x="10860.0" y="6928.0"/>
