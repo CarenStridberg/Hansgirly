@@ -274,7 +274,7 @@
     "Tooltip_Charcoal_Progression": "木炭进度",
     "Tooltip_Wetness": "湿度",
     "Tooltip_MotionSensor": "由移动触发的组件. <br>与简易装置一起使用以制造诱杀装置. <br>需要懂得配方和电工技能.",
-    "Tooltip_Receiver": "简易遥控炸弹. <br>通过远程遥控器触发. <br>需要懂得配方和电工技能.",
+    "Tooltip_Receiver": "简易遥控炸弹. <br>通过远程控制器触发. <br>需要懂得配方和电工技能.",
     "Tooltip_CraftedTimer": "简易放置型定时触发器. <br>需要懂得配方和电工技能.",
     "Tooltip_RemoteController": "简易远程炸弹引爆和陷阱激活装置. <br>需要懂得配方和电工技能.",
     "Tooltip_SutureNeedle": "可用于治疗较深的伤口.",
