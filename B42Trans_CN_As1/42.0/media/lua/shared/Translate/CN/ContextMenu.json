@@ -463,6 +463,7 @@
     "ContextMenu_CraftBatConnector": "制作电池连接器",
     "ContextMenu_AddBattery": "安装电池",
     "ContextMenu_AddLightbulb": "安装灯泡",
+    "ContextMenu_AddLightbulb_RequiresBulb": "需要灯泡.",
     "ContextMenu_RemoveLightbulb": "拆除灯泡",
     "ContextMenu_DamagedHands": "你的手伤得太厉害了.",
     "ContextMenu_Blacksmith": "锻造",

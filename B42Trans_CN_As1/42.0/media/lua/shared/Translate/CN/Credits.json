@@ -101,6 +101,20 @@
 
     "credits_role_group.tools": " <SIZE:credits2> Tools <SIZE:medium> <LINE> <LINE> 音 频 引 擎 : FMOD Studio by Firelight Technologies <LINE> <LINE> <IMAGECENTRE:media/ui/Logos/FMOD_credits.png> <LINE> <LINE> <LINE> 使 用 了 Bink Video. Copyright (C) 1997-2026 by Epic Games Tools LLC <LINE> <LINE> <IMAGECENTRE:media/ui/Logos/Bink_credits.png>",
 
+    "credits_role_group.uss": "放眼寰宇",
+    "credits_role.head_fqa": "工作室品质保证",
+    "credits_role.qa_project_manager": "质量保证项目经理",
+    "credits_role.lead_qa_uss": "QA 团队领导",
+    "credits_role.senior_qa_technicians": "高级质量技术员",
+    "credits_role.qa_technicians": "质量技术员",
+    "credits_role.additional_support": "其他支持",
+
     "credits_role_group.in_loving_memory_of": " 谨 以 此 怀 念 … <LINE> ",
-    "credits_spiffos_url": "WWW.SPIFFOS.COM"
+    "credits_spiffos_url": "WWW.SPIFFOS.COM",
+
+    "credits_role.music_originally_composed_by": "",
+    "credits_role.research_and_development": "",
+    "credits_role.general_arcade": "",
+    "credits_role.localization": "As1 Project",
+    "credits_role.in_loving_memory_of": ""
 }
