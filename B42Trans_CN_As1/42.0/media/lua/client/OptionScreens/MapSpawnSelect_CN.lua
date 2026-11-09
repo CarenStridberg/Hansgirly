@@ -14,7 +14,7 @@ function MapSpawnSelect:_fillList()
 	for _,v in ipairs(regions) do
 		local info = getMapInfo(v.name)
 		if info then
-            if not info.only_for_game_mode or GameMode.get(ResourceLocation.of(getCore():getGameMode())) == info.only_for_game_mode then
+            if not info.only_for_game_mode or getCore():getGameMode() == info.only_for_game_mode then
                 local item = {};
                 item.name = info.title or "NO TITLE";
                 item.region = v;
