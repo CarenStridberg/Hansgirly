@@ -5,9 +5,9 @@ MainScreen.startTutorial = function()
         getCore():ResetLua("currentGame", "startTutorial")
     end
 
-    deleteAllGameModeSaves("Tutorial");
+    deleteAllGameModeSaves(GameMode.TUTORIAL);
     MainScreen.instance:setDefaultSandboxVars()
-    getWorld():setGameMode("Tutorial");
+    getWorld():setGameMode(GameMode.TUTORIAL);
     local worldName = ZombRand(100000)..ZombRand(100000)..ZombRand(100000)..ZombRand(100000);
     getWorld():setWorld(worldName);
     doTutorial(Tutorial1);
